@@ -1,0 +1,100 @@
+Introduction to Java Spring Framework
+Mastering Spring Security
+Building RESTful APIs with Spring Boot
+Getting started with Spring Data JPA
+Securing Spring applications with OAuth2
+Implementing caching in Spring using Redis
+Creating a microservices architecture with Spring Cloud
+Advanced dependency injection in Spring
+Building reactive web applications with Spring WebFlux
+Implementing login authentication in Spring using JWT
+Working with Spring MVC for web application development
+Integrating Spring with AngularJS for front-end development
+Building real-time applications with Spring WebSocket
+Implementing OAuth2 authentication in Spring Boot
+Testing Spring applications with JUnit and Mockito
+Achieving high availability with Spring Boot Actuator
+Handling errors and exceptions in Spring applications
+Implementing task scheduling in Spring using Cron expressions
+Building a chat application with Spring and WebSocket
+Deploying Spring applications to Docker containers
+Integrating Spring with MongoDB for database management
+Implementing internationalization in Spring applications
+Building a blogging platform with Spring Boot
+Securing Spring applications with Spring Security
+Implementing file uploads in Spring MVC
+Designing a multi-tenant architecture with Spring
+Building a social network application with Spring
+Integrating Spring with Elasticsearch for search functionality
+Implementing batch processing with Spring Batch
+Working with Spring AMQP for messaging applications
+Building a real-time dashboard with Spring and WebSocket
+Implementing JWT authentication in Spring Security
+Optimizing Spring applications for performance
+Building a shopping cart application with Spring MVC
+Integrating Spring with Apache Kafka for messaging
+Implementing transaction management in Spring
+Building a video streaming service with Spring Boot
+Working with Spring Cloud Config for centralized configuration
+Implementing rate limiting in Spring applications
+Building a RESTful API documentation with Springfox
+Integrating Spring with Amazon S3 for file storage
+Implementing social login with Spring and OAuth2
+Building a real-time collaboration tool with Spring and WebSocket
+Working with Spring Cloud Stream for event-driven applications
+Implementing GraphQL with Spring Boot
+Building a job board application with Spring MVC
+Integrating Spring with Apache Cassandra for database management
+Implementing distributed tracing in Spring applications
+Building a location-based service with Spring Boot
+Working with Spring Cloud Gateway for API gateway functionality
+Implementing event sourcing with Spring Boot
+Building a forum application with Spring MVC
+Integrating Spring with Apache Solr for search functionality
+Implementing distributed caching with Spring Boot and Hazelcast
+Building a recommendation engine with Spring and Apache Mahout
+Working with Spring Cloud Sleuth for distributed tracing
+Implementing serverless functions with Spring Cloud Function
+Building a travel booking application with Spring Boot
+Integrating Spring with Apache Hadoop for big data processing
+Implementing log aggregation with Spring Boot and ELK stack
+Building a music streaming service with Spring MVC
+Working with Spring Cloud Stream for messaging microservices
+Implementing real-time notifications with Spring and WebSocket
+Building a food delivery application with Spring Boot
+Integrating Spring with Apache Spark for data processing
+Implementing request throttling in Spring applications
+Building a photo-sharing application with Spring MVC
+Working with Spring Cloud Config Server for configuration management
+Implementing event-driven architecture with Spring Cloud Stream
+Building a ride-sharing application with Spring Boot
+Integrating Spring with Apache Kafka Streams for stream processing
+Implementing distributed locking in Spring applications
+Building a social media analytics platform with Spring MVC
+Working with Spring Cloud Data Flow for data integration
+Implementing circuit breaking with Spring Boot and Netflix Hystrix
+Building an e-commerce application with Spring Boot
+Integrating Spring with Apache Flink for stream processing
+Implementing distributed tracing with Spring Cloud Sleuth
+Building a healthcare appointment scheduling system with Spring MVC
+Working with Spring Cloud Config Client for dynamic configuration
+Implementing event-driven microservices with Spring Cloud Stream
+Building a ride-hailing application with Spring Boot
+Integrating Spring with Apache Kafka Connect for data pipelines
+Implementing distributed caching with Spring Boot and Memcached
+Building a social media listening platform with Spring MVC
+Working with Spring Cloud Task for batch processing
+Implementing API rate limiting with Spring Boot and Redis
+Building an online marketplace with Spring Boot
+Integrating Spring with Apache Beam for data processing
+Implementing request logging with Spring Boot and ELK stack
+Building a ticket booking system with Spring MVC
+Working with Spring Cloud Gateway for service discovery
+Implementing event sourcing with Spring Cloud Stream
+Building a car rental application with Spring Boot
+Integrating Spring with Apache Pulsar for event-driven messaging
+Implementing distributed caching with Spring Boot and Redisson
+Building a customer relationship management system with Spring MVC
+Working with Spring Cloud Task for data import/export
+Implementing API rate limiting with Spring Boot and RateLimit4j
+Building a property rental platform with Spring Boot
