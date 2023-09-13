@@ -38,6 +38,7 @@ Java also offers several libraries for scientific computing that facilitate comp
 Here is an example of matrix multiplication using NumJava:
 
 ```java
+{% raw %}
 import org.numjava.core.array.DoubleArray;
 import org.numjava.core.array.FloatArray;
 import org.numjava.core.matrix.Matrices;
@@ -48,6 +49,7 @@ DoubleArray matrix2 = Matrices.create(new double[][]{{5, 6}, {7, 8}});
 DoubleArray result = matrix1.dot(matrix2);
 
 System.out.println(result);
+{% endraw %}
 ```
 
 **JScience** is another noteworthy Java library for scientific computing. It provides extensive support for working with physical quantities, units, and measurements. JScience enables developers to perform unit conversions, dimensional analysis, and mathematical operations while ensuring dimensional consistency.
