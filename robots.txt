@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://colinchjava.github.io/sitemap.xml
+Sitemap: https://colinchflutter.github.io/sitemap.xml
