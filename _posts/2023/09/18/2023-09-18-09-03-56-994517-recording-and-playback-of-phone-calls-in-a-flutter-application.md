@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of phone calls in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [Flutter, PhoneCalls]
+tags: [PhoneCalls]
 comments: true
 share: true
 ---

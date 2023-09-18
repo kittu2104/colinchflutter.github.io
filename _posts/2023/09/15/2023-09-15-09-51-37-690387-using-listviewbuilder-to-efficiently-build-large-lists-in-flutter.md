@@ -3,7 +3,7 @@ layout: post
 title: "Using ListView.builder to efficiently build large lists in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview, performance]
+tags: [listview, performance]
 comments: true
 share: true
 ---

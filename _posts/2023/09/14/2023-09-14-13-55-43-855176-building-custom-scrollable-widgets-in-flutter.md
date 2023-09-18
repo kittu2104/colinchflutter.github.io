@@ -3,7 +3,7 @@ layout: post
 title: "Building custom scrollable widgets in Flutter"
 description: " "
 date: 2023-09-14
-tags: [flutter, customscrolling]
+tags: [customscrolling]
 comments: true
 share: true
 ---

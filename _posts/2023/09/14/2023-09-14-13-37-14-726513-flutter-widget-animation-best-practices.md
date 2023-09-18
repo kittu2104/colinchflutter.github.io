@@ -3,7 +3,7 @@ layout: post
 title: "Flutter widget animation best practices"
 description: " "
 date: 2023-09-14
-tags: [Flutter, Animation]
+tags: [Animation]
 comments: true
 share: true
 ---

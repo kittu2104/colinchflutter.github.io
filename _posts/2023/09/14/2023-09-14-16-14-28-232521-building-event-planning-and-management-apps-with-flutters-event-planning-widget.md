@@ -3,7 +3,7 @@ layout: post
 title: "Building event planning and management apps with Flutter's event planning widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, eventplanning, appdevelopment]
+tags: [eventplanning, appdevelopment]
 comments: true
 share: true
 ---

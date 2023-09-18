@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio-based navigation and augmented reality audio in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

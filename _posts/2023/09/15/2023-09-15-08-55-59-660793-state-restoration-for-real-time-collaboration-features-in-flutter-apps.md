@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for real-time collaboration features in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, RealTimeCollaboration]
+tags: [StateRestoration, RealTimeCollaboration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Improving app reliability through platform-specific error handling in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

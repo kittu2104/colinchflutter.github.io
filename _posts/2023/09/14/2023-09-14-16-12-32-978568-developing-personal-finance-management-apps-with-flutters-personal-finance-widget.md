@@ -3,7 +3,7 @@ layout: post
 title: "Developing personal finance management apps with Flutter's personal finance widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, PersonalFinanceManagement, AppDevelopment]
+tags: [PersonalFinanceManagement, AppDevelopment]
 comments: true
 share: true
 ---

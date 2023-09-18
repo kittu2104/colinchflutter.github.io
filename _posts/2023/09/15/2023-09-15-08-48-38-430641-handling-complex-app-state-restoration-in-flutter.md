@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex app state restoration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, state]
+tags: [state]
 comments: true
 share: true
 ---

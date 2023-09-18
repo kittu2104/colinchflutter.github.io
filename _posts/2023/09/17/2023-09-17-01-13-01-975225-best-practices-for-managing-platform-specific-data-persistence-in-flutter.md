@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for managing platform-specific data persistence in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, dataPersistence]
+tags: [dataPersistence]
 comments: true
 share: true
 ---

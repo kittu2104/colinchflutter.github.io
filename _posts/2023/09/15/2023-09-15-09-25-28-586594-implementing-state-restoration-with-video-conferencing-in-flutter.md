@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with video conferencing in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, videoconferencing]
+tags: [videoconferencing]
 comments: true
 share: true
 ---

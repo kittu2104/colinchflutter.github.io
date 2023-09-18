@@ -3,7 +3,7 @@ layout: post
 title: "Building a sound meter app with audio level monitoring and visualization in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, soundmeter]
+tags: [soundmeter]
 comments: true
 share: true
 ---

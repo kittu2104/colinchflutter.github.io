@@ -3,7 +3,7 @@ layout: post
 title: "Building a MIDI controller app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, MIDI]
+tags: [MIDI]
 comments: true
 share: true
 ---

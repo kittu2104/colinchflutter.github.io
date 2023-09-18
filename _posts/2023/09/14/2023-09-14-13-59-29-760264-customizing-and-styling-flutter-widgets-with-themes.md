@@ -3,7 +3,7 @@ layout: post
 title: "Customizing and styling Flutter widgets with themes"
 description: " "
 date: 2023-09-14
-tags: [flutter, theming]
+tags: [theming]
 comments: true
 share: true
 ---

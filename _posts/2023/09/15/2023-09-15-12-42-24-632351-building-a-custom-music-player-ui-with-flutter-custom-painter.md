@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom music player UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, customui]
+tags: [customui]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ListView with animated item reordering in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListReordering]
+tags: [ListReordering]
 comments: true
 share: true
 ---

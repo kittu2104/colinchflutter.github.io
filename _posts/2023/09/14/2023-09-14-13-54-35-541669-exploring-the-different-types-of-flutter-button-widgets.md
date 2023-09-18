@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the different types of Flutter button widgets"
 description: " "
 date: 2023-09-14
-tags: [Flutter, ButtonWidgets]
+tags: [ButtonWidgets]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom photo gallery with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, custom]
+tags: [custom]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with NFC in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration]
+tags: [StateRestoration]
 comments: true
 share: true
 ---

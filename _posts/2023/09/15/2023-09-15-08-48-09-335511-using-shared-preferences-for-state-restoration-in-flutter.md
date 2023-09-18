@@ -3,7 +3,7 @@ layout: post
 title: "Using shared preferences for state restoration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, staterestoration]
+tags: [staterestoration]
 comments: true
 share: true
 ---

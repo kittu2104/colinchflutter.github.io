@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of audio notes in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document signing and verification with Flutter's document signing widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, document, document]
+tags: [document, document]
 comments: true
 share: true
 ---

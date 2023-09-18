@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing platform channels in Flutter for seamless integration."
 description: " "
 date: 2023-09-17
-tags: [flutter, platformchannels]
+tags: [platformchannels]
 comments: true
 share: true
 ---

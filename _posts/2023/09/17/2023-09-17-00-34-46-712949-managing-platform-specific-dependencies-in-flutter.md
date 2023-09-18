@@ -3,7 +3,7 @@ layout: post
 title: "Managing platform-specific dependencies in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, dependencies]
+tags: [dependencies]
 comments: true
 share: true
 ---

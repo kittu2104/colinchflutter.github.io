@@ -3,7 +3,7 @@ layout: post
 title: "Best strategies for handling third-party library state restoration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, stateRestoration]
+tags: [stateRestoration]
 comments: true
 share: true
 ---

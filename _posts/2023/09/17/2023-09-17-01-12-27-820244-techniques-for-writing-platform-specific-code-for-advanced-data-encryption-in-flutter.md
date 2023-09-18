@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code for advanced data encryption in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, encryption]
+tags: [encryption]
 comments: true
 share: true
 ---

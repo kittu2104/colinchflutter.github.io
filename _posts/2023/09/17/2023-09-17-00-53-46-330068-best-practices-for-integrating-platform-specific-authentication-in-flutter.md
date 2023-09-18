@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for integrating platform-specific authentication in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

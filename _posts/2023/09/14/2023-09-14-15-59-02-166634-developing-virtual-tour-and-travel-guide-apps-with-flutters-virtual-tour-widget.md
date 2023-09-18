@@ -3,7 +3,7 @@ layout: post
 title: "Developing virtual tour and travel guide apps with Flutter's virtual tour widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, VirtualTourWidget]
+tags: [VirtualTourWidget]
 comments: true
 share: true
 ---

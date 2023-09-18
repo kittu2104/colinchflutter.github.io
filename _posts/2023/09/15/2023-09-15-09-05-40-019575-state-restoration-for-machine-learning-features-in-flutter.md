@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for machine learning features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

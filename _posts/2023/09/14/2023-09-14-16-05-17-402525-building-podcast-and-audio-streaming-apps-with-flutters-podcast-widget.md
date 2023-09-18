@@ -3,7 +3,7 @@ layout: post
 title: "Building podcast and audio streaming apps with Flutter's podcast widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, podcast, audio, appdevelopment, flutterwidgets]
+tags: [podcast, audio, appdevelopment, flutterwidgets]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing navigation and routing with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, navigation]
+tags: [navigation]
 comments: true
 share: true
 ---

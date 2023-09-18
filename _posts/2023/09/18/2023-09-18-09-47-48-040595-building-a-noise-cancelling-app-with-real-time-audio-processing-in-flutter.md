@@ -3,7 +3,7 @@ layout: post
 title: "Building a noise-cancelling app with real-time audio processing in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioprocessing]
+tags: [audioprocessing]
 comments: true
 share: true
 ---

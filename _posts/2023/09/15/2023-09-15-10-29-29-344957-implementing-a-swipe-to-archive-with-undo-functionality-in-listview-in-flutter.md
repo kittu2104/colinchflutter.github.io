@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a swipe-to-archive with undo functionality in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, ListView, SwipeToArchive, Undo]
+tags: [ListView, SwipeToArchive, Undo]
 comments: true
 share: true
 ---

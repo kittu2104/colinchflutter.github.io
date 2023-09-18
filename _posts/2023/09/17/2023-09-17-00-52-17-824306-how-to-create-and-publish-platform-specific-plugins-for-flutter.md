@@ -3,7 +3,7 @@ layout: post
 title: "How to create and publish platform-specific plugins for Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, FlutterPlugins]
+tags: [FlutterPlugins]
 comments: true
 share: true
 ---

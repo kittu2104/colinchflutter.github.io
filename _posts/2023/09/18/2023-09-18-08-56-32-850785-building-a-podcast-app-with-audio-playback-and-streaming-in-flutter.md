@@ -3,7 +3,7 @@ layout: post
 title: "Building a podcast app with audio playback and streaming in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, podcastapp]
+tags: [podcastapp]
 comments: true
 share: true
 ---

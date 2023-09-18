@@ -3,7 +3,7 @@ layout: post
 title: "Testing state restoration in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, stateRestoration]
+tags: [stateRestoration]
 comments: true
 share: true
 ---

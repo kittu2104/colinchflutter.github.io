@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for integrating platform-specific augmented reality functionalities in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

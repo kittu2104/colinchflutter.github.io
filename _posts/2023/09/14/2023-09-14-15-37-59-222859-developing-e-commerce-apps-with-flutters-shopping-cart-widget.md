@@ -3,7 +3,7 @@ layout: post
 title: "Developing e-commerce apps with Flutter's shopping cart widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, ecommerce, shoppingcart, appdevelopment]
+tags: [ecommerce, shoppingcart, appdevelopment]
 comments: true
 share: true
 ---

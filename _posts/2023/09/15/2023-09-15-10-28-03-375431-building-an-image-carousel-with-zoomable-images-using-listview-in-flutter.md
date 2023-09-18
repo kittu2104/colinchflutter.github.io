@@ -3,7 +3,7 @@ layout: post
 title: "Building an image carousel with zoomable images using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, imagecarousel]
+tags: [imagecarousel]
 comments: true
 share: true
 ---

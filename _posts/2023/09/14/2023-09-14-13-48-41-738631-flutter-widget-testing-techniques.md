@@ -3,7 +3,7 @@ layout: post
 title: "Flutter widget testing techniques"
 description: " "
 date: 2023-09-14
-tags: [flutter, widgettesting]
+tags: [widgettesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's speech recognition widget for voice control"
 description: " "
 date: 2023-09-14
-tags: [Flutter, VoiceControl]
+tags: [VoiceControl]
 comments: true
 share: true
 ---

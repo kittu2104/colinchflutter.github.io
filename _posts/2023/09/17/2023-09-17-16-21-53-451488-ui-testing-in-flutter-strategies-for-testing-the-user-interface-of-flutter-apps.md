@@ -3,7 +3,7 @@ layout: post
 title: "UI testing in Flutter: Strategies for testing the user interface of Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, UITesting]
+tags: [UITesting]
 comments: true
 share: true
 ---

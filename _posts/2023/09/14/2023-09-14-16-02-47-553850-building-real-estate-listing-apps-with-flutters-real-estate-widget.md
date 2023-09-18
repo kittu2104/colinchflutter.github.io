@@ -3,7 +3,7 @@ layout: post
 title: "Building real estate listing apps with Flutter's real estate widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, realestateapp]
+tags: [realestateapp]
 comments: true
 share: true
 ---

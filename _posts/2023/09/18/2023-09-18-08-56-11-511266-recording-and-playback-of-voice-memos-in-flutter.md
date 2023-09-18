@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of voice memos in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, VoiceMemos]
+tags: [VoiceMemos]
 comments: true
 share: true
 ---

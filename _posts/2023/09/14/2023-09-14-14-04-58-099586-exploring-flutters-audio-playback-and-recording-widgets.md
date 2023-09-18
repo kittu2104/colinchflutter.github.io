@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Flutter's audio playback and recording widgets"
 description: " "
 date: 2023-09-14
-tags: [Flutter, AudioPlayback, AudioRecording]
+tags: [AudioPlayback, AudioRecording]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for real-time stock market tracking in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, MobileAppDevelopment]
+tags: [MobileAppDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Developing parking reservation apps with Flutter's parking widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, parking, reservation]
+tags: [parking, reservation]
 comments: true
 share: true
 ---

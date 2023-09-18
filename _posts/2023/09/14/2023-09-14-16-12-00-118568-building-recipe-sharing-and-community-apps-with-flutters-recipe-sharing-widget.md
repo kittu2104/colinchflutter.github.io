@@ -3,7 +3,7 @@ layout: post
 title: "Building recipe sharing and community apps with Flutter's recipe sharing widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, RecipeSharing, CommunityBuilding]
+tags: [RecipeSharing, CommunityBuilding]
 comments: true
 share: true
 ---

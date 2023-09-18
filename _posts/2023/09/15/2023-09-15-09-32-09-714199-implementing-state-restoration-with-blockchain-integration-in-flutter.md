@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with blockchain integration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, blockchain]
+tags: [blockchain]
 comments: true
 share: true
 ---

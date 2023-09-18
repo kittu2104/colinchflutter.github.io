@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for machine translation in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, machinetranslation]
+tags: [machinetranslation]
 comments: true
 share: true
 ---

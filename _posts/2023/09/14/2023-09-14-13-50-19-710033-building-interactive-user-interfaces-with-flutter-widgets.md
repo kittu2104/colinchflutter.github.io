@@ -3,7 +3,7 @@ layout: post
 title: "Building interactive user interfaces with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, widgets]
+tags: [widgets]
 comments: true
 share: true
 ---

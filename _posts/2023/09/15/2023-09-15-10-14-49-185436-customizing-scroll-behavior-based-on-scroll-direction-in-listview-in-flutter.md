@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll behavior based on scroll direction in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView, ScrollBehavior]
+tags: [ListView, ScrollBehavior]
 comments: true
 share: true
 ---

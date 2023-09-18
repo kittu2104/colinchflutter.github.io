@@ -3,7 +3,7 @@ layout: post
 title: "Building a music transcription app with audio recording and sheet music generation in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, musictranscription]
+tags: [musictranscription]
 comments: true
 share: true
 ---

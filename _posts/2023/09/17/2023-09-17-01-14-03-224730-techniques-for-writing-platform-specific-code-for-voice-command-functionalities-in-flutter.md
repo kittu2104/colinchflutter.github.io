@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code for voice command functionalities in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, voicecommands]
+tags: [voicecommands]
 comments: true
 share: true
 ---

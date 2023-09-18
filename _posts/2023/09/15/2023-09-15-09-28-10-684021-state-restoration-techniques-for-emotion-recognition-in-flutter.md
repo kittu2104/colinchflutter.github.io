@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for emotion recognition in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, emotionrecognition]
+tags: [emotionrecognition]
 comments: true
 share: true
 ---

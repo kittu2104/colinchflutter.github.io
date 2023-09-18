@@ -3,7 +3,7 @@ layout: post
 title: "Using a custom controller to handle ListView scrolling in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, CustomController]
+tags: [CustomController]
 comments: true
 share: true
 ---

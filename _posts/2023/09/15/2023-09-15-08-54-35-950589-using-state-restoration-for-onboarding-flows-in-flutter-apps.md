@@ -3,7 +3,7 @@ layout: post
 title: "Using state restoration for onboarding flows in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration]
+tags: [StateRestoration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ListView with animated item transitions in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView, Animation]
+tags: [ListView, Animation]
 comments: true
 share: true
 ---

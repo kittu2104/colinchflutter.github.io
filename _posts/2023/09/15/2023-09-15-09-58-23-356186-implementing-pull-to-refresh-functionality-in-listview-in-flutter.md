@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pull-to-refresh functionality in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, pull_to_refresh]
+tags: [pull_to_refresh]
 comments: true
 share: true
 ---

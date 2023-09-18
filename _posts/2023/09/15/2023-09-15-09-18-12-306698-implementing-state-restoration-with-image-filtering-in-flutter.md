@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with image filtering in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, ImageFiltering]
+tags: [StateRestoration, ImageFiltering]
 comments: true
 share: true
 ---

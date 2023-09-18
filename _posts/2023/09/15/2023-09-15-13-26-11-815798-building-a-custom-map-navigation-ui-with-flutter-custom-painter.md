@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom map navigation UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

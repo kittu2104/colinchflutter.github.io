@@ -3,7 +3,7 @@ layout: post
 title: "Continuous testing and deployment for Flutter apps: Integrating testing into the deployment process for faster feedback loops"
 description: " "
 date: 2023-09-17
-tags: [Flutter, ContinuousTesting, Deployment, FlutterApps]
+tags: [ContinuousTesting, Deployment, FlutterApps]
 comments: true
 share: true
 ---

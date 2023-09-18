@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific APIs for enhanced camera functionalities in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, cameraAPIs]
+tags: [cameraAPIs]
 comments: true
 share: true
 ---

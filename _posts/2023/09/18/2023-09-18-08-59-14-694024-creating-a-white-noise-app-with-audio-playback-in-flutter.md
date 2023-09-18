@@ -3,7 +3,7 @@ layout: post
 title: "Creating a white noise app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, whitenoiseapp]
+tags: [whitenoiseapp]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ListView with sliding menu actions for each item in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

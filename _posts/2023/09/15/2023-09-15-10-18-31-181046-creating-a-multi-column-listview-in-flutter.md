@@ -3,7 +3,7 @@ layout: post
 title: "Creating a multi-column ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview, multi]
+tags: [listview, multi]
 comments: true
 share: true
 ---

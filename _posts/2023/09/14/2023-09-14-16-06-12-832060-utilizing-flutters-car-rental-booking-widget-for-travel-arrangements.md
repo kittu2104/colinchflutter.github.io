@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's car rental booking widget for travel arrangements"
 description: " "
 date: 2023-09-14
-tags: [flutter, carrental, travelarrangements]
+tags: [carrental, travelarrangements]
 comments: true
 share: true
 ---

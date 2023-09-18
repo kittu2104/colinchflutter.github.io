@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing state restoration performance in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, Performance]
+tags: [StateRestoration, Performance]
 comments: true
 share: true
 ---

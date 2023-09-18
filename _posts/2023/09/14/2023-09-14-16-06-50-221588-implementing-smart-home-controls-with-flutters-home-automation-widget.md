@@ -3,7 +3,7 @@ layout: post
 title: "Implementing smart home controls with Flutter's home automation widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, homeautomation]
+tags: [homeautomation]
 comments: true
 share: true
 ---

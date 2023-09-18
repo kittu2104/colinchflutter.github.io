@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recognition and identification in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

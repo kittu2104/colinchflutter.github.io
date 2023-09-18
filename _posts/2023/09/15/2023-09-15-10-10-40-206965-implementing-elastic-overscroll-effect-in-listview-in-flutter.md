@@ -3,7 +3,7 @@ layout: post
 title: "Implementing elastic overscroll effect in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, elasticoverscroll, ListView, FlutterDevelopment]
+tags: [elasticoverscroll, ListView, FlutterDevelopment]
 comments: true
 share: true
 ---

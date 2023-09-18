@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for writing platform-specific audio and video playback code in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, audio, video]
+tags: [audio, video]
 comments: true
 share: true
 ---

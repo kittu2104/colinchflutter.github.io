@@ -3,7 +3,7 @@ layout: post
 title: "Building a karaoke game with audio recording and playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, karaoke]
+tags: [karaoke]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for managing platform-specific internationalization and localization in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, localization]
+tags: [localization]
 comments: true
 share: true
 ---

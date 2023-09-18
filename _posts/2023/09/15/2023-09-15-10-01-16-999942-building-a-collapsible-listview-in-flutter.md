@@ -3,7 +3,7 @@ layout: post
 title: "Building a collapsible ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, collapsiblelistview]
+tags: [collapsiblelistview]
 comments: true
 share: true
 ---

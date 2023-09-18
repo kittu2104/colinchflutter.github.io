@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio-based authentication and secure voice communications in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [flutter, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

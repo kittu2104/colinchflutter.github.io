@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a swipeable tab view using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, swipeabletabview]
+tags: [swipeabletabview]
 comments: true
 share: true
 ---

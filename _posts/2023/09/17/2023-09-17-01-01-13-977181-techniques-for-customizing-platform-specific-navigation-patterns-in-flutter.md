@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for customizing platform-specific navigation patterns in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, navigationpatterns]
+tags: [navigationpatterns]
 comments: true
 share: true
 ---

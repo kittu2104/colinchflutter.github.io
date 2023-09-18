@@ -3,7 +3,7 @@ layout: post
 title: "ListView with sticky headers that stick to the top in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, StickyHeaders]
+tags: [StickyHeaders]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building collaborative editing apps with Flutter's collaborative widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, collaborative, firebase]
+tags: [collaborative, firebase]
 comments: true
 share: true
 ---

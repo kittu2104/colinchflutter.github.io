@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for customizing platform-specific push notifications in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [Flutter, PushNotifications]
+tags: [PushNotifications]
 comments: true
 share: true
 ---

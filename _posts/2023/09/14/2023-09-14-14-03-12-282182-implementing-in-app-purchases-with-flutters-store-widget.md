@@ -3,7 +3,7 @@ layout: post
 title: "Implementing in-app purchases with Flutter's store widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, InAppPurchases]
+tags: [InAppPurchases]
 comments: true
 share: true
 ---

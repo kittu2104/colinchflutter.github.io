@@ -3,7 +3,7 @@ layout: post
 title: "Building social media integrations with Flutter's share widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, socialmedia]
+tags: [socialmedia]
 comments: true
 share: true
 ---

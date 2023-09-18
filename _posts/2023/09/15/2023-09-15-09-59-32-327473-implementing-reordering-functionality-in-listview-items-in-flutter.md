@@ -3,7 +3,7 @@ layout: post
 title: "Implementing reordering functionality in ListView items in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, reorderablelistview]
+tags: [reorderablelistview]
 comments: true
 share: true
 ---

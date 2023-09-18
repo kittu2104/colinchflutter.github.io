@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of educational audio materials in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AudioRecording]
+tags: [AudioRecording]
 comments: true
 share: true
 ---

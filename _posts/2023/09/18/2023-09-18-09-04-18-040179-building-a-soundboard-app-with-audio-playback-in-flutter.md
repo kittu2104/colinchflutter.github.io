@@ -3,7 +3,7 @@ layout: post
 title: "Building a soundboard app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, SoundboardApp]
+tags: [SoundboardApp]
 comments: true
 share: true
 ---

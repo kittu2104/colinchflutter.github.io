@@ -3,7 +3,7 @@ layout: post
 title: "How to maintain platform-specific code in Flutter projects?"
 description: " "
 date: 2023-09-17
-tags: [Flutter, CrossPlatform]
+tags: [CrossPlatform]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing infinite scrolling with ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, infinite]
+tags: [infinite]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio speed control and pitch shifting in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioplayer]
+tags: [audioplayer]
 comments: true
 share: true
 ---

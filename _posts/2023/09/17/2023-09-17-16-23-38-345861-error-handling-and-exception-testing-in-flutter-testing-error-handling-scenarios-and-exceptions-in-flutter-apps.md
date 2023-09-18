@@ -3,7 +3,7 @@ layout: post
 title: "Error handling and exception testing in Flutter: Testing error handling scenarios and exceptions in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, exceptionhandling]
+tags: [exceptionhandling]
 comments: true
 share: true
 ---

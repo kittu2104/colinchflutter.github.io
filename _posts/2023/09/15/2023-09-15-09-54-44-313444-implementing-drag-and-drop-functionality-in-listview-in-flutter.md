@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag-and-drop functionality in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, DragAndDrop]
+tags: [DragAndDrop]
 comments: true
 share: true
 ---

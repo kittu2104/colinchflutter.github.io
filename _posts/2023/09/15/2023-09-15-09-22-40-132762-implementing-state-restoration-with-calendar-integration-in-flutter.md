@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with calendar integration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, CalendarIntegration]
+tags: [StateRestoration, CalendarIntegration]
 comments: true
 share: true
 ---

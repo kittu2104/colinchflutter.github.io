@@ -3,7 +3,7 @@ layout: post
 title: "Deep dive into Flutter widget lifecycles"
 description: " "
 date: 2023-09-14
-tags: [Flutter, WidgetLifecycle]
+tags: [WidgetLifecycle]
 comments: true
 share: true
 ---

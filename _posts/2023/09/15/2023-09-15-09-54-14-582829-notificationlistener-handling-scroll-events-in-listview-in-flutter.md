@@ -3,7 +3,7 @@ layout: post
 title: "NotificationListener: Handling scroll events in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ScrollEvents]
+tags: [ScrollEvents]
 comments: true
 share: true
 ---

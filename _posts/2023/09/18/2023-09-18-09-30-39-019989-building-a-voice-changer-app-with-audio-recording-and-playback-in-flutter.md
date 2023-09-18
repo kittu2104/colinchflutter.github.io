@@ -3,7 +3,7 @@ layout: post
 title: "Building a voice changer app with audio recording and playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, voicechanger]
+tags: [voicechanger]
 comments: true
 share: true
 ---

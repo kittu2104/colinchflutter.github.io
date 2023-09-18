@@ -3,7 +3,7 @@ layout: post
 title: "Implementing face recognition and detection with Flutter's facial recognition widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, FacialRecognition]
+tags: [FacialRecognition]
 comments: true
 share: true
 ---

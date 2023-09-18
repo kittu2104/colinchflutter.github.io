@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom image editor with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, imageeditor]
+tags: [imageeditor]
 comments: true
 share: true
 ---

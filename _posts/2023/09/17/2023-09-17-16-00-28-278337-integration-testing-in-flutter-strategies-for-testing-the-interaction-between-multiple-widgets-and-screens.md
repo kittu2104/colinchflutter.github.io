@@ -3,7 +3,7 @@ layout: post
 title: "Integration testing in Flutter: Strategies for testing the interaction between multiple widgets and screens"
 description: " "
 date: 2023-09-17
-tags: [flutter, integrationtesting]
+tags: [integrationtesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling platform-specific app configurations in Flutter."
 description: " "
 date: 2023-09-17
-tags: [Flutter, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ListView with sectioned items in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview, sectioneditems]
+tags: [listview, sectioneditems]
 comments: true
 share: true
 ---

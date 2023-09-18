@@ -3,7 +3,7 @@ layout: post
 title: "Building a sound recognition app with audio classification in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, soundrecognition]
+tags: [soundrecognition]
 comments: true
 share: true
 ---

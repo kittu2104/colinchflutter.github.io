@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific hardware features in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, plugins]
+tags: [plugins]
 comments: true
 share: true
 ---

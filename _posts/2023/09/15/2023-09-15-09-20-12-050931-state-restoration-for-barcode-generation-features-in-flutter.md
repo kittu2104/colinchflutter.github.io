@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for barcode generation features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, BarcodeGeneration]
+tags: [StateRestoration, BarcodeGeneration]
 comments: true
 share: true
 ---

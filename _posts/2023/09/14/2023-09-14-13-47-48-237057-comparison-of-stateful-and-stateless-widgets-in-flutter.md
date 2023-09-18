@@ -3,7 +3,7 @@ layout: post
 title: "Comparison of stateful and stateless widgets in Flutter"
 description: " "
 date: 2023-09-14
-tags: [flutter, statefulvsstateless]
+tags: [statefulvsstateless]
 comments: true
 share: true
 ---

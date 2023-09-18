@@ -3,7 +3,7 @@ layout: post
 title: "Handling state restoration with custom map overlays in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, MapOverlays]
+tags: [StateRestoration, MapOverlays]
 comments: true
 share: true
 ---

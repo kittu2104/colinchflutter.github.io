@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio sample rate conversion and audio format support in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, audiodecoding]
+tags: [audiodecoding]
 comments: true
 share: true
 ---

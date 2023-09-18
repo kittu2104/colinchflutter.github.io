@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for integrating platform-specific barcode scanning functionalities in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [flutter, barcodes, barcodescanning, qrcodes, mobiledevelopement]
+tags: [barcodes, barcodescanning, qrcodes, mobiledevelopement]
 comments: true
 share: true
 ---

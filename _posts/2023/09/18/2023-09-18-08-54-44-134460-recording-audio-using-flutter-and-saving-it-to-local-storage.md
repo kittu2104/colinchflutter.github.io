@@ -3,7 +3,7 @@ layout: post
 title: "Recording audio using Flutter and saving it to local storage"
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

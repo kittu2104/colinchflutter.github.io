@@ -3,7 +3,7 @@ layout: post
 title: "Integrating state restoration with navigation in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, stateRestoration]
+tags: [stateRestoration]
 comments: true
 share: true
 ---

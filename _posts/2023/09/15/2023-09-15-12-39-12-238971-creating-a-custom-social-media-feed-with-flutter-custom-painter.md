@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom social media feed with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, CustomPainter]
+tags: [CustomPainter]
 comments: true
 share: true
 ---

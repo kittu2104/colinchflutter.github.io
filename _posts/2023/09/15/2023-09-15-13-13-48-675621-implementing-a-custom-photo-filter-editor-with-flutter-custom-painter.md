@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom photo filter editor with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, photofilter]
+tags: [photofilter]
 comments: true
 share: true
 ---

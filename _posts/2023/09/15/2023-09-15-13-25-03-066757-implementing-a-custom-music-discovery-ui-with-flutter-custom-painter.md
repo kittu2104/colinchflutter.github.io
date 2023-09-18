@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom music discovery UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, MusicDiscoveryUI]
+tags: [MusicDiscoveryUI]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio subtitles and closed captioning in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [Flutter, Accessibility]
+tags: [Accessibility]
 comments: true
 share: true
 ---

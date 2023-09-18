@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a collapsible header in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, collapsibleheader]
+tags: [collapsibleheader]
 comments: true
 share: true
 ---

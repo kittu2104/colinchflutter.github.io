@@ -3,7 +3,7 @@ layout: post
 title: "Accessibility testing in Flutter: Ensuring accessibility compliance through testing in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, Accessibility, AppDevelopment]
+tags: [Accessibility, AppDevelopment]
 comments: true
 share: true
 ---

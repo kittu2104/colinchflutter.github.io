@@ -3,7 +3,7 @@ layout: post
 title: "ListView with floating action button in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, ListView, FloatingActionButton]
+tags: [ListView, FloatingActionButton]
 comments: true
 share: true
 ---

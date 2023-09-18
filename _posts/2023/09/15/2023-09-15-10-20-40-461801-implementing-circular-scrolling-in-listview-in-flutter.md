@@ -3,7 +3,7 @@ layout: post
 title: "Implementing circular scrolling in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, CircularScrolling]
+tags: [CircularScrolling]
 comments: true
 share: true
 ---

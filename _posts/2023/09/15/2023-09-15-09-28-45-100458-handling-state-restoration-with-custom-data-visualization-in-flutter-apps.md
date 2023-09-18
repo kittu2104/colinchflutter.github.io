@@ -3,7 +3,7 @@ layout: post
 title: "Handling state restoration with custom data visualization in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, DataVisualization]
+tags: [StateRestoration, DataVisualization]
 comments: true
 share: true
 ---

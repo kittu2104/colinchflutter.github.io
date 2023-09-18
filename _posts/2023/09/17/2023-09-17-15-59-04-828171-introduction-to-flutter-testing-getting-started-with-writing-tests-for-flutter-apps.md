@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Flutter testing: Getting started with writing tests for Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag and drop functionality with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, dart]
+tags: [dart]
 comments: true
 share: true
 ---

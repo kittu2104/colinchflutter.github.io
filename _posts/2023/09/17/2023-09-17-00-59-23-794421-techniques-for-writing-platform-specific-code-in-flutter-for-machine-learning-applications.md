@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code in Flutter for machine learning applications."
 description: " "
 date: 2023-09-17
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

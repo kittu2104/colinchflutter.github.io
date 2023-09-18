@@ -3,7 +3,7 @@ layout: post
 title: "Snapshot testing for responsive UI in Flutter: Writing tests to ensure responsive UI across different screen sizes and orientations"
 description: " "
 date: 2023-09-17
-tags: [Flutter, SnapshotTesting, ResponsiveUI]
+tags: [SnapshotTesting, ResponsiveUI]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a customizable alarm clock app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AlarmClockApp]
+tags: [AlarmClockApp]
 comments: true
 share: true
 ---

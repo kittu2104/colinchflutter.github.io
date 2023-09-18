@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio pitch detection and tuning in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AudioPitchDetection]
+tags: [AudioPitchDetection]
 comments: true
 share: true
 ---

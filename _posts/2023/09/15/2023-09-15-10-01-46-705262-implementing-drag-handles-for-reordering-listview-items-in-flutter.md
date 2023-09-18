@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag handles for reordering ListView items in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListViewDragHandles]
+tags: [ListViewDragHandles]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video playback with Flutter's video widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, videoplayer]
+tags: [videoplayer]
 comments: true
 share: true
 ---

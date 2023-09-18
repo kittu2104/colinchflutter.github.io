@@ -3,7 +3,7 @@ layout: post
 title: "Using AnimatedList to create animated list items in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, AnimatedList]
+tags: [AnimatedList]
 comments: true
 share: true
 ---

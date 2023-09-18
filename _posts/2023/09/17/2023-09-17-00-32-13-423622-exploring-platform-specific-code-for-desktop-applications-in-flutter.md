@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific code for desktop applications in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, desktop]
+tags: [desktop]
 comments: true
 share: true
 ---

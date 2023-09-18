@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for real-time translation features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, translationfeatures]
+tags: [translationfeatures]
 comments: true
 share: true
 ---

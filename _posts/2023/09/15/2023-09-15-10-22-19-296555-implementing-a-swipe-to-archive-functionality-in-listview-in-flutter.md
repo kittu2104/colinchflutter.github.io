@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a swipe-to-archive functionality in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, swipeToArchive]
+tags: [swipeToArchive]
 comments: true
 share: true
 ---

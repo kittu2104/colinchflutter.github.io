@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of live audio streams in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioplayback]
+tags: [audioplayback]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of ambient sounds in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, ambientSounds]
+tags: [ambientSounds]
 comments: true
 share: true
 ---

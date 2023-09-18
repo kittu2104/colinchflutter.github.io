@@ -3,7 +3,7 @@ layout: post
 title: "Building a music player app in Flutter with audio playback"
 description: " "
 date: 2023-09-18
-tags: [flutter, musicplayerapp]
+tags: [musicplayerapp]
 comments: true
 share: true
 ---

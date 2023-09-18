@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom QR code scanner UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, qrcodescanner]
+tags: [qrcodescanner]
 comments: true
 share: true
 ---

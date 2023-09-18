@@ -3,7 +3,7 @@ layout: post
 title: "Overcoming performance issues with large ListViews in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

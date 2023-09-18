@@ -3,7 +3,7 @@ layout: post
 title: "Testing internationalization in Flutter: Techniques for testing support for different languages and locales in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, internationalization]
+tags: [internationalization]
 comments: true
 share: true
 ---

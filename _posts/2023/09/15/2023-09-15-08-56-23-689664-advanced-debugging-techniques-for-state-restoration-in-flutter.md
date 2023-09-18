@@ -3,7 +3,7 @@ layout: post
 title: "Advanced debugging techniques for state restoration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, Debugging]
+tags: [StateRestoration, Debugging]
 comments: true
 share: true
 ---

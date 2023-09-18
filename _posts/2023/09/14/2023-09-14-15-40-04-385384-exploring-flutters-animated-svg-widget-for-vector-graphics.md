@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Flutter's animated SVG widget for vector graphics"
 description: " "
 date: 2023-09-14
-tags: [flutter, vectorgraphics]
+tags: [vectorgraphics]
 comments: true
 share: true
 ---

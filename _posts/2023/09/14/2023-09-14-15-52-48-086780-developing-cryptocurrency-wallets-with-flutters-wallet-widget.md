@@ -3,7 +3,7 @@ layout: post
 title: "Developing cryptocurrency wallets with Flutter's wallet widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, cryptocurrency]
+tags: [cryptocurrency]
 comments: true
 share: true
 ---

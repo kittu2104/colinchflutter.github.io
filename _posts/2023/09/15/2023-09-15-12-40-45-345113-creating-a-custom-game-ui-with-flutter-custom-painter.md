@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom game UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, gamedevelopment]
+tags: [gamedevelopment]
 comments: true
 share: true
 ---

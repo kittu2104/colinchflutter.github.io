@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom news reader UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, custompainter]
+tags: [custompainter]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom shapes and designs in Flutter with Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, CustomPainter]
+tags: [CustomPainter]
 comments: true
 share: true
 ---

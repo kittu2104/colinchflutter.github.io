@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for facial recognition in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, facialrecognition, statefulflutter]
+tags: [facialrecognition, statefulflutter]
 comments: true
 share: true
 ---

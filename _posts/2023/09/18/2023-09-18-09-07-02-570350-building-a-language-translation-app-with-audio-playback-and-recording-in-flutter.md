@@ -3,7 +3,7 @@ layout: post
 title: "Building a language translation app with audio playback and recording in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, translationapp]
+tags: [translationapp]
 comments: true
 share: true
 ---

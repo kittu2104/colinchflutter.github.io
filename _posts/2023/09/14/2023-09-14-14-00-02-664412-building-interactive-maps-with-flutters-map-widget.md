@@ -3,7 +3,7 @@ layout: post
 title: "Building interactive maps with Flutter's map widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, googlemaps]
+tags: [googlemaps]
 comments: true
 share: true
 ---

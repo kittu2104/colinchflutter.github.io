@@ -3,7 +3,7 @@ layout: post
 title: "Testing offline functionality in Flutter apps: Strategies for simulating and testing offline behavior in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, offlinefunctionality, mobileappdev]
+tags: [offlinefunctionality, mobileappdev]
 comments: true
 share: true
 ---

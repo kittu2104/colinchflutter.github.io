@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom social networking app UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

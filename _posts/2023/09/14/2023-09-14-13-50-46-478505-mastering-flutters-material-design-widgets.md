@@ -3,7 +3,7 @@ layout: post
 title: "Mastering Flutter's Material Design widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, materialdesign]
+tags: [materialdesign]
 comments: true
 share: true
 ---

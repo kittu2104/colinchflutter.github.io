@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom barcode scanner UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

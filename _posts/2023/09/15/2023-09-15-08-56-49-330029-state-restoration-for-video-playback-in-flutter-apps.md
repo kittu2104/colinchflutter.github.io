@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for video playback in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, videoplayback]
+tags: [videoplayback]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Flutter's network request and API integration widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, networking]
+tags: [networking]
 comments: true
 share: true
 ---

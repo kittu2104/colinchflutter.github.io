@@ -3,7 +3,7 @@ layout: post
 title: "Creating a contact list UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

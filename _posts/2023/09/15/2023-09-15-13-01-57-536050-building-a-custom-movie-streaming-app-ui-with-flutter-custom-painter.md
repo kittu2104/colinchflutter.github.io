@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom movie streaming app UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

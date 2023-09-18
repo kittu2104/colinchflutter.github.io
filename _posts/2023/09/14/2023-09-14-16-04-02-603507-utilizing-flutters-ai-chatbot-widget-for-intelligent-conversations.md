@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's AI chatbot widget for intelligent conversations"
 description: " "
 date: 2023-09-14
-tags: [flutter, chatbot]
+tags: [chatbot]
 comments: true
 share: true
 ---

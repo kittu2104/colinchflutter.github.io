@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling platform-specific features in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, crossplatform]
+tags: [crossplatform]
 comments: true
 share: true
 ---

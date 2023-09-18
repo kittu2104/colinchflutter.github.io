@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's OCR widget for optical character recognition"
 description: " "
 date: 2023-09-14
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

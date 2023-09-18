@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's text input widgets for user input"
 description: " "
 date: 2023-09-14
-tags: [Flutter, UserInput]
+tags: [UserInput]
 comments: true
 share: true
 ---

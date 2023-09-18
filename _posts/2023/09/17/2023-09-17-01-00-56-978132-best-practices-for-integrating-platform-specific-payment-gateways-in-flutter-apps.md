@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for integrating platform-specific payment gateways in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [flutter, paymentgateways]
+tags: [paymentgateways]
 comments: true
 share: true
 ---

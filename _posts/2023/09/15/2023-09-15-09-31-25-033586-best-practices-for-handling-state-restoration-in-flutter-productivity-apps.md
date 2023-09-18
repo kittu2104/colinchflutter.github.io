@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling state restoration in Flutter productivity apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration]
+tags: [StateRestoration]
 comments: true
 share: true
 ---

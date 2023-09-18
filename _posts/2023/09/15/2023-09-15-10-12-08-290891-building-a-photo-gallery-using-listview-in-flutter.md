@@ -3,7 +3,7 @@ layout: post
 title: "Building a photo gallery using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, photogallery]
+tags: [photogallery]
 comments: true
 share: true
 ---

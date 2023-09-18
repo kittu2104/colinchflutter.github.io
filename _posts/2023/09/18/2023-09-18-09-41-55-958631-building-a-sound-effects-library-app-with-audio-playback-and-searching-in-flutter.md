@@ -3,7 +3,7 @@ layout: post
 title: "Building a sound effects library app with audio playback and searching in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, soundeffects]
+tags: [soundeffects]
 comments: true
 share: true
 ---

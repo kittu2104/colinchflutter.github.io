@@ -3,7 +3,7 @@ layout: post
 title: "ListView with sticky date headers in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView, StickyHeaders]
+tags: [ListView, StickyHeaders]
 comments: true
 share: true
 ---

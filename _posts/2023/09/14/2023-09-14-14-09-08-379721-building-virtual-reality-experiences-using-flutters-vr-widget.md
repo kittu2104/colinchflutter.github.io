@@ -3,7 +3,7 @@ layout: post
 title: "Building virtual reality experiences using Flutter's VR widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, VRdevelopment]
+tags: [VRdevelopment]
 comments: true
 share: true
 ---

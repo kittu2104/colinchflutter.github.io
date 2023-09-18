@@ -3,7 +3,7 @@ layout: post
 title: "Building a weather app UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, WeatherApp]
+tags: [WeatherApp]
 comments: true
 share: true
 ---

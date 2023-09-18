@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for in-app messaging features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, InAppMessaging]
+tags: [StateRestoration, InAppMessaging]
 comments: true
 share: true
 ---

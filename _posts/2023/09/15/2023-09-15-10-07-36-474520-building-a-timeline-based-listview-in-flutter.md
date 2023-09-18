@@ -3,7 +3,7 @@ layout: post
 title: "Building a timeline-based ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, timeline, listview]
+tags: [timeline, listview]
 comments: true
 share: true
 ---

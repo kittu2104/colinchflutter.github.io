@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio beat detection and rhythm analysis in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Adding animations to ListView item removal in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, animations]
+tags: [animations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a timeline-based chat UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

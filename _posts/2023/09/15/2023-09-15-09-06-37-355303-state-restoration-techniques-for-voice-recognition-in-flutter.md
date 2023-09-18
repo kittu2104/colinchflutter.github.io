@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for voice recognition in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, voicerecognition]
+tags: [voicerecognition]
 comments: true
 share: true
 ---

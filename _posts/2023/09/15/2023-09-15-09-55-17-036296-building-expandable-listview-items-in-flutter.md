@@ -3,7 +3,7 @@ layout: post
 title: "Building expandable ListView items in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, Widgets]
+tags: [Widgets]
 comments: true
 share: true
 ---

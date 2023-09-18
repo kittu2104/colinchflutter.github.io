@@ -3,7 +3,7 @@ layout: post
 title: "Creating a music streaming app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, musicstreamingapp]
+tags: [musicstreamingapp]
 comments: true
 share: true
 ---

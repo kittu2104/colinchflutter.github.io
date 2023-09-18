@@ -3,7 +3,7 @@ layout: post
 title: "Building a sound therapy app with customized audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, SoundTherapy]
+tags: [SoundTherapy]
 comments: true
 share: true
 ---

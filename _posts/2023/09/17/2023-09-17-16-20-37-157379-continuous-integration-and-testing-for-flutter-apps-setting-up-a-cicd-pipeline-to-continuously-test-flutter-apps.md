@@ -3,7 +3,7 @@ layout: post
 title: "Continuous integration and testing for Flutter apps: Setting up a CI/CD pipeline to continuously test Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, continuousintegration, testing, flutterapp]
+tags: [continuousintegration, testing, flutterapp]
 comments: true
 share: true
 ---

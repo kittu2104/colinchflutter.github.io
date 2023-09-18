@@ -3,7 +3,7 @@ layout: post
 title: "Building a nested ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, nestedlistview]
+tags: [nestedlistview]
 comments: true
 share: true
 ---

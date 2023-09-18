@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom camera viewfinder with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, customviewfinder]
+tags: [customviewfinder]
 comments: true
 share: true
 ---

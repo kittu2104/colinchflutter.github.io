@@ -3,7 +3,7 @@ layout: post
 title: "Implementing sentiment analysis and natural language processing with Flutter's NLP widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, naturallanguageprocessing]
+tags: [naturallanguageprocessing]
 comments: true
 share: true
 ---

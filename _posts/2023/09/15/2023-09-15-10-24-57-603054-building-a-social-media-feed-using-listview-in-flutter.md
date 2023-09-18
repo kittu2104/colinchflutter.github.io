@@ -3,7 +3,7 @@ layout: post
 title: "Building a social media feed using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, SocialMediaFeed]
+tags: [SocialMediaFeed]
 comments: true
 share: true
 ---

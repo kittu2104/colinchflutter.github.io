@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for collaborating on platform-specific code in a Flutter team."
 description: " "
 date: 2023-09-17
-tags: [Flutter, Collaboration]
+tags: [Collaboration]
 comments: true
 share: true
 ---

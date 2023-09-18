@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific code for virtual reality experiences in Flutter."
 description: " "
 date: 2023-09-17
-tags: [Flutter, VirtualReality]
+tags: [VirtualReality]
 comments: true
 share: true
 ---

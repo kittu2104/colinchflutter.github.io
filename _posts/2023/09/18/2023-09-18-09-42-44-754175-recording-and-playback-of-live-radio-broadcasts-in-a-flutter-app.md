@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of live radio broadcasts in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, radio]
+tags: [radio]
 comments: true
 share: true
 ---

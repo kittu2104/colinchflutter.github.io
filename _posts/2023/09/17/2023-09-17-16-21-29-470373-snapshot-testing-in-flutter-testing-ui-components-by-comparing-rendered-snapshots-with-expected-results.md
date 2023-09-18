@@ -3,7 +3,7 @@ layout: post
 title: "Snapshot testing in Flutter: Testing UI components by comparing rendered snapshots with expected results"
 description: " "
 date: 2023-09-17
-tags: [flutter, snapshot]
+tags: [snapshot]
 comments: true
 share: true
 ---

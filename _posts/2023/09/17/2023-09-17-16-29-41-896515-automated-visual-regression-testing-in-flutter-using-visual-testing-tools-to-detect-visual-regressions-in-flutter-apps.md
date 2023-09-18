@@ -3,7 +3,7 @@ layout: post
 title: "Automated visual regression testing in Flutter: Using visual testing tools to detect visual regressions in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, VisualRegressionTesting]
+tags: [VisualRegressionTesting]
 comments: true
 share: true
 ---

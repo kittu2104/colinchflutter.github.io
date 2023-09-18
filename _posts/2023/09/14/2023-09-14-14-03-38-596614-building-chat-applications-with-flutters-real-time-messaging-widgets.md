@@ -3,7 +3,7 @@ layout: post
 title: "Building chat applications with Flutter's real-time messaging widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, chatapplication]
+tags: [chatapplication]
 comments: true
 share: true
 ---

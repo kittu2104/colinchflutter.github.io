@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of music lessons in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [Flutter, MusicEducation]
+tags: [MusicEducation]
 comments: true
 share: true
 ---

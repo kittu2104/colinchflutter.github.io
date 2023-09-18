@@ -3,7 +3,7 @@ layout: post
 title: "Tips for handling platform-specific database functionalities in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [flutter, database]
+tags: [database]
 comments: true
 share: true
 ---

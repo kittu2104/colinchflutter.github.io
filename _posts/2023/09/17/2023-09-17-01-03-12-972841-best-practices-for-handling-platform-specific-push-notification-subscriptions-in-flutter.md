@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling platform-specific push notification subscriptions in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, pushnotifications]
+tags: [pushnotifications]
 comments: true
 share: true
 ---

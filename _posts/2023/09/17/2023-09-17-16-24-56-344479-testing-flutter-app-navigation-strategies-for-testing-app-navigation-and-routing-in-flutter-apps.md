@@ -3,7 +3,7 @@ layout: post
 title: "Testing Flutter app navigation: Strategies for testing app navigation and routing in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, AppNavigationTesting]
+tags: [AppNavigationTesting]
 comments: true
 share: true
 ---

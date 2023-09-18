@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different types of Flutter layout widgets"
 description: " "
 date: 2023-09-14
-tags: [Flutter, LayoutWidgets]
+tags: [LayoutWidgets]
 comments: true
 share: true
 ---

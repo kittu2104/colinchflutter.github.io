@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for real-time chat features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, RealTimeChat, StateRestoration]
+tags: [RealTimeChat, StateRestoration]
 comments: true
 share: true
 ---

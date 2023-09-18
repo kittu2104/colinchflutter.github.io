@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom calendar widget with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, customcalendar]
+tags: [customcalendar]
 comments: true
 share: true
 ---

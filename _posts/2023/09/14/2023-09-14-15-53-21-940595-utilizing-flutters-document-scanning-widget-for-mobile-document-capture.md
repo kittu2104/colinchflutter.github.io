@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's document scanning widget for mobile document capture"
 description: " "
 date: 2023-09-14
-tags: [flutter, documentcapture, mobileappdevelopment]
+tags: [documentcapture, mobileappdevelopment]
 comments: true
 share: true
 ---

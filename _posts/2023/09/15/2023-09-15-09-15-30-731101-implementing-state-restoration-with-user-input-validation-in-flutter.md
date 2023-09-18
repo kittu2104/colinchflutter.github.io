@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with user input validation in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, inputvalidation]
+tags: [inputvalidation]
 comments: true
 share: true
 ---

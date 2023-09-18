@@ -3,7 +3,7 @@ layout: post
 title: "Building a music visualizer app with synchronized audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, MusicVisualizer]
+tags: [MusicVisualizer]
 comments: true
 share: true
 ---

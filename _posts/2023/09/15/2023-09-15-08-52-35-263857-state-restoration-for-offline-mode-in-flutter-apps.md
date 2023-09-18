@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for offline mode in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, offlineMode]
+tags: [offlineMode]
 comments: true
 share: true
 ---

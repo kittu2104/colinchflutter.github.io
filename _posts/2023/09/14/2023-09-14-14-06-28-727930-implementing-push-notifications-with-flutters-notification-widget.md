@@ -3,7 +3,7 @@ layout: post
 title: "Implementing push notifications with Flutter's notification widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, pushnotifications]
+tags: [pushnotifications]
 comments: true
 share: true
 ---

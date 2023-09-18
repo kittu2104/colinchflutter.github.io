@@ -3,7 +3,7 @@ layout: post
 title: "How to create custom Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, customwidgets]
+tags: [customwidgets]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a pull-to-load-more functionality in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview, pagination]
+tags: [listview, pagination]
 comments: true
 share: true
 ---

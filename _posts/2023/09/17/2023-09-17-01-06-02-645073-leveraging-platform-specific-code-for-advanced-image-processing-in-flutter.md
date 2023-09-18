@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific code for advanced image processing in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, image]
+tags: [image]
 comments: true
 share: true
 ---

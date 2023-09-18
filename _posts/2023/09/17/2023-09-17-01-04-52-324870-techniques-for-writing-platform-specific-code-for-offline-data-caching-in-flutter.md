@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code for offline data caching in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, offlinecaching]
+tags: [offlinecaching]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio waveform visualization in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

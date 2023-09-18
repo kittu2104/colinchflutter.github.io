@@ -3,7 +3,7 @@ layout: post
 title: "Using Flutter Custom Painter for interactive user interfaces"
 description: " "
 date: 2023-09-15
-tags: [flutter, custompainter]
+tags: [custompainter]
 comments: true
 share: true
 ---

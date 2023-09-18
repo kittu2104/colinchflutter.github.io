@@ -3,7 +3,7 @@ layout: post
 title: "Implementing speech-to-text transcription with Flutter's speech-to-text widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, speechtotext]
+tags: [speechtotext]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Test strategy and planning for Flutter apps: Designing an effective test strategy and test plan for Flutter development projects"
 description: " "
 date: 2023-09-17
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

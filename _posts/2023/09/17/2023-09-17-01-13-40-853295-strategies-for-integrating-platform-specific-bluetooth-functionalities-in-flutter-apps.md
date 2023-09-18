@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for integrating platform-specific Bluetooth functionalities in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [flutter, Bluetooth]
+tags: [Bluetooth]
 comments: true
 share: true
 ---

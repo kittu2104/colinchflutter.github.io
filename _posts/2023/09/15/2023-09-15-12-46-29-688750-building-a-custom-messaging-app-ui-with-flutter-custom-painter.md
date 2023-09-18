@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom messaging app UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, fluttercustompainter]
+tags: [fluttercustompainter]
 comments: true
 share: true
 ---

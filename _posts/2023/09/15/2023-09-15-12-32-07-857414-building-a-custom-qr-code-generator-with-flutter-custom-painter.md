@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom QR code generator with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, qrcode]
+tags: [qrcode]
 comments: true
 share: true
 ---

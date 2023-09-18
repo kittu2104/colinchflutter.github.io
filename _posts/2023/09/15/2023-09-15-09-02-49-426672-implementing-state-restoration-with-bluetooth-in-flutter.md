@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with Bluetooth in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, bluetooth, flutterblue]
+tags: [bluetooth, flutterblue]
 comments: true
 share: true
 ---

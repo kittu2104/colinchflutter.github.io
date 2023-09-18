@@ -3,7 +3,7 @@ layout: post
 title: "Building an expandable checklist using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, checklist, listview, flutterdevelopment]
+tags: [checklist, listview, flutterdevelopment]
 comments: true
 share: true
 ---

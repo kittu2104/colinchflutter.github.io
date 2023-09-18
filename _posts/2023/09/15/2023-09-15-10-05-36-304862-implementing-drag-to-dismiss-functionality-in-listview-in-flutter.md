@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag-to-dismiss functionality in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, FlutterTutorial]
+tags: [FlutterTutorial]
 comments: true
 share: true
 ---

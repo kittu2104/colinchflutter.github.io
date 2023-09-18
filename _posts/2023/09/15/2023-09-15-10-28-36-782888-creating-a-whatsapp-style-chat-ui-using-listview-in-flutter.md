@@ -3,7 +3,7 @@ layout: post
 title: "Creating a WhatsApp-style chat UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, chatUI]
+tags: [chatUI]
 comments: true
 share: true
 ---

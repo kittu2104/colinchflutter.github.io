@@ -3,7 +3,7 @@ layout: post
 title: "Localization testing in Flutter: Techniques for testing multi-language support in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, localization, testing]
+tags: [localization, testing]
 comments: true
 share: true
 ---

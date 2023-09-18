@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the state restoration API in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, state_restoration]
+tags: [state_restoration]
 comments: true
 share: true
 ---

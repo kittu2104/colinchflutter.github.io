@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with biometric encryption in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, biometricencryption]
+tags: [biometricencryption]
 comments: true
 share: true
 ---

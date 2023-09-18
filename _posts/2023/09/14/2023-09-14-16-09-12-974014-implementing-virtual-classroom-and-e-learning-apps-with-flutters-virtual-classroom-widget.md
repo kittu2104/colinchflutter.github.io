@@ -3,7 +3,7 @@ layout: post
 title: "Implementing virtual classroom and e-learning apps with Flutter's virtual classroom widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, virtualclassroom, elearning]
+tags: [virtualclassroom, elearning]
 comments: true
 share: true
 ---

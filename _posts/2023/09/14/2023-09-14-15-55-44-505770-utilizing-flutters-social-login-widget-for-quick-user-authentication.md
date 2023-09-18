@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's social login widget for quick user authentication"
 description: " "
 date: 2023-09-14
-tags: [Flutter, SocialLogin]
+tags: [SocialLogin]
 comments: true
 share: true
 ---

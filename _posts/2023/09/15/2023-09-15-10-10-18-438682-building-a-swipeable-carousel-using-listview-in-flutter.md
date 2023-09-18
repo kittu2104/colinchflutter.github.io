@@ -3,7 +3,7 @@ layout: post
 title: "Building a swipeable carousel using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, Carousel]
+tags: [Carousel]
 comments: true
 share: true
 ---

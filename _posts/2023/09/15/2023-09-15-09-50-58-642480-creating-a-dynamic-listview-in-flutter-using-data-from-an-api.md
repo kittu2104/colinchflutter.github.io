@@ -3,7 +3,7 @@ layout: post
 title: "Creating a dynamic ListView in Flutter using data from an API."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview]
+tags: [listview]
 comments: true
 share: true
 ---

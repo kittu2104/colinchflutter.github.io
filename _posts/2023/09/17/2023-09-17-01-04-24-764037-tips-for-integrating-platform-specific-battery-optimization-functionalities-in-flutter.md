@@ -3,7 +3,7 @@ layout: post
 title: "Tips for integrating platform-specific battery optimization functionalities in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, batteryo]
+tags: [batteryo]
 comments: true
 share: true
 ---

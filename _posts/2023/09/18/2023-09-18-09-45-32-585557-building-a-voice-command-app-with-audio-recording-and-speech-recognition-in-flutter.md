@@ -3,7 +3,7 @@ layout: post
 title: "Building a voice command app with audio recording and speech recognition in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, VoiceCommandApp]
+tags: [VoiceCommandApp]
 comments: true
 share: true
 ---

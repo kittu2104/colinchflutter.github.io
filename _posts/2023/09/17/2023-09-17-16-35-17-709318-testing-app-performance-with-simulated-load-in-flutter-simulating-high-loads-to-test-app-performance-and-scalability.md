@@ -3,7 +3,7 @@ layout: post
 title: "Testing app performance with simulated load in Flutter: Simulating high loads to test app performance and scalability"
 description: " "
 date: 2023-09-17
-tags: [flutter, testing, performance, loadtesting]
+tags: [testing, performance, loadtesting]
 comments: true
 share: true
 ---

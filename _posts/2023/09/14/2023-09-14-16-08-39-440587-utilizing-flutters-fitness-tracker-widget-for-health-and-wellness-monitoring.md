@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's fitness tracker widget for health and wellness monitoring"
 description: " "
 date: 2023-09-14
-tags: [Flutter, FitnessTracker]
+tags: [FitnessTracker]
 comments: true
 share: true
 ---

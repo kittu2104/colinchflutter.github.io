@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for speech synthesis in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, speechsynthesis]
+tags: [speechsynthesis]
 comments: true
 share: true
 ---

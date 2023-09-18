@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio bookmarks and navigation in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

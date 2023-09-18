@@ -3,7 +3,7 @@ layout: post
 title: "Building custom animation effects with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of guided tours or audio guides in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioguides]
+tags: [audioguides]
 comments: true
 share: true
 ---

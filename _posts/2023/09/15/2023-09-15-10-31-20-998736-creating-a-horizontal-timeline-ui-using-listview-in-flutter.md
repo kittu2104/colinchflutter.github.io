@@ -3,7 +3,7 @@ layout: post
 title: "Creating a horizontal timeline UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, timeline]
+tags: [timeline]
 comments: true
 share: true
 ---

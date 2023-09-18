@@ -3,7 +3,7 @@ layout: post
 title: "State persistence and recovery in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

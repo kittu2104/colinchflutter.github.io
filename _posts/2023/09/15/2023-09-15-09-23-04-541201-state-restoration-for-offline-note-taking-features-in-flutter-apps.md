@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for offline note-taking features in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, OfflineNoteTaking, AppDevelopment]
+tags: [StateRestoration, OfflineNoteTaking, AppDevelopment]
 comments: true
 share: true
 ---

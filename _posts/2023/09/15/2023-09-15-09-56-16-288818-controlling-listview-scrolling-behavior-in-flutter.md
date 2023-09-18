@@ -3,7 +3,7 @@ layout: post
 title: "Controlling ListView scrolling behavior in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView]
+tags: [ListView]
 comments: true
 share: true
 ---

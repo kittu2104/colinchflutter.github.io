@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's recipe recommendation widget for personalized cooking suggestions"
 description: " "
 date: 2023-09-14
-tags: [flutter, cookingapp, reciperecommendation]
+tags: [cookingapp, reciperecommendation]
 comments: true
 share: true
 ---

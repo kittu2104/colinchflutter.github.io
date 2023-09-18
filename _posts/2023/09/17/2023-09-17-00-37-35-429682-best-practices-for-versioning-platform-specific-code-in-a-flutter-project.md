@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for versioning platform-specific code in a Flutter project."
 description: " "
 date: 2023-09-17
-tags: [flutter, versioning]
+tags: [versioning]
 comments: true
 share: true
 ---

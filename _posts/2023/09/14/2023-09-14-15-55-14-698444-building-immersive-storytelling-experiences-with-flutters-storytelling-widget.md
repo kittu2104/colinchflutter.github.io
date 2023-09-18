@@ -3,7 +3,7 @@ layout: post
 title: "Building immersive storytelling experiences with Flutter's storytelling widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, storytelling, flutterui, userexperience]
+tags: [storytelling, flutterui, userexperience]
 comments: true
 share: true
 ---

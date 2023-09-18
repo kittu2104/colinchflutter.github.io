@@ -3,7 +3,7 @@ layout: post
 title: "Building social networking apps with Flutter's social networking widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, socialnetworking]
+tags: [socialnetworking]
 comments: true
 share: true
 ---

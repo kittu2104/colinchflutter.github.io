@@ -3,7 +3,7 @@ layout: post
 title: "Data mocking and stubbing in Flutter tests: Simulating test data and external APIs for comprehensive testing"
 description: " "
 date: 2023-09-17
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

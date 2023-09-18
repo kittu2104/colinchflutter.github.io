@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for dark mode in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, darkmode]
+tags: [darkmode]
 comments: true
 share: true
 ---

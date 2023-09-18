@@ -3,7 +3,7 @@ layout: post
 title: "Performance profiling and benchmarking in Flutter: Using tests to measure and optimize the performance of Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

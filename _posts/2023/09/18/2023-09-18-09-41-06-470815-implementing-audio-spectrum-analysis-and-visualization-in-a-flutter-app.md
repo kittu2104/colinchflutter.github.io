@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spectrum analysis and visualization in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioplayers]
+tags: [audioplayers]
 comments: true
 share: true
 ---

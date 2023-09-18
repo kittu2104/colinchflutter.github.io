@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the scroll physics of ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

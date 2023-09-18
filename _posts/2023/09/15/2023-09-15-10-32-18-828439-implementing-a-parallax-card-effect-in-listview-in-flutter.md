@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a parallax card effect in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, parallax, listview]
+tags: [parallax, listview]
 comments: true
 share: true
 ---

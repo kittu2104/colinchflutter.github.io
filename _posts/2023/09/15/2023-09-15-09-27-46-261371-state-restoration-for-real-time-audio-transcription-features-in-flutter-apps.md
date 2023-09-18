@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for real-time audio transcription features in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, RealTimeAudioTranscription]
+tags: [StateRestoration, RealTimeAudioTranscription]
 comments: true
 share: true
 ---

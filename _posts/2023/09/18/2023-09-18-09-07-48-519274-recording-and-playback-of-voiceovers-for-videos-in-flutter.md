@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of voiceovers for videos in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, voiceovers]
+tags: [voiceovers]
 comments: true
 share: true
 ---

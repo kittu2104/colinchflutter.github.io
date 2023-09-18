@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom navigation drawer with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, customnavigationdrawer]
+tags: [customnavigationdrawer]
 comments: true
 share: true
 ---

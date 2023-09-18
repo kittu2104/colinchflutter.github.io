@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for file management features in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, filemanagement, staterestoration]
+tags: [filemanagement, staterestoration]
 comments: true
 share: true
 ---

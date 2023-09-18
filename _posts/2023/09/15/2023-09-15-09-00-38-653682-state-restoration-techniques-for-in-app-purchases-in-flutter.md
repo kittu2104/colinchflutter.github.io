@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for in-app purchases in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, inapppurchases]
+tags: [inapppurchases]
 comments: true
 share: true
 ---

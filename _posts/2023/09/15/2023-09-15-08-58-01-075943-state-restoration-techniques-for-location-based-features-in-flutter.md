@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for location-based features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, LocationBasedFeatures]
+tags: [LocationBasedFeatures]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with Firebase in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, firebase, state]
+tags: [firebase, state]
 comments: true
 share: true
 ---

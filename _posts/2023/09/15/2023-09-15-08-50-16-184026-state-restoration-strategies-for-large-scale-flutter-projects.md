@@ -3,7 +3,7 @@ layout: post
 title: "State restoration strategies for large-scale Flutter projects"
 description: " "
 date: 2023-09-15
-tags: [flutter, state, flutter, large]
+tags: [state, flutter, large]
 comments: true
 share: true
 ---

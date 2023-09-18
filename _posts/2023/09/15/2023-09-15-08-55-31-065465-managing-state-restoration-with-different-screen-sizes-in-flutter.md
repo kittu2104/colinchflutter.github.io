@@ -3,7 +3,7 @@ layout: post
 title: "Managing state restoration with different screen sizes in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration]
+tags: [StateRestoration]
 comments: true
 share: true
 ---

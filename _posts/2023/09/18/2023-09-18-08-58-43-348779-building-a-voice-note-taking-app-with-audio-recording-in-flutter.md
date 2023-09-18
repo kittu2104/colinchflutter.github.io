@@ -3,7 +3,7 @@ layout: post
 title: "Building a voice note-taking app with audio recording in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Developing reminder and productivity apps with Flutter's reminder widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, ReminderApps, ProductivityApps]
+tags: [ReminderApps, ProductivityApps]
 comments: true
 share: true
 ---

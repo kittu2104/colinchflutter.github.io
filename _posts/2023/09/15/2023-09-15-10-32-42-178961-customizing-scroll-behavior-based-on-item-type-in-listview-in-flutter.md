@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll behavior based on item type in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, scrollbehavior]
+tags: [scrollbehavior]
 comments: true
 share: true
 ---

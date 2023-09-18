@@ -3,7 +3,7 @@ layout: post
 title: "ListView with stacked item animations in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

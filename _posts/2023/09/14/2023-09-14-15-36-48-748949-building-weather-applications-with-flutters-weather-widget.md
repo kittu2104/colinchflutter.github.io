@@ -3,7 +3,7 @@ layout: post
 title: "Building weather applications with Flutter's weather widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, weatherapp]
+tags: [weatherapp]
 comments: true
 share: true
 ---

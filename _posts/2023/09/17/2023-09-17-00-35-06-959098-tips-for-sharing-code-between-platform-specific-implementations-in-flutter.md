@@ -3,7 +3,7 @@ layout: post
 title: "Tips for sharing code between platform-specific implementations in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, crossplatform]
+tags: [crossplatform]
 comments: true
 share: true
 ---

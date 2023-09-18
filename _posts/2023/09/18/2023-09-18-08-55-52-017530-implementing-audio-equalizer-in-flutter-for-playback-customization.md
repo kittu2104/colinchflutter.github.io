@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio equalizer in Flutter for playback customization"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioEqualizer]
+tags: [audioEqualizer]
 comments: true
 share: true
 ---

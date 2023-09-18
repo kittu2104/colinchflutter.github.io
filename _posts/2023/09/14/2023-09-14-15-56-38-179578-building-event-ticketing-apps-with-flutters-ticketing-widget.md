@@ -3,7 +3,7 @@ layout: post
 title: "Building event ticketing apps with Flutter's ticketing widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

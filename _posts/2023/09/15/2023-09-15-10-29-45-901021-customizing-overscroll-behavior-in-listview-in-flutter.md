@@ -3,7 +3,7 @@ layout: post
 title: "Customizing overscroll behavior in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, ListView]
+tags: [ListView]
 comments: true
 share: true
 ---

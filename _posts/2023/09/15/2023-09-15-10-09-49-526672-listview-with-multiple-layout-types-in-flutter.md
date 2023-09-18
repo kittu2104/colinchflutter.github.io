@@ -3,7 +3,7 @@ layout: post
 title: "ListView with multiple layout types in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview, layout, flutterdevelopment]
+tags: [listview, layout, flutterdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of audio descriptions for visually impaired users in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, accessibility]
+tags: [accessibility]
 comments: true
 share: true
 ---

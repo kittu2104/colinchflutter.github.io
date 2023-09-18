@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with audio recording in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, AudioRecording]
+tags: [AudioRecording]
 comments: true
 share: true
 ---

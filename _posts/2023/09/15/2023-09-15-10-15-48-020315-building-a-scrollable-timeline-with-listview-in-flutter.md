@@ -3,7 +3,7 @@ layout: post
 title: "Building a scrollable timeline with ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, scrollabletimeline]
+tags: [scrollabletimeline]
 comments: true
 share: true
 ---

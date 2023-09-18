@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom podcast player UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, fluttercustompainter]
+tags: [fluttercustompainter]
 comments: true
 share: true
 ---

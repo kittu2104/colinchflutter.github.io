@@ -3,7 +3,7 @@ layout: post
 title: "Implementing voice recognition and transcription in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, VoiceRecognition]
+tags: [VoiceRecognition]
 comments: true
 share: true
 ---

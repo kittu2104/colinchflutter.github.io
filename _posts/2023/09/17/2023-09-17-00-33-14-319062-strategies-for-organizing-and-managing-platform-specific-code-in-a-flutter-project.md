@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for organizing and managing platform-specific code in a Flutter project."
 description: " "
 date: 2023-09-17
-tags: [flutter, codeorganization]
+tags: [codeorganization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a DJ app with audio mixing and playback features in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, DJapp]
+tags: [DJapp]
 comments: true
 share: true
 ---

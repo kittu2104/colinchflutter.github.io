@@ -3,7 +3,7 @@ layout: post
 title: "Testing patterns for Flutter apps: Best practices and design patterns for writing testable Flutter code"
 description: " "
 date: 2023-09-17
-tags: [flutter, flutterdevelopment, testing, testablecode]
+tags: [flutterdevelopment, testing, testablecode]
 comments: true
 share: true
 ---

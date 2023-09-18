@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling state restoration in Flutter chatbot applications"
 description: " "
 date: 2023-09-15
-tags: [flutter, stateRestoration]
+tags: [stateRestoration]
 comments: true
 share: true
 ---

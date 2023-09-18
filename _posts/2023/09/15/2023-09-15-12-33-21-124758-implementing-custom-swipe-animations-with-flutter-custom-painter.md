@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom swipe animations with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, customanimation]
+tags: [customanimation]
 comments: true
 share: true
 ---

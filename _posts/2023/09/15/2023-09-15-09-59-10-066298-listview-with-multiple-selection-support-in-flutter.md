@@ -3,7 +3,7 @@ layout: post
 title: "ListView with multiple selection support in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, MultipleSelectionListView]
+tags: [MultipleSelectionListView]
 comments: true
 share: true
 ---

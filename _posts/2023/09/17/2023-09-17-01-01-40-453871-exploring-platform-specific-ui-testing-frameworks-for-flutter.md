@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific UI testing frameworks for Flutter."
 description: " "
 date: 2023-09-17
-tags: [Flutter, UITesting]
+tags: [UITesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Tips for writing platform-specific code in Flutter for augmented reality applications."
 description: " "
 date: 2023-09-17
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

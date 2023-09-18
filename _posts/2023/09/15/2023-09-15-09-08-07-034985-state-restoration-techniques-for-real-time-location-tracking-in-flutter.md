@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for real-time location tracking in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, locationtracking]
+tags: [locationtracking]
 comments: true
 share: true
 ---

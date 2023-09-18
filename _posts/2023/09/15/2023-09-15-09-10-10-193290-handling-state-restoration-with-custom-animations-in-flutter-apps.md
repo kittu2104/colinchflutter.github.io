@@ -3,7 +3,7 @@ layout: post
 title: "Handling state restoration with custom animations in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, animation, stateRestoration]
+tags: [animation, stateRestoration]
 comments: true
 share: true
 ---

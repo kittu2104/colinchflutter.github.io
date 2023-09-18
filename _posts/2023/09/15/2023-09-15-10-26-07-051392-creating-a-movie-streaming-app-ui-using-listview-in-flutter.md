@@ -3,7 +3,7 @@ layout: post
 title: "Creating a movie streaming app UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, moviestreamingapp]
+tags: [moviestreamingapp]
 comments: true
 share: true
 ---

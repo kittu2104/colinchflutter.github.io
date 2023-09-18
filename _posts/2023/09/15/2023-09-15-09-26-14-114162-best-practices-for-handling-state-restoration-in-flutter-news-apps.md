@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling state restoration in Flutter news apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, newsapp]
+tags: [newsapp]
 comments: true
 share: true
 ---

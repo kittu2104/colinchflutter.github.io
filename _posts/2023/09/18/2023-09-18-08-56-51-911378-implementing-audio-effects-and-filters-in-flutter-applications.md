@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio effects and filters in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [flutter, audioeffects]
+tags: [audioeffects]
 comments: true
 share: true
 ---

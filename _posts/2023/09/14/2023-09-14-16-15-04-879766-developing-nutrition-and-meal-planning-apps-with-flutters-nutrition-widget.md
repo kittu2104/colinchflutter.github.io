@@ -3,7 +3,7 @@ layout: post
 title: "Developing nutrition and meal planning apps with Flutter's nutrition widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, nutritionapp]
+tags: [nutritionapp]
 comments: true
 share: true
 ---

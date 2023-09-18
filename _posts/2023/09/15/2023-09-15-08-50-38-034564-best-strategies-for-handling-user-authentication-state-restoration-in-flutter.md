@@ -3,7 +3,7 @@ layout: post
 title: "Best strategies for handling user authentication state restoration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, authentication]
+tags: [authentication]
 comments: true
 share: true
 ---

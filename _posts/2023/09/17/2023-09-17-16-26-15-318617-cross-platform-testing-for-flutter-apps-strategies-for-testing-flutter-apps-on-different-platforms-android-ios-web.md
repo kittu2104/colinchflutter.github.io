@@ -3,7 +3,7 @@ layout: post
 title: "Cross-platform testing for Flutter apps: Strategies for testing Flutter apps on different platforms (Android, iOS, web)"
 description: " "
 date: 2023-09-17
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

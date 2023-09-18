@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of bird sounds in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [flutter, birdsounds]
+tags: [birdsounds]
 comments: true
 share: true
 ---

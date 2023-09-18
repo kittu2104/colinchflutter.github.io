@@ -3,7 +3,7 @@ layout: post
 title: "Building a radio streaming app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, RadioStreamingApp]
+tags: [RadioStreamingApp]
 comments: true
 share: true
 ---

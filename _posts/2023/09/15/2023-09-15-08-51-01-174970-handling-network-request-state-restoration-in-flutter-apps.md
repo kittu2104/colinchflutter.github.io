@@ -3,7 +3,7 @@ layout: post
 title: "Handling network request state restoration in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, NetworkRequest, StateRestoration]
+tags: [NetworkRequest, StateRestoration]
 comments: true
 share: true
 ---

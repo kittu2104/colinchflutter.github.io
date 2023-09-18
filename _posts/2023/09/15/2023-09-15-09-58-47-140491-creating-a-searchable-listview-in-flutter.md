@@ -3,7 +3,7 @@ layout: post
 title: "Creating a searchable ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, searchableListView]
+tags: [searchableListView]
 comments: true
 share: true
 ---

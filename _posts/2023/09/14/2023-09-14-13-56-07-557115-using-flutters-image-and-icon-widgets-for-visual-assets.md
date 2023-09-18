@@ -3,7 +3,7 @@ layout: post
 title: "Using Flutter's image and icon widgets for visual assets"
 description: " "
 date: 2023-09-14
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

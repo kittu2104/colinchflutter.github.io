@@ -3,7 +3,7 @@ layout: post
 title: "Working with platform-specific sensors in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, sensors]
+tags: [sensors]
 comments: true
 share: true
 ---

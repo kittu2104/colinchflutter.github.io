@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio feedback and haptic response for accessibility in a Flutter application"
 description: " "
 date: 2023-09-18
-tags: [flutter, accessibility]
+tags: [accessibility]
 comments: true
 share: true
 ---

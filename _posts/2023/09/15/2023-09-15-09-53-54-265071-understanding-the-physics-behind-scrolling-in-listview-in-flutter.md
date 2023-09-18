@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the physics behind scrolling in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, scrolling]
+tags: [scrolling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the appearance of ListViews in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, customization]
+tags: [customization]
 comments: true
 share: true
 ---

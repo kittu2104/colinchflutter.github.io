@@ -3,7 +3,7 @@ layout: post
 title: "Implementing carpool and ride-sharing apps with Flutter's carpool widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, carpooling]
+tags: [carpooling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ListView with dynamic item heights in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview, dynamicheight, flutterdev]
+tags: [listview, dynamicheight, flutterdev]
 comments: true
 share: true
 ---

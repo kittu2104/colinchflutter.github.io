@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing platform-specific code across different Flutter project modules."
 description: " "
 date: 2023-09-17
-tags: [Flutter, CrossPlatformDevelopment]
+tags: [CrossPlatformDevelopment]
 comments: true
 share: true
 ---

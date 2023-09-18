@@ -3,7 +3,7 @@ layout: post
 title: "A/B testing in Flutter: Techniques for running A/B tests within Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, ABTesting]
+tags: [ABTesting]
 comments: true
 share: true
 ---

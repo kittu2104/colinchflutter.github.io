@@ -3,7 +3,7 @@ layout: post
 title: "Creating rich text editing experiences with Flutter's text input widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, textinput]
+tags: [textinput]
 comments: true
 share: true
 ---

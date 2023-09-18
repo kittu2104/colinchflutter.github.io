@@ -3,7 +3,7 @@ layout: post
 title: "Handling state restoration with custom video players in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, videoPlayer, stateRestoration]
+tags: [videoPlayer, stateRestoration]
 comments: true
 share: true
 ---

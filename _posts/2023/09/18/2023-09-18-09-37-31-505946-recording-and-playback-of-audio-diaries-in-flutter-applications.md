@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of audio diaries in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [flutter, audiorecording]
+tags: [audiorecording]
 comments: true
 share: true
 ---

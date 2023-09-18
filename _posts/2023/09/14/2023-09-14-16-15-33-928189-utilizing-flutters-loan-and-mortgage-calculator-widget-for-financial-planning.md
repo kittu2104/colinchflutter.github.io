@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's loan and mortgage calculator widget for financial planning"
 description: " "
 date: 2023-09-14
-tags: [Flutter, FinancialPlanning]
+tags: [FinancialPlanning]
 comments: true
 share: true
 ---

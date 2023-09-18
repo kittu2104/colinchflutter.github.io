@@ -3,7 +3,7 @@ layout: post
 title: "Building a meditation app with audio playback and guidance in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

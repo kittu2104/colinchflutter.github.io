@@ -3,7 +3,7 @@ layout: post
 title: "Tips for integrating platform-specific image recognition functionalities in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [Flutter, ImageRecognition]
+tags: [ImageRecognition]
 comments: true
 share: true
 ---

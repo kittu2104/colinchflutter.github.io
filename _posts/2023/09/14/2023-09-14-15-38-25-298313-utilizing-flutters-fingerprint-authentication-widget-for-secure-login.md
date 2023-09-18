@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's fingerprint authentication widget for secure login"
 description: " "
 date: 2023-09-14
-tags: [Flutter, FingerprintAuthentication]
+tags: [FingerprintAuthentication]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "ListView with overlapping item animations in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, animatedlistview]
+tags: [animatedlistview]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's offline storage capabilities with the local storage widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, localstorage]
+tags: [localstorage]
 comments: true
 share: true
 ---

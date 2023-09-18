@@ -3,7 +3,7 @@ layout: post
 title: "Implementing sentiment analysis and emotion detection with Flutter's sentiment analysis widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, sentimentanalysis, emotiondetection]
+tags: [sentimentanalysis, emotiondetection]
 comments: true
 share: true
 ---

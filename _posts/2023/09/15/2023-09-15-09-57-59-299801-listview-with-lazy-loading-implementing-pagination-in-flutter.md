@@ -3,7 +3,7 @@ layout: post
 title: "ListView with lazy loading: Implementing pagination in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, pagination]
+tags: [pagination]
 comments: true
 share: true
 ---

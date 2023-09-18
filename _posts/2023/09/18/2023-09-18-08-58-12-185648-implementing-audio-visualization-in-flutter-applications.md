@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio visualization in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [flutter, audiovisualization]
+tags: [audiovisualization]
 comments: true
 share: true
 ---

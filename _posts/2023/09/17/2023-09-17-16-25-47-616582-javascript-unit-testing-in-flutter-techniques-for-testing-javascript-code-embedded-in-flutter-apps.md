@@ -3,7 +3,7 @@ layout: post
 title: "JavaScript unit testing in Flutter: Techniques for testing JavaScript code embedded in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, JavaScriptTesting]
+tags: [JavaScriptTesting]
 comments: true
 share: true
 ---

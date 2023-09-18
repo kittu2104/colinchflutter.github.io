@@ -3,7 +3,7 @@ layout: post
 title: "Implementing an iOS-style grouped ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, GroupedListView]
+tags: [GroupedListView]
 comments: true
 share: true
 ---

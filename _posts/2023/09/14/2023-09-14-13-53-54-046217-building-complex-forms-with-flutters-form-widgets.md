@@ -3,7 +3,7 @@ layout: post
 title: "Building complex forms with Flutter's form widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, formwidgets]
+tags: [formwidgets]
 comments: true
 share: true
 ---

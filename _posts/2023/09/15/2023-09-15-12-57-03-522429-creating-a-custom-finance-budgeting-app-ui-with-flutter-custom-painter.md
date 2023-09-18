@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom finance budgeting app UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [flutter, finance]
+tags: [finance]
 comments: true
 share: true
 ---

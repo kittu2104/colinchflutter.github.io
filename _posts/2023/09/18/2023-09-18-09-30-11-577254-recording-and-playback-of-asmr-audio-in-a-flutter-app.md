@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of ASMR audio in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, asmr]
+tags: [asmr]
 comments: true
 share: true
 ---

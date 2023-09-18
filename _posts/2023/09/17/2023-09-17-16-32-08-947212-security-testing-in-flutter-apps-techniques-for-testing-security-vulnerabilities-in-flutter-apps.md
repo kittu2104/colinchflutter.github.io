@@ -3,7 +3,7 @@ layout: post
 title: "Security testing in Flutter apps: Techniques for testing security vulnerabilities in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, securitytesting]
+tags: [securitytesting]
 comments: true
 share: true
 ---

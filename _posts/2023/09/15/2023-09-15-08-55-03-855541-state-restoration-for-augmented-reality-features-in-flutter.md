@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for augmented reality features in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, AugmentedReality]
+tags: [AugmentedReality]
 comments: true
 share: true
 ---

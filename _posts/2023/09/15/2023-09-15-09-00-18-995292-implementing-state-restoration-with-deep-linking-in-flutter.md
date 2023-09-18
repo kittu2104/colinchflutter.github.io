@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with deep linking in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration, DeepLinking]
+tags: [StateRestoration, DeepLinking]
 comments: true
 share: true
 ---

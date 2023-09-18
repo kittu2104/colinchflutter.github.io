@@ -3,7 +3,7 @@ layout: post
 title: "Implementing driver safety and fleet management apps with Flutter's driver safety widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, driversafety, fleetmanagement]
+tags: [driversafety, fleetmanagement]
 comments: true
 share: true
 ---

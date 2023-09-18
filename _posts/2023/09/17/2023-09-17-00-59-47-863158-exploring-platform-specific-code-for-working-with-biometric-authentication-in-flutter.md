@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific code for working with biometric authentication in Flutter."
 description: " "
 date: 2023-09-17
-tags: [Flutter, BiometricAuthentication]
+tags: [BiometricAuthentication]
 comments: true
 share: true
 ---

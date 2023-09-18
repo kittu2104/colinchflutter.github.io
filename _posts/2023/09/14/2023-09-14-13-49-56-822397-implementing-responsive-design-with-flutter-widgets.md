@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive design with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

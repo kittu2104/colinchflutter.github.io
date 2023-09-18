@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the platform-specific code capabilities in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, platform]
+tags: [platform]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling state restoration in Flutter e-commerce apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, ecommerce]
+tags: [ecommerce]
 comments: true
 share: true
 ---

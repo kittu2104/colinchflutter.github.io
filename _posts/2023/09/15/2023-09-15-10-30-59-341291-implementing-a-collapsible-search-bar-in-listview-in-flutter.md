@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a collapsible search bar in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView, SearchBar]
+tags: [ListView, SearchBar]
 comments: true
 share: true
 ---

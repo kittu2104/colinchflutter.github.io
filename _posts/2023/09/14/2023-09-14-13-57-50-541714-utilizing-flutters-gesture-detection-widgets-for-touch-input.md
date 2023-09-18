@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's gesture detection widgets for touch input"
 description: " "
 date: 2023-09-14
-tags: [Flutter, GestureDetection]
+tags: [GestureDetection]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific code for advanced data modeling in Flutter."
 description: " "
 date: 2023-09-17
-tags: [Flutter, DataModeling]
+tags: [DataModeling]
 comments: true
 share: true
 ---

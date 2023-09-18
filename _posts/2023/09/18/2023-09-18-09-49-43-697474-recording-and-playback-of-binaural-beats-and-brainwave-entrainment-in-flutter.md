@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of binaural beats and brainwave entrainment in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, binauralbeats]
+tags: [binauralbeats]
 comments: true
 share: true
 ---

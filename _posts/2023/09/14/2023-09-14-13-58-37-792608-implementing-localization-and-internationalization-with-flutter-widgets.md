@@ -3,7 +3,7 @@ layout: post
 title: "Implementing localization and internationalization with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, localization, internationalization]
+tags: [localization, internationalization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with augmented reality mapping in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, ARmapping]
+tags: [ARmapping]
 comments: true
 share: true
 ---

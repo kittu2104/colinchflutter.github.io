@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling platform-specific biometric authentication in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, biometricauthentication]
+tags: [biometricauthentication]
 comments: true
 share: true
 ---

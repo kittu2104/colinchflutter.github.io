@@ -3,7 +3,7 @@ layout: post
 title: "Creating a draggable ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, DraggableListView]
+tags: [DraggableListView]
 comments: true
 share: true
 ---

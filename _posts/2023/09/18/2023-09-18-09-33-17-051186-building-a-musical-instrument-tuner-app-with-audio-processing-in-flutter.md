@@ -3,7 +3,7 @@ layout: post
 title: "Building a musical instrument tuner app with audio processing in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AudioProcessing]
+tags: [AudioProcessing]
 comments: true
 share: true
 ---

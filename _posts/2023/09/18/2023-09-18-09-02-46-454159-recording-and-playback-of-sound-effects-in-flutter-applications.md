@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of sound effects in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [flutter, soundeffects]
+tags: [soundeffects]
 comments: true
 share: true
 ---

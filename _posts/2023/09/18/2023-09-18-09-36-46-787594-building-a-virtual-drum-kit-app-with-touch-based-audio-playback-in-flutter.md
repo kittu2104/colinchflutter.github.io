@@ -3,7 +3,7 @@ layout: post
 title: "Building a virtual drum kit app with touch-based audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, drumkit]
+tags: [drumkit]
 comments: true
 share: true
 ---

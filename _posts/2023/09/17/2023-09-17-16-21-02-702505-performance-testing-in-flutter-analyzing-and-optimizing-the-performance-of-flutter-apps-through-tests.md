@@ -3,7 +3,7 @@ layout: post
 title: "Performance testing in Flutter: Analyzing and optimizing the performance of Flutter apps through tests"
 description: " "
 date: 2023-09-17
-tags: [Flutter, PerformanceTesting]
+tags: [PerformanceTesting]
 comments: true
 share: true
 ---

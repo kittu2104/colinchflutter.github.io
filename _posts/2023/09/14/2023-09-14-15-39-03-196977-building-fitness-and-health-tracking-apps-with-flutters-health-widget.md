@@ -3,7 +3,7 @@ layout: post
 title: "Building fitness and health tracking apps with Flutter's health widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, HealthTracking, AppDevelopment]
+tags: [HealthTracking, AppDevelopment]
 comments: true
 share: true
 ---

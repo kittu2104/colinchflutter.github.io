@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of audiobooks in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, audiobook]
+tags: [audiobook]
 comments: true
 share: true
 ---

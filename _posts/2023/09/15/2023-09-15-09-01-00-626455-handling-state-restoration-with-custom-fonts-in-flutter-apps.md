@@ -3,7 +3,7 @@ layout: post
 title: "Handling state restoration with custom fonts in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [flutter, customfonts]
+tags: [customfonts]
 comments: true
 share: true
 ---

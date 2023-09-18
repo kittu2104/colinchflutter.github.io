@@ -3,7 +3,7 @@ layout: post
 title: "Adding swipe-to-delete functionality to ListView items in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

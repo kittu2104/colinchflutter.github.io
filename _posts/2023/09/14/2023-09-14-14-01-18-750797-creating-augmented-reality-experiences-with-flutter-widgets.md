@@ -3,7 +3,7 @@ layout: post
 title: "Creating augmented reality experiences with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

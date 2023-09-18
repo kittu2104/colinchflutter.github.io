@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio noise reduction and audio enhancement in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AudioProcessing]
+tags: [AudioProcessing]
 comments: true
 share: true
 ---

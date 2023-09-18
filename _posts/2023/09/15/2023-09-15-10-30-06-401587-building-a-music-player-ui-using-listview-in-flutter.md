@@ -3,7 +3,7 @@ layout: post
 title: "Building a music player UI using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

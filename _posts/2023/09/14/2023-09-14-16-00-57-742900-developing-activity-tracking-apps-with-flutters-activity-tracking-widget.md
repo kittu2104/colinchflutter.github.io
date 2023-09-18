@@ -3,7 +3,7 @@ layout: post
 title: "Developing activity tracking apps with Flutter's activity tracking widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, ActivityTracking, AppDevelopment]
+tags: [ActivityTracking, AppDevelopment]
 comments: true
 share: true
 ---

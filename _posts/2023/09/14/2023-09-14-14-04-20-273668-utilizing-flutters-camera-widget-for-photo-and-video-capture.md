@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's camera widget for photo and video capture"
 description: " "
 date: 2023-09-14
-tags: [flutter, camera]
+tags: [camera]
 comments: true
 share: true
 ---

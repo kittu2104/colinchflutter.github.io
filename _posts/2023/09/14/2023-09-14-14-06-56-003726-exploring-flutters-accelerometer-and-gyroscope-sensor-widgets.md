@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Flutter's accelerometer and gyroscope sensor widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, sensors]
+tags: [sensors]
 comments: true
 share: true
 ---

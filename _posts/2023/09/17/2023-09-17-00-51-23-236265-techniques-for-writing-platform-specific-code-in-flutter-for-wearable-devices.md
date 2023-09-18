@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code in Flutter for wearable devices."
 description: " "
 date: 2023-09-17
-tags: [flutter, wearable, appdevelopment, flutterdev]
+tags: [wearable, appdevelopment, flutterdev]
 comments: true
 share: true
 ---

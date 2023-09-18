@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for voice assistants in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, voicestate, assistant]
+tags: [voicestate, assistant]
 comments: true
 share: true
 ---

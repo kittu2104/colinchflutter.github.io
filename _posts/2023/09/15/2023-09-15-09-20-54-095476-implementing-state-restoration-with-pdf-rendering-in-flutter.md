@@ -3,7 +3,7 @@ layout: post
 title: "Implementing state restoration with PDF rendering in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, PDFRendering]
+tags: [PDFRendering]
 comments: true
 share: true
 ---

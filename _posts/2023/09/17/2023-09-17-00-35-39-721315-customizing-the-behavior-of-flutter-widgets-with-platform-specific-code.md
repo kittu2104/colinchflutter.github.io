@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the behavior of Flutter widgets with platform-specific code."
 description: " "
 date: 2023-09-17
-tags: [flutter, crossplatform, platformspecific, widgetbehavior]
+tags: [crossplatform, platformspecific, widgetbehavior]
 comments: true
 share: true
 ---

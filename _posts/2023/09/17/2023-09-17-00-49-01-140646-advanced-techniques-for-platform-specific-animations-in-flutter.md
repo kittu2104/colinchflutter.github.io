@@ -3,7 +3,7 @@ layout: post
 title: "Advanced techniques for platform-specific animations in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, animations]
+tags: [animations]
 comments: true
 share: true
 ---

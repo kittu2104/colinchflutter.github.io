@@ -3,7 +3,7 @@ layout: post
 title: "Automated API testing in Flutter: Using tools like Postman to automate API testing in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, APItesting]
+tags: [APItesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building quiz and trivia games with Flutter's quiz widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, QuizWidget, AppDevelopment]
+tags: [QuizWidget, AppDevelopment]
 comments: true
 share: true
 ---

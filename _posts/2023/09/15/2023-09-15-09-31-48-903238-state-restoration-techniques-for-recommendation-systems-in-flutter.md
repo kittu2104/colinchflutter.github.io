@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for recommendation systems in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, recommendationSystem, stateRestoration, caching]
+tags: [recommendationSystem, stateRestoration, caching]
 comments: true
 share: true
 ---

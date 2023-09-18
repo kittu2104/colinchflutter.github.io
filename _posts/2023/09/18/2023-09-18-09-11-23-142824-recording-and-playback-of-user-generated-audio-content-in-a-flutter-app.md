@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of user-generated audio content in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, audiorecording]
+tags: [audiorecording]
 comments: true
 share: true
 ---

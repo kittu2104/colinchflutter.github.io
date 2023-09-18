@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for real-time collaboration on documents in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration]
+tags: [StateRestoration]
 comments: true
 share: true
 ---

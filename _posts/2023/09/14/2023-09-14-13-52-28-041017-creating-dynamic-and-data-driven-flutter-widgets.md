@@ -3,7 +3,7 @@ layout: post
 title: "Creating dynamic and data-driven Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, widgetcomposition, flutterstatemanagement]
+tags: [widgetcomposition, flutterstatemanagement]
 comments: true
 share: true
 ---

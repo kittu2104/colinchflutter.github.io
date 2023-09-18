@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling platform-specific device synchronization in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, deviceSynchronization]
+tags: [deviceSynchronization]
 comments: true
 share: true
 ---

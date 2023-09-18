@@ -3,7 +3,7 @@ layout: post
 title: "How to implement a basic ListView in Flutter?"
 description: " "
 date: 2023-09-15
-tags: [flutter, listview]
+tags: [listview]
 comments: true
 share: true
 ---

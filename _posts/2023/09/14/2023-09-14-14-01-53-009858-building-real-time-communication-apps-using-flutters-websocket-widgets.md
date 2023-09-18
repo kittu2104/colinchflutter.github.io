@@ -3,7 +3,7 @@ layout: post
 title: "Building real-time communication apps using Flutter's websocket widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, realtimecommunication, websockets]
+tags: [realtimecommunication, websockets]
 comments: true
 share: true
 ---

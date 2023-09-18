@@ -3,7 +3,7 @@ layout: post
 title: "Building a nature sounds app with audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

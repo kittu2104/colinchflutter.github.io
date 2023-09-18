@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for indoor navigation in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, indoornavigation]
+tags: [indoornavigation]
 comments: true
 share: true
 ---

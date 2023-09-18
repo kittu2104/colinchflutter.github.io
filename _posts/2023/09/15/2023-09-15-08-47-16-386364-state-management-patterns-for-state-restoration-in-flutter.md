@@ -3,7 +3,7 @@ layout: post
 title: "State management patterns for state restoration in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, StateRestoration]
+tags: [StateRestoration]
 comments: true
 share: true
 ---

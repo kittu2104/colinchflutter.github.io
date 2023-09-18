@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of soundscapes for relaxation in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, Soundscapes]
+tags: [Soundscapes]
 comments: true
 share: true
 ---

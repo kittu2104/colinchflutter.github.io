@@ -3,7 +3,7 @@ layout: post
 title: "Component-based testing in Flutter: Strategies for testing individual components in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

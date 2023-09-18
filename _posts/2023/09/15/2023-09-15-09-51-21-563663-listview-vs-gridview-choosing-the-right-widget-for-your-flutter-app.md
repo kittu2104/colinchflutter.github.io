@@ -3,7 +3,7 @@ layout: post
 title: "ListView vs GridView: Choosing the right widget for your Flutter app."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView, GridView]
+tags: [ListView, GridView]
 comments: true
 share: true
 ---

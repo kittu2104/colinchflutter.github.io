@@ -3,7 +3,7 @@ layout: post
 title: "ListView with swipeable actions for each item in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, swipeableListView]
+tags: [swipeableListView]
 comments: true
 share: true
 ---

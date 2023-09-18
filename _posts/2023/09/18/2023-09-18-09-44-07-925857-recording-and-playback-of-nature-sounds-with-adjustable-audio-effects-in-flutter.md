@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of nature sounds with adjustable audio effects in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

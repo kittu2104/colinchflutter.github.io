@@ -3,7 +3,7 @@ layout: post
 title: "Creating a tiled ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, tiledListView]
+tags: [tiledListView]
 comments: true
 share: true
 ---

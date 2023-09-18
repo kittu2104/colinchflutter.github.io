@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a parallax effect in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ParallaxEffect]
+tags: [ParallaxEffect]
 comments: true
 share: true
 ---

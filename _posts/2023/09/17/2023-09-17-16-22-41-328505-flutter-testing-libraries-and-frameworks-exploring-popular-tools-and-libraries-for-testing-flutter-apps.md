@@ -3,7 +3,7 @@ layout: post
 title: "Flutter testing libraries and frameworks: Exploring popular tools and libraries for testing Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [flutter, testing, fluttertest, mockito]
+tags: [testing, fluttertest, mockito]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a grid-like ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, mobiledev]
+tags: [mobiledev]
 comments: true
 share: true
 ---

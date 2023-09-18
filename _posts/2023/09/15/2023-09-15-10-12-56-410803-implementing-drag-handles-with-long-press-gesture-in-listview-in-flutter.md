@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag handles with long press gesture in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, draghandles, listview]
+tags: [draghandles, listview]
 comments: true
 share: true
 ---

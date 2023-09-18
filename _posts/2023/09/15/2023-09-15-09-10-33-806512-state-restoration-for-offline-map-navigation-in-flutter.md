@@ -3,7 +3,7 @@ layout: post
 title: "State restoration for offline map navigation in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, MapNavigation]
+tags: [MapNavigation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a live music performance app with synchronized audio playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AudioPlayback]
+tags: [AudioPlayback]
 comments: true
 share: true
 ---

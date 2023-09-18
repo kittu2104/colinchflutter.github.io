@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio fingerprinting for content identification in a Flutter app"
 description: " "
 date: 2023-09-18
-tags: [flutter, audiofingerprinting]
+tags: [audiofingerprinting]
 comments: true
 share: true
 ---

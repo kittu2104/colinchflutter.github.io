@@ -3,7 +3,7 @@ layout: post
 title: "Understanding Flutter widget composition and reusability"
 description: " "
 date: 2023-09-14
-tags: [flutter, widgetcomposition]
+tags: [widgetcomposition]
 comments: true
 share: true
 ---

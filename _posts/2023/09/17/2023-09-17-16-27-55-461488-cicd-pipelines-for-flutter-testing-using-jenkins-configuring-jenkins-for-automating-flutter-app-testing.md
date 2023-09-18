@@ -3,7 +3,7 @@ layout: post
 title: "CI/CD pipelines for Flutter testing using Jenkins: Configuring Jenkins for automating Flutter app testing"
 description: " "
 date: 2023-09-17
-tags: [flutter, jenkins]
+tags: [jenkins]
 comments: true
 share: true
 ---

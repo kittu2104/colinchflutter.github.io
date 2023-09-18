@@ -3,7 +3,7 @@ layout: post
 title: "Displaying different types of widgets in a single ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, widget]
+tags: [widget]
 comments: true
 share: true
 ---

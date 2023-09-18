@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for QR code scanning in Flutter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, QRCodeScanning, StateRestoration]
+tags: [QRCodeScanning, StateRestoration]
 comments: true
 share: true
 ---

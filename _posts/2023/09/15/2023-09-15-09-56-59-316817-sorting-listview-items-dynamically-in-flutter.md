@@ -3,7 +3,7 @@ layout: post
 title: "Sorting ListView items dynamically in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, sorting]
+tags: [sorting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a horizontal carousel using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, carousel]
+tags: [carousel]
 comments: true
 share: true
 ---

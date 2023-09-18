@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for machine vision in Flutter"
 description: " "
 date: 2023-09-15
-tags: [flutter, machinevision]
+tags: [machinevision]
 comments: true
 share: true
 ---

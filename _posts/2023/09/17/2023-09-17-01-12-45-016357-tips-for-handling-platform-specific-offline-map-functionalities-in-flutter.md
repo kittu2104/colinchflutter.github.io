@@ -3,7 +3,7 @@ layout: post
 title: "Tips for handling platform-specific offline map functionalities in Flutter."
 description: " "
 date: 2023-09-17
-tags: [Flutter, OfflineMaps]
+tags: [OfflineMaps]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building machine learning models and AI integrations with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [Flutter, MachineLearning]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

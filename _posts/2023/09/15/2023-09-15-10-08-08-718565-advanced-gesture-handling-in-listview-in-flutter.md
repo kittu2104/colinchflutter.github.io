@@ -3,7 +3,7 @@ layout: post
 title: "Advanced gesture handling in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Flutter, ListView, GestureHandling]
+tags: [ListView, GestureHandling]
 comments: true
 share: true
 ---

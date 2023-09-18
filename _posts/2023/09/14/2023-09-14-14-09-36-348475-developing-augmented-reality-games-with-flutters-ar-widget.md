@@ -3,7 +3,7 @@ layout: post
 title: "Developing augmented reality games with Flutter's AR widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, augmentedreality, gamedevelopment]
+tags: [augmentedreality, gamedevelopment]
 comments: true
 share: true
 ---

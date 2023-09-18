@@ -3,7 +3,7 @@ layout: post
 title: "Extending the functionality of platform-specific packages in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, platformSpecificPackages, FlutterDevelopment]
+tags: [platformSpecificPackages, FlutterDevelopment]
 comments: true
 share: true
 ---

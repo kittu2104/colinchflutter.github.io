@@ -3,7 +3,7 @@ layout: post
 title: "How to efficiently handle platform-specific errors in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

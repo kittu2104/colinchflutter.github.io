@@ -3,7 +3,7 @@ layout: post
 title: "Building meditation and relaxation apps with Flutter's meditation widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, meditation, relaxation]
+tags: [meditation, relaxation]
 comments: true
 share: true
 ---

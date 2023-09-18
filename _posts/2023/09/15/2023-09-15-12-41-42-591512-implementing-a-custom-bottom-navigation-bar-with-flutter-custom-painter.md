@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom bottom navigation bar with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [Flutter, CustomPainter]
+tags: [CustomPainter]
 comments: true
 share: true
 ---

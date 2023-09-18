@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Flutter's widget build context and inheritance model"
 description: " "
 date: 2023-09-14
-tags: [flutter, mobiledevelopment]
+tags: [mobiledevelopment]
 comments: true
 share: true
 ---

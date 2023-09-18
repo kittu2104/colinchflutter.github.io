@@ -3,7 +3,7 @@ layout: post
 title: "ListView with divided sections in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, ListView, MobileDevelopment]
+tags: [ListView, MobileDevelopment]
 comments: true
 share: true
 ---

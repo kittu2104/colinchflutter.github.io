@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's gesture recognition widgets for game development"
 description: " "
 date: 2023-09-14
-tags: [flutter, gamedevelopment, flutter, gamedevelopment]
+tags: [gamedevelopment, flutter, gamedevelopment]
 comments: true
 share: true
 ---

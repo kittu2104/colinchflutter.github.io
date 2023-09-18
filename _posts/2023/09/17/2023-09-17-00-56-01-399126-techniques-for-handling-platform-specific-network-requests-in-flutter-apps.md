@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling platform-specific network requests in Flutter apps."
 description: " "
 date: 2023-09-17
-tags: [flutter, networking, crossplatform]
+tags: [networking, crossplatform]
 comments: true
 share: true
 ---

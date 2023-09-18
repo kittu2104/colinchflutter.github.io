@@ -3,7 +3,7 @@ layout: post
 title: "Exploring Flutter's Cupertino widgets and iOS-style UI"
 description: " "
 date: 2023-09-14
-tags: [flutter, CupertinoWidgets]
+tags: [CupertinoWidgets]
 comments: true
 share: true
 ---

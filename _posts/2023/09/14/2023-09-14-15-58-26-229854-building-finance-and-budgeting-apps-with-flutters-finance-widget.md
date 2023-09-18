@@ -3,7 +3,7 @@ layout: post
 title: "Building finance and budgeting apps with Flutter's finance widget"
 description: " "
 date: 2023-09-14
-tags: [flutter, financeapp]
+tags: [financeapp]
 comments: true
 share: true
 ---

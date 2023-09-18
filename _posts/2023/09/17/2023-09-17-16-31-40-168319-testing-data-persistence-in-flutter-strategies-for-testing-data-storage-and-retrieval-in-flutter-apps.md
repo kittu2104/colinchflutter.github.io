@@ -3,7 +3,7 @@ layout: post
 title: "Testing data persistence in Flutter: Strategies for testing data storage and retrieval in Flutter apps"
 description: " "
 date: 2023-09-17
-tags: [Flutter, DataPersistence, Testing]
+tags: [DataPersistence, Testing]
 comments: true
 share: true
 ---

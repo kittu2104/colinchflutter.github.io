@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time collaboration and whiteboarding with Flutter's collaborative editing widget"
 description: " "
 date: 2023-09-14
-tags: [Flutter, CollaborativeEditing, RealTimeCollaboration, Whiteboarding]
+tags: [CollaborativeEditing, RealTimeCollaboration, Whiteboarding]
 comments: true
 share: true
 ---

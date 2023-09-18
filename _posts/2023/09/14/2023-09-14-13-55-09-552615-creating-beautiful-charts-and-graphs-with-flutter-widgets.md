@@ -3,7 +3,7 @@ layout: post
 title: "Creating beautiful charts and graphs with Flutter widgets"
 description: " "
 date: 2023-09-14
-tags: [flutter, charts]
+tags: [charts]
 comments: true
 share: true
 ---

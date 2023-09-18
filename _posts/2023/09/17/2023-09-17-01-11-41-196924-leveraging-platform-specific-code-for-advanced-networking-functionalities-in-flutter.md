@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific code for advanced networking functionalities in Flutter."
 description: " "
 date: 2023-09-17
-tags: [flutter, platform, networking]
+tags: [platform, networking]
 comments: true
 share: true
 ---

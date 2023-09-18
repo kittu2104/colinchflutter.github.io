@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling state restoration in Flutter web projects"
 description: " "
 date: 2023-09-15
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

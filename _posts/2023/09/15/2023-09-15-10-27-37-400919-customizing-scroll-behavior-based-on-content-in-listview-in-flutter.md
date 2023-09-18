@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll behavior based on content in ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [flutter, listview]
+tags: [listview]
 comments: true
 share: true
 ---
