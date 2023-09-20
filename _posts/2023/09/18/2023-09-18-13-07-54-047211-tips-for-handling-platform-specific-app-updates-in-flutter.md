@@ -3,7 +3,7 @@ layout: post
 title: "Tips for handling platform-specific app updates in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

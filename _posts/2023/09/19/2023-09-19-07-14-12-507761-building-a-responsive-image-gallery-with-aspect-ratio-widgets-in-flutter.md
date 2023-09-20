@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive image gallery with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, responsivegallery]
+tags: [responsivegallery]
 comments: true
 share: true
 ---

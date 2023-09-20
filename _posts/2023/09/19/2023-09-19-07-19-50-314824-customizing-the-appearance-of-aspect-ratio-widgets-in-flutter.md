@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the appearance of Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, AspectRatiowidget]
+tags: [AspectRatiowidget]
 comments: true
 share: true
 ---

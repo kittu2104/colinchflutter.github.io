@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom splash screens in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, splashscreen]
+tags: [splashscreen]
 comments: true
 share: true
 ---

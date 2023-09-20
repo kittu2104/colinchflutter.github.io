@@ -3,7 +3,7 @@ layout: post
 title: "Applying custom scroll physics to FitTransition and SlideTransition in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, Animations]
+tags: [Animations]
 comments: true
 share: true
 ---

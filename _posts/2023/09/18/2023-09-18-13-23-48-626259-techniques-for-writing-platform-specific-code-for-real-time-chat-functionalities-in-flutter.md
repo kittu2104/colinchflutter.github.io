@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code for real-time chat functionalities in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, chat]
+tags: [chat]
 comments: true
 share: true
 ---

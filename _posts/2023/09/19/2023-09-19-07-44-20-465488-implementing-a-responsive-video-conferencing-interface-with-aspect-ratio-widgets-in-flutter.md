@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive video conferencing interface with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoConferencing]
+tags: [VideoConferencing]
 comments: true
 share: true
 ---

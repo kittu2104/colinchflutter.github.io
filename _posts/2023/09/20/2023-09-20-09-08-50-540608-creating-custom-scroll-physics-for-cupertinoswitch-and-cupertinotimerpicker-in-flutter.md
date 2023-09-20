@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom scroll physics for CupertinoSwitch and CupertinoTimerPicker in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, ScrollPhysics]
+tags: [ScrollPhysics]
 comments: true
 share: true
 ---

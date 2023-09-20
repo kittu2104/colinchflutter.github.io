@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll physics for CupertinoSwitch and CupertinoPicker in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, iOSWidgets]
+tags: [iOSWidgets]
 comments: true
 share: true
 ---

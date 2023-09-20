@@ -3,7 +3,7 @@ layout: post
 title: "Exploring different types of scroll physics in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, ScrollPhysics]
+tags: [ScrollPhysics]
 comments: true
 share: true
 ---

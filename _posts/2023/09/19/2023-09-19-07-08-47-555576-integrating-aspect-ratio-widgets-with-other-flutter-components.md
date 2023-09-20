@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Aspect Ratio widgets with other Flutter components"
 description: " "
 date: 2023-09-19
-tags: [Flutter, AspectRatios]
+tags: [AspectRatios]
 comments: true
 share: true
 ---

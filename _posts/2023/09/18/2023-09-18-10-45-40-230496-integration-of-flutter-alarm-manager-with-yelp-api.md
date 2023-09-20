@@ -3,7 +3,7 @@ layout: post
 title: "Integration of Flutter Alarm Manager with Yelp API"
 description: " "
 date: 2023-09-18
-tags: [flutter, yelp]
+tags: [yelp]
 comments: true
 share: true
 ---

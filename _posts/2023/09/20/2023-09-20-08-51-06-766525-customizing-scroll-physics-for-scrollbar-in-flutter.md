@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll physics for Scrollbar in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollbar]
+tags: [scrollbar]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Architectural patterns for managing platform-specific code in Flutter projects."
 description: " "
 date: 2023-09-18
-tags: [flutter, crossplatform]
+tags: [crossplatform]
 comments: true
 share: true
 ---

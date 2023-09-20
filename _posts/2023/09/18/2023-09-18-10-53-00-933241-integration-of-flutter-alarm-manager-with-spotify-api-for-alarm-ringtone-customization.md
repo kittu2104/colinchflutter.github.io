@@ -3,7 +3,7 @@ layout: post
 title: "Integration of Flutter Alarm Manager with Spotify API for alarm ringtone customization"
 description: " "
 date: 2023-09-18
-tags: [flutter, spotify]
+tags: [spotify]
 comments: true
 share: true
 ---

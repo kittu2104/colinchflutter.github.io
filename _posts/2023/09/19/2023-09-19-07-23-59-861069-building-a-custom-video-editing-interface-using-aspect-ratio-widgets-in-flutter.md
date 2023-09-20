@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom video editing interface using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoediting]
+tags: [videoediting]
 comments: true
 share: true
 ---

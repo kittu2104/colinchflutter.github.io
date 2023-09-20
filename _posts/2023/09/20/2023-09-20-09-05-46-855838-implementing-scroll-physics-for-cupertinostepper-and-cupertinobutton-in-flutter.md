@@ -3,7 +3,7 @@ layout: post
 title: "Implementing scroll physics for CupertinoStepper and CupertinoButton in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, Cupertino]
+tags: [Cupertino]
 comments: true
 share: true
 ---

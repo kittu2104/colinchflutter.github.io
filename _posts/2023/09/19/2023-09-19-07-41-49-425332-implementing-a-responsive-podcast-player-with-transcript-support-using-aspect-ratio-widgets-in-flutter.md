@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive podcast player with transcript support using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, podcastplayer]
+tags: [podcastplayer]
 comments: true
 share: true
 ---

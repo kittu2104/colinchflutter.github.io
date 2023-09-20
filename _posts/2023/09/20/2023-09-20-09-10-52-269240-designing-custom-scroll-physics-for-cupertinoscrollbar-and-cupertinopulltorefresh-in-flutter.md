@@ -3,7 +3,7 @@ layout: post
 title: "Designing custom scroll physics for CupertinoScrollbar and CupertinoPullToRefresh in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

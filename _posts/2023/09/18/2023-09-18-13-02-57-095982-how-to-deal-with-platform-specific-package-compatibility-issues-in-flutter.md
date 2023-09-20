@@ -3,7 +3,7 @@ layout: post
 title: "How to deal with platform-specific package compatibility issues in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, packagecompatibility]
+tags: [packagecompatibility]
 comments: true
 share: true
 ---

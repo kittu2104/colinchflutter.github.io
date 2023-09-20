@@ -3,7 +3,7 @@ layout: post
 title: "Creating a self-care app with calming alarm sounds in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, SelfCareApp]
+tags: [SelfCareApp]
 comments: true
 share: true
 ---

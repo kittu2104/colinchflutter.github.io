@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive video background player with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoPlayer, MobileDevelopment]
+tags: [VideoPlayer, MobileDevelopment]
 comments: true
 share: true
 ---

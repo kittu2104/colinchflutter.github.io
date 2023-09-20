@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a task planner app with priority-based alarms using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [Flutter, TaskPlanner]
+tags: [TaskPlanner]
 comments: true
 share: true
 ---

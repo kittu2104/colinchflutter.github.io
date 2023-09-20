@@ -3,7 +3,7 @@ layout: post
 title: "Using custom scroll physics with GridView in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

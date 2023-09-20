@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive PDF viewer with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, pdfviewer]
+tags: [pdfviewer]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific code for advanced geolocation functionalities in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, geolocation]
+tags: [geolocation]
 comments: true
 share: true
 ---

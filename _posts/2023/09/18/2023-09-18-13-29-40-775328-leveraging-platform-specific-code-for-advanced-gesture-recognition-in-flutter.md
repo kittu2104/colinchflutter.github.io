@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific code for advanced gesture recognition in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, mobiledevelopment]
+tags: [mobiledevelopment]
 comments: true
 share: true
 ---

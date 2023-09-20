@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing custom scroll physics for CustomScrollView.custom and ReorderableListView in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, customscrollphysics]
+tags: [customscrollphysics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Developing a custom image recognition app using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, ImageRecognition, MobileDevelopment]
+tags: [ImageRecognition, MobileDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Designing custom scroll physics for PageView.custom and SingleChildScrollView in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrolling]
+tags: [scrolling]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create a responsive video sharing app in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoSharingApp]
+tags: [videoSharingApp]
 comments: true
 share: true
 ---

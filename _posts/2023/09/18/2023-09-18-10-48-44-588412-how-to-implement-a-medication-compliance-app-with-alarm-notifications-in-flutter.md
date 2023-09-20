@@ -3,7 +3,7 @@ layout: post
 title: "How to implement a medication compliance app with alarm notifications in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, medicationcompliance]
+tags: [medicationcompliance]
 comments: true
 share: true
 ---

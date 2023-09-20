@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom scroll physics for specific scroll behaviors in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrolling]
+tags: [scrolling]
 comments: true
 share: true
 ---

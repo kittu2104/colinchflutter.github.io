@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll physics for CupertinoTextField and CupertinoPageScaffold in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, customization]
+tags: [customization]
 comments: true
 share: true
 ---

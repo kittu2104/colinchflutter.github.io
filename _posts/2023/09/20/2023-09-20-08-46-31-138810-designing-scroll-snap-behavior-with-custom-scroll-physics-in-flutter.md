@@ -3,7 +3,7 @@ layout: post
 title: "Designing scroll snap behavior with custom scroll physics in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollsnapbehavior]
+tags: [scrollsnapbehavior]
 comments: true
 share: true
 ---

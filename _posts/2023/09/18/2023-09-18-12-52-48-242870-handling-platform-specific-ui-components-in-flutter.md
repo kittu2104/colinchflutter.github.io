@@ -3,7 +3,7 @@ layout: post
 title: "Handling platform-specific UI components in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, UIComponents]
+tags: [UIComponents]
 comments: true
 share: true
 ---

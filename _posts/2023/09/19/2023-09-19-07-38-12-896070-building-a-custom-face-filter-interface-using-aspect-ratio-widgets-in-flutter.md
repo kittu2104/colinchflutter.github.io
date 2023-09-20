@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom face filter interface using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, facefilters]
+tags: [facefilters]
 comments: true
 share: true
 ---

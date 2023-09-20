@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create a responsive video downloader app in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

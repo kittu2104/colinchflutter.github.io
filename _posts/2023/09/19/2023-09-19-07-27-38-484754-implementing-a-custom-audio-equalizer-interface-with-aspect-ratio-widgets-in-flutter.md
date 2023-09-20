@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom audio equalizer interface with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, audioequalizer]
+tags: [audioequalizer]
 comments: true
 share: true
 ---

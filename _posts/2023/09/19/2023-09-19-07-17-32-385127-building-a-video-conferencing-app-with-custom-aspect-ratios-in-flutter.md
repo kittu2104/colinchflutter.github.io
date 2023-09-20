@@ -3,7 +3,7 @@ layout: post
 title: "Building a video conferencing app with custom aspect ratios in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoconferencing, customaspectratios]
+tags: [videoconferencing, customaspectratios]
 comments: true
 share: true
 ---

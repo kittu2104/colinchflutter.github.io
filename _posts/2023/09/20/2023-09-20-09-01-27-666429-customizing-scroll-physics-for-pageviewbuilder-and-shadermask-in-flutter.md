@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll physics for PageView.builder and ShaderMask in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, customscrollphysics]
+tags: [customscrollphysics]
 comments: true
 share: true
 ---

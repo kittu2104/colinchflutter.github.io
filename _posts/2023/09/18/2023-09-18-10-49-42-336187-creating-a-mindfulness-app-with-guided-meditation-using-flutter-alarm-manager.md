@@ -3,7 +3,7 @@ layout: post
 title: "Creating a mindfulness app with guided meditation using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [Flutter, MindfulnessApp]
+tags: [MindfulnessApp]
 comments: true
 share: true
 ---

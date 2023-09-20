@@ -3,7 +3,7 @@ layout: post
 title: "Working with Aspect Ratio widgets to design a responsive news reader app in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, responsive]
+tags: [responsive]
 comments: true
 share: true
 ---

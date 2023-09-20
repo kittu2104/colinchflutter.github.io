@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive video call interface with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoCalls]
+tags: [videoCalls]
 comments: true
 share: true
 ---

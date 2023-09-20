@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive video chat interface with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videostreaming, videochat, flutterdevelopment]
+tags: [videostreaming, videochat, flutterdevelopment]
 comments: true
 share: true
 ---

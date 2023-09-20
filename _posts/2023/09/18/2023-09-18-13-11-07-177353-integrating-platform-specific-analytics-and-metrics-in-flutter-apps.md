@@ -3,7 +3,7 @@ layout: post
 title: "Integrating platform-specific analytics and metrics in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [Flutter, Analytics]
+tags: [Analytics]
 comments: true
 share: true
 ---

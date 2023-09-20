@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom video streaming platform with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videostreaming, aspectratiowidgets]
+tags: [videostreaming, aspectratiowidgets]
 comments: true
 share: true
 ---

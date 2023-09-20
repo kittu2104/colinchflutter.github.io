@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom video game UIs in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, gamedesign]
+tags: [gamedesign]
 comments: true
 share: true
 ---

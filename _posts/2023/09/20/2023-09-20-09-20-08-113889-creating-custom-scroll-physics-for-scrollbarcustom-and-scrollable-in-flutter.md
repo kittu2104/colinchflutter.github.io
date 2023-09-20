@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom scroll physics for Scrollbar.custom and Scrollable in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

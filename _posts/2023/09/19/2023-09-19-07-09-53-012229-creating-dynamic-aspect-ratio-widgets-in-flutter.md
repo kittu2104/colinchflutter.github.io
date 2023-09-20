@@ -3,7 +3,7 @@ layout: post
 title: "Creating dynamic Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

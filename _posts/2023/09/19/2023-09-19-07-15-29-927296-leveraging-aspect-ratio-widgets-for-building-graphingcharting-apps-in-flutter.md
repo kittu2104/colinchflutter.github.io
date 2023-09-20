@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for building graphing/charting apps in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, GraphingApps]
+tags: [GraphingApps]
 comments: true
 share: true
 ---

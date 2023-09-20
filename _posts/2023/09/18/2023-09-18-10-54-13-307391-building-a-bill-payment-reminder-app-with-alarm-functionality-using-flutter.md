@@ -3,7 +3,7 @@ layout: post
 title: "Building a bill payment reminder app with alarm functionality using Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AppDevelopment]
+tags: [AppDevelopment]
 comments: true
 share: true
 ---

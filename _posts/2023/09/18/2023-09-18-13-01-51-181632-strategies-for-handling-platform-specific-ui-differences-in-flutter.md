@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling platform-specific UI differences in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, UIdesign]
+tags: [UIdesign]
 comments: true
 share: true
 ---

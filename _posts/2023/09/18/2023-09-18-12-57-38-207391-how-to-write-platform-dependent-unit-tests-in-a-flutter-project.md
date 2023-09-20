@@ -3,7 +3,7 @@ layout: post
 title: "How to write platform-dependent unit tests in a Flutter project."
 description: " "
 date: 2023-09-18
-tags: [Flutter, UnitTesting]
+tags: [UnitTesting]
 comments: true
 share: true
 ---

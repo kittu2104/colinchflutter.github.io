@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive weather app using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, WeatherApp]
+tags: [WeatherApp]
 comments: true
 share: true
 ---

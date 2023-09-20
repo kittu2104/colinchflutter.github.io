@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom scroll physics for CupertinoNavigationBar and CupertinoActivityIndicator in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

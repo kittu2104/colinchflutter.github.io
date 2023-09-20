@@ -3,7 +3,7 @@ layout: post
 title: "Using custom scroll physics with SliverOverlapAbsorber and SliverGrid in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, CustomScrollPhysics]
+tags: [CustomScrollPhysics]
 comments: true
 share: true
 ---

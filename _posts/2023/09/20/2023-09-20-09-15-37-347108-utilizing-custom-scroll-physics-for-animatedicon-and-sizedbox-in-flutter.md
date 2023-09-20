@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing custom scroll physics for AnimatedIcon and SizedBox in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, CustomScrollPhysics]
+tags: [CustomScrollPhysics]
 comments: true
 share: true
 ---

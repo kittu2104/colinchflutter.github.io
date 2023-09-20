@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing custom scroll physics for parallax scrolling in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, ParallaxScrolling]
+tags: [ParallaxScrolling]
 comments: true
 share: true
 ---

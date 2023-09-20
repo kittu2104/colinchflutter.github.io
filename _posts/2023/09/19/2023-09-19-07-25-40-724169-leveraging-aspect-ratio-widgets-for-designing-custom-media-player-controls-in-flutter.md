@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom media player controls in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, MediaControls]
+tags: [MediaControls]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for video display in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoDisplay]
+tags: [VideoDisplay]
 comments: true
 share: true
 ---

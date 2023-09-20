@@ -3,7 +3,7 @@ layout: post
 title: "Tips for debugging platform-specific code in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, debugging]
+tags: [debugging]
 comments: true
 share: true
 ---

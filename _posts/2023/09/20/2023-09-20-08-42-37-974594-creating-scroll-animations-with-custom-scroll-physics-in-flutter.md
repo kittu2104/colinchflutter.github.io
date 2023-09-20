@@ -3,7 +3,7 @@ layout: post
 title: "Creating scroll animations with custom scroll physics in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollanimations]
+tags: [scrollanimations]
 comments: true
 share: true
 ---

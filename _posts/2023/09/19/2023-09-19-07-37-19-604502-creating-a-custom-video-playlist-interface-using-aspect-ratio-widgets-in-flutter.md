@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom video playlist interface using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoplaylist, flutterdevelopment]
+tags: [videoplaylist, flutterdevelopment]
 comments: true
 share: true
 ---

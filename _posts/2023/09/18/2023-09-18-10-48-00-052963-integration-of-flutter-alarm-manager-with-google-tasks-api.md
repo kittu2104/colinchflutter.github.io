@@ -3,7 +3,7 @@ layout: post
 title: "Integration of Flutter Alarm Manager with Google Tasks API"
 description: " "
 date: 2023-09-18
-tags: [flutter, google_tasks_api]
+tags: [google_tasks_api]
 comments: true
 share: true
 ---

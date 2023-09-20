@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing custom scroll physics with NestedScrollView in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, NestedScrollView]
+tags: [NestedScrollView]
 comments: true
 share: true
 ---

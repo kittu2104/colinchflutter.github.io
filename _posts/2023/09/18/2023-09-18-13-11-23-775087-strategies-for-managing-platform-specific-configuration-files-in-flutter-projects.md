@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for managing platform-specific configuration files in Flutter projects."
 description: " "
 date: 2023-09-18
-tags: [flutter, configuration]
+tags: [configuration]
 comments: true
 share: true
 ---

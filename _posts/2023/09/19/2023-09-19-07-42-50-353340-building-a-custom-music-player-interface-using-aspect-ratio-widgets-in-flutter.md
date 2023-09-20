@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom music player interface using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, MusicPlayerInterface]
+tags: [MusicPlayerInterface]
 comments: true
 share: true
 ---

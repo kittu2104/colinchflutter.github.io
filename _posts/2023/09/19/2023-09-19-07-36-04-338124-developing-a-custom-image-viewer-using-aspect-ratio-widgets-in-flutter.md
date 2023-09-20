@@ -3,7 +3,7 @@ layout: post
 title: "Developing a custom image viewer using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

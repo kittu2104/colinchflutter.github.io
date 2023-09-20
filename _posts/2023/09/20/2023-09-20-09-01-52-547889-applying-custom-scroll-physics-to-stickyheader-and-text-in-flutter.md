@@ -3,7 +3,7 @@ layout: post
 title: "Applying custom scroll physics to StickyHeader and Text in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, CustomScrollPhysics]
+tags: [CustomScrollPhysics]
 comments: true
 share: true
 ---

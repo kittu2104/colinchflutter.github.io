@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll physics for Transform and DecoratedBox in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

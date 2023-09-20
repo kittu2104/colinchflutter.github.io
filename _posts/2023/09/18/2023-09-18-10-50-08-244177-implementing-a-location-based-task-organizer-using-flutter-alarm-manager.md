@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a location-based task organizer using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [flutter, location]
+tags: [location]
 comments: true
 share: true
 ---

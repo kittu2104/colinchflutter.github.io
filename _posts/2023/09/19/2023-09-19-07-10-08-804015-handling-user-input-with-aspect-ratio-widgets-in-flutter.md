@@ -3,7 +3,7 @@ layout: post
 title: "Handling user input with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, UserInput]
+tags: [UserInput]
 comments: true
 share: true
 ---

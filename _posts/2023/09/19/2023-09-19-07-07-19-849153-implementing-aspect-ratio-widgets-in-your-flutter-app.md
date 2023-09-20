@@ -3,7 +3,7 @@ layout: post
 title: "Implementing Aspect Ratio widgets in your Flutter app"
 description: " "
 date: 2023-09-19
-tags: [flutter, aspectratio]
+tags: [aspectratio]
 comments: true
 share: true
 ---

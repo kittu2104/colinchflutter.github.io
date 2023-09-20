@@ -3,7 +3,7 @@ layout: post
 title: "Applying custom scroll physics to SliverList.custom and SliverGrid.custom in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

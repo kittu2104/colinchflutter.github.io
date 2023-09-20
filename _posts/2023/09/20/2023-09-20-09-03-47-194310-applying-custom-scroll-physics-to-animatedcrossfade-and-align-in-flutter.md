@@ -3,7 +3,7 @@ layout: post
 title: "Applying custom scroll physics to AnimatedCrossFade and Align in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, UIAnimation]
+tags: [UIAnimation]
 comments: true
 share: true
 ---

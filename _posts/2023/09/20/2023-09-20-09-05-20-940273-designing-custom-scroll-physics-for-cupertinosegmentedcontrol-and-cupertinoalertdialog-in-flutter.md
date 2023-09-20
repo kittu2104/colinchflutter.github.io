@@ -3,7 +3,7 @@ layout: post
 title: "Designing custom scroll physics for CupertinoSegmentedControl and CupertinoAlertDialog in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

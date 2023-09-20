@@ -3,7 +3,7 @@ layout: post
 title: "How to handle platform-specific performance optimization in large scale Flutter projects."
 description: " "
 date: 2023-09-18
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

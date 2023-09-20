@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a study plan app with subject-specific reminders using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [flutter, studyplan]
+tags: [studyplan]
 comments: true
 share: true
 ---

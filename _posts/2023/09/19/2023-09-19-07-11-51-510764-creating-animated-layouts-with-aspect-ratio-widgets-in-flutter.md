@@ -3,7 +3,7 @@ layout: post
 title: "Creating animated layouts with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, AnimatedLayouts]
+tags: [AnimatedLayouts]
 comments: true
 share: true
 ---

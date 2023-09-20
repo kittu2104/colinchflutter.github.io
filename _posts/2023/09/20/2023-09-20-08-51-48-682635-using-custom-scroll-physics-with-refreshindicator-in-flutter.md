@@ -3,7 +3,7 @@ layout: post
 title: "Using custom scroll physics with RefreshIndicator in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, RefreshIndicator]
+tags: [RefreshIndicator]
 comments: true
 share: true
 ---

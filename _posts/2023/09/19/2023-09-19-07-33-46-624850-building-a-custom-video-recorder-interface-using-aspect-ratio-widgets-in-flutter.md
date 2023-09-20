@@ -3,7 +3,7 @@ layout: post
 title: "Building a custom video recorder interface using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoRecorder, AspectRatioWidgets]
+tags: [VideoRecorder, AspectRatioWidgets]
 comments: true
 share: true
 ---

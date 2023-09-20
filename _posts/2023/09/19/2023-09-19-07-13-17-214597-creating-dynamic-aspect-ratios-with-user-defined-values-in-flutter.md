@@ -3,7 +3,7 @@ layout: post
 title: "Creating dynamic aspect ratios with user-defined values in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, AspectRatio]
+tags: [AspectRatio]
 comments: true
 share: true
 ---

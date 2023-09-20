@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create a responsive language learning app in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, aspectratio]
+tags: [aspectratio]
 comments: true
 share: true
 ---

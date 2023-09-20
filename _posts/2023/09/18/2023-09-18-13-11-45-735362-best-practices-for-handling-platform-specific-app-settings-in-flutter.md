@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling platform-specific app settings in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, platformsettings]
+tags: [platformsettings]
 comments: true
 share: true
 ---

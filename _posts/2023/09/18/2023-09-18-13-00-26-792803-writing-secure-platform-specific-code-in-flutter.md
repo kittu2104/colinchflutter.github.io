@@ -3,7 +3,7 @@ layout: post
 title: "Writing secure platform-specific code in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, SecureCode]
+tags: [SecureCode]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating platform-specific plugins in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, plugins]
+tags: [plugins]
 comments: true
 share: true
 ---

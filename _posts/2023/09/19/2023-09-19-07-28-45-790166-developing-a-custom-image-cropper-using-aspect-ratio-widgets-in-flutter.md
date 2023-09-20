@@ -3,7 +3,7 @@ layout: post
 title: "Developing a custom image cropper using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, imagecropper]
+tags: [imagecropper]
 comments: true
 share: true
 ---

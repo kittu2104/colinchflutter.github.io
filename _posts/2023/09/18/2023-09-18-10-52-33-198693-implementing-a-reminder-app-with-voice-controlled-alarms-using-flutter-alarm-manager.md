@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a reminder app with voice-controlled alarms using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [Flutter, AlarmManager]
+tags: [AlarmManager]
 comments: true
 share: true
 ---

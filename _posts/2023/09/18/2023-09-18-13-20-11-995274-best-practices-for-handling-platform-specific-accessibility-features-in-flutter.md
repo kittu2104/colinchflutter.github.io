@@ -3,7 +3,7 @@ layout: post
 title: "Best practices for handling platform-specific accessibility features in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, accessibility]
+tags: [accessibility]
 comments: true
 share: true
 ---

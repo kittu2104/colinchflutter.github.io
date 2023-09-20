@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom scroll physics for SliverAppBar in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, sliverappbar]
+tags: [sliverappbar]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive audio editing app with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, responsive, audioEditing, FlutterWidgets]
+tags: [responsive, audioEditing, FlutterWidgets]
 comments: true
 share: true
 ---

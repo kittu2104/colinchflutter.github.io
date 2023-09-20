@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing efficient platform-specific code in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, PlatformSpecificCode]
+tags: [PlatformSpecificCode]
 comments: true
 share: true
 ---

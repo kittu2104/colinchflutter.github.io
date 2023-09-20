@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets for building custom audio players in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, audioplayer]
+tags: [audioplayer]
 comments: true
 share: true
 ---

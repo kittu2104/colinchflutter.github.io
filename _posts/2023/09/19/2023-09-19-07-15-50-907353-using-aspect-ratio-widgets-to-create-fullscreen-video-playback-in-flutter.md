@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create fullscreen video playback in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoPlayback]
+tags: [VideoPlayback]
 comments: true
 share: true
 ---

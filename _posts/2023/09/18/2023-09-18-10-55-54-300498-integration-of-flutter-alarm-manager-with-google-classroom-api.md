@@ -3,7 +3,7 @@ layout: post
 title: "Integration of Flutter Alarm Manager with Google Classroom API"
 description: " "
 date: 2023-09-18
-tags: [flutter, google]
+tags: [google]
 comments: true
 share: true
 ---

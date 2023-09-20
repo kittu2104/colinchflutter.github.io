@@ -3,7 +3,7 @@ layout: post
 title: "Handling orientation changes with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, aspectratio, orientationchange]
+tags: [aspectratio, orientationchange]
 comments: true
 share: true
 ---

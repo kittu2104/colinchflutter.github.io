@@ -3,7 +3,7 @@ layout: post
 title: "Creating responsive layouts with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, responsiveweb]
+tags: [responsiveweb]
 comments: true
 share: true
 ---

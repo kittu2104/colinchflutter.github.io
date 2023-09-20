@@ -3,7 +3,7 @@ layout: post
 title: "Writing platform-specific code for Android in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, AndroidDevelopment]
+tags: [AndroidDevelopment]
 comments: true
 share: true
 ---

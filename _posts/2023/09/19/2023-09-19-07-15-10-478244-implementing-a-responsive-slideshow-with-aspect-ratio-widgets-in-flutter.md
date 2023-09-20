@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive slideshow with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, fluttertutorial]
+tags: [fluttertutorial]
 comments: true
 share: true
 ---

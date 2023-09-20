@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive video ad integration with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoadintegration]
+tags: [videoadintegration]
 comments: true
 share: true
 ---

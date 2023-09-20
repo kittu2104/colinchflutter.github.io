@@ -3,7 +3,7 @@ layout: post
 title: "How to implement a workout tracker app with alarm notifications in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Flutter, WorkoutTracker]
+tags: [WorkoutTracker]
 comments: true
 share: true
 ---

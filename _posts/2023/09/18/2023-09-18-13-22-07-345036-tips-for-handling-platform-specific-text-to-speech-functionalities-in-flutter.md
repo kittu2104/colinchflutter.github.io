@@ -3,7 +3,7 @@ layout: post
 title: "Tips for handling platform-specific text-to-speech functionalities in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, texttospeech]
+tags: [texttospeech]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Aspect Ratio widgets to design interactive maps in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, maps]
+tags: [maps]
 comments: true
 share: true
 ---

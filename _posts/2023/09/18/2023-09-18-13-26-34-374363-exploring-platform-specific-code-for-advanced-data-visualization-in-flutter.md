@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific code for advanced data visualization in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, datavisualization]
+tags: [datavisualization]
 comments: true
 share: true
 ---

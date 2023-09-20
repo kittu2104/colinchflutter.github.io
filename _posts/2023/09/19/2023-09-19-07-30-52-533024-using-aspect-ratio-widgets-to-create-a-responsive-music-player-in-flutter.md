@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create a responsive music player in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

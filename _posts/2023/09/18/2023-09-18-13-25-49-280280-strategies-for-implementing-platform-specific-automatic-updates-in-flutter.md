@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for implementing platform-specific automatic updates in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, AutomaticUpdates]
+tags: [AutomaticUpdates]
 comments: true
 share: true
 ---

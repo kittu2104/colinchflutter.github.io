@@ -3,7 +3,7 @@ layout: post
 title: "Designing custom scroll physics for Scrollable and ImplicitlyAnimatedWidget in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, ScrolledPhysics]
+tags: [ScrolledPhysics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with Aspect Ratio widgets to design a responsive travel guide app in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

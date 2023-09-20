@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive recipe app using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, MobileAppDevelopment]
+tags: [MobileAppDevelopment]
 comments: true
 share: true
 ---

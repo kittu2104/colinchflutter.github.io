@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom podcast playlist interfaces in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, podcast]
+tags: [podcast]
 comments: true
 share: true
 ---

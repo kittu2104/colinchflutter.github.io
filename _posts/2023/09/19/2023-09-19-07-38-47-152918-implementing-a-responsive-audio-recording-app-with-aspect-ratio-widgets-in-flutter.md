@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive audio recording app with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, audioRecording, FlutterDevelopment]
+tags: [audioRecording, FlutterDevelopment]
 comments: true
 share: true
 ---

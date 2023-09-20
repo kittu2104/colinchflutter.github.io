@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for handling platform-specific file encryption in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Designing custom scroll physics for CupertinoRefreshControl and CupertinoSearchField in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, customscrollphysics]
+tags: [customscrollphysics]
 comments: true
 share: true
 ---

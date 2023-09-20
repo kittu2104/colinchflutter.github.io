@@ -3,7 +3,7 @@ layout: post
 title: "Building complex layouts with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, layout]
+tags: [layout]
 comments: true
 share: true
 ---

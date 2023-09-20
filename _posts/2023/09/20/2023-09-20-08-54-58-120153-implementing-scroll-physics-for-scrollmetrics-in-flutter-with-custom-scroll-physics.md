@@ -3,7 +3,7 @@ layout: post
 title: "Implementing scroll physics for ScrollMetrics in Flutter with custom scroll physics"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

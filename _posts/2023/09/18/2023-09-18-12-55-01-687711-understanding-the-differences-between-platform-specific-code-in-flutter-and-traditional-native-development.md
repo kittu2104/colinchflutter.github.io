@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the differences between platform-specific code in Flutter and traditional native development."
 description: " "
 date: 2023-09-18
-tags: [flutter, crossplatform]
+tags: [crossplatform]
 comments: true
 share: true
 ---

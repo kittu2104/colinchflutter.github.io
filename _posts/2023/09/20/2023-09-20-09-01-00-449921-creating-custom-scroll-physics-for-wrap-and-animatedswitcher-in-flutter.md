@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom scroll physics for Wrap and AnimatedSwitcher in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, CustomScrollPhysics]
+tags: [CustomScrollPhysics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom scroll physics for Draggable in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, Draggable]
+tags: [Draggable]
 comments: true
 share: true
 ---

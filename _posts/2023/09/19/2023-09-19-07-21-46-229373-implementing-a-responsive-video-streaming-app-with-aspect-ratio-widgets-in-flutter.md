@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive video streaming app with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videostreaming]
+tags: [videostreaming]
 comments: true
 share: true
 ---

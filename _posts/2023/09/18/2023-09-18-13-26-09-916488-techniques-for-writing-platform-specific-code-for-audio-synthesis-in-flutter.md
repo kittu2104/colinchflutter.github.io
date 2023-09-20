@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code for audio synthesis in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

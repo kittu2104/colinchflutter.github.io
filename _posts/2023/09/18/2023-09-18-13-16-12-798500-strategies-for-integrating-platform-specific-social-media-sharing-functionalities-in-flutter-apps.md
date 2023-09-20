@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for integrating platform-specific social media sharing functionalities in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [flutter, socialmedia]
+tags: [socialmedia]
 comments: true
 share: true
 ---

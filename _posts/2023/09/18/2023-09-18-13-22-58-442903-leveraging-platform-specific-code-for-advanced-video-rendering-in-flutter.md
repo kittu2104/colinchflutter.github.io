@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging platform-specific code for advanced video rendering in Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, VideoRendering]
+tags: [VideoRendering]
 comments: true
 share: true
 ---

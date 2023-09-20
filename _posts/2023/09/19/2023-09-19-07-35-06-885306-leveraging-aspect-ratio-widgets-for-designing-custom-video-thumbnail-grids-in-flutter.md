@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom video thumbnail grids in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videothumbnails]
+tags: [videothumbnails]
 comments: true
 share: true
 ---

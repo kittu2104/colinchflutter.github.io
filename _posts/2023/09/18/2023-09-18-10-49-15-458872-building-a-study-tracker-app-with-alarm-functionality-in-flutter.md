@@ -3,7 +3,7 @@ layout: post
 title: "Building a study tracker app with alarm functionality in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, studytracker]
+tags: [studytracker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create a responsive video analytics dashboard in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

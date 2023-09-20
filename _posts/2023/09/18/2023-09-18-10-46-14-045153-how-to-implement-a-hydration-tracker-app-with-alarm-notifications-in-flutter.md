@@ -3,7 +3,7 @@ layout: post
 title: "How to implement a hydration tracker app with alarm notifications in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, hydrationTracker]
+tags: [hydrationTracker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building a medication adherence app with dosage reminders using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [flutter, medicationadherence]
+tags: [medicationadherence]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integration of Flutter Alarm Manager with OpenWeatherMap API"
 description: " "
 date: 2023-09-18
-tags: [flutter, alarmmanager]
+tags: [alarmmanager]
 comments: true
 share: true
 ---

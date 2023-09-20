@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom video editing tools in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoEditing, AspectRatios]
+tags: [VideoEditing, AspectRatios]
 comments: true
 share: true
 ---

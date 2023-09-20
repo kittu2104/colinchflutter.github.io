@@ -3,7 +3,7 @@ layout: post
 title: "Tips and tricks for optimizing performance with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

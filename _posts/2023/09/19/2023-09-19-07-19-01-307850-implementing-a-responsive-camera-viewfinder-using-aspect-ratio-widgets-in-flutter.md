@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a responsive camera viewfinder using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, FlutterTutorials]
+tags: [FlutterTutorials]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Tips for handling platform-specific in-app purchases in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, inapppurchases]
+tags: [inapppurchases]
 comments: true
 share: true
 ---

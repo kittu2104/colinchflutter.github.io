@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for writing platform-specific code for real-time communication in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, realtimecommunication]
+tags: [realtimecommunication]
 comments: true
 share: true
 ---

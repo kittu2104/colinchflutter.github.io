@@ -3,7 +3,7 @@ layout: post
 title: "Exploring platform-specific code generation tools for Flutter."
 description: " "
 date: 2023-09-18
-tags: [Flutter, CodeGeneration]
+tags: [CodeGeneration]
 comments: true
 share: true
 ---

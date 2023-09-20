@@ -3,7 +3,7 @@ layout: post
 title: "Developing a custom image annotation app using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, ImageAnnotation, CustomApp, MobileDevelopment]
+tags: [ImageAnnotation, CustomApp, MobileDevelopment]
 comments: true
 share: true
 ---

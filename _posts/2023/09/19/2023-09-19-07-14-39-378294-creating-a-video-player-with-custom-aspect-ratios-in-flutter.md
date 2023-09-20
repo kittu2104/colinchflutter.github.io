@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video player with custom aspect ratios in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videoplayer]
+tags: [videoplayer]
 comments: true
 share: true
 ---

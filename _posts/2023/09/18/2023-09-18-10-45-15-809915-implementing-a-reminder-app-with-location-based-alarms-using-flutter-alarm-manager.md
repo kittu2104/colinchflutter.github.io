@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a reminder app with location-based alarms using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [Flutter, FlutterAlarmManager]
+tags: [FlutterAlarmManager]
 comments: true
 share: true
 ---

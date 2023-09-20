@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets for image scaling in Flutter apps"
 description: " "
 date: 2023-09-19
-tags: [flutter, image]
+tags: [image]
 comments: true
 share: true
 ---

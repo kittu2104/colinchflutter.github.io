@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for achieving platform-specific performance optimizations in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

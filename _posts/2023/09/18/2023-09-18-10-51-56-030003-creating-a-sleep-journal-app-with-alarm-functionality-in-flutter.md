@@ -3,7 +3,7 @@ layout: post
 title: "Creating a sleep journal app with alarm functionality in Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

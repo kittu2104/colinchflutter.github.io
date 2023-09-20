@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Flutter's stock market tracker widget for real-time financial updates"
 description: " "
 date: 2023-09-14
-tags: [Flutter, StockMarketTracker]
+tags: [StockMarketTracker]
 comments: true
 share: true
 ---

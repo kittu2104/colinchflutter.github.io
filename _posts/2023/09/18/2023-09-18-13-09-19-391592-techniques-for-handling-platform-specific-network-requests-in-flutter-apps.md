@@ -3,7 +3,7 @@ layout: post
 title: "Techniques for handling platform-specific network requests in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [flutter, networking]
+tags: [networking]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Exploring the different types of Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, FlutterUI, aspectratio]
+tags: [FlutterUI, aspectratio]
 comments: true
 share: true
 ---

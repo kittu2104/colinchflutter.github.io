@@ -3,7 +3,7 @@ layout: post
 title: "How to change scroll velocity with custom scroll physics in Flutter"
 description: " "
 date: 2023-09-20
-tags: [Flutter, FlutterPhysics]
+tags: [FlutterPhysics]
 comments: true
 share: true
 ---

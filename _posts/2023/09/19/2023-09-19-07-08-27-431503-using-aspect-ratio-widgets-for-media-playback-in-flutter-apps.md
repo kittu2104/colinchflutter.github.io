@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets for media playback in Flutter apps"
 description: " "
 date: 2023-09-19
-tags: [flutter, mediaplayback]
+tags: [mediaplayback]
 comments: true
 share: true
 ---

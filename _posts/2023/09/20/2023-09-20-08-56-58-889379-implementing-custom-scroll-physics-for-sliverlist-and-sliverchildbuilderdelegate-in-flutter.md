@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom scroll physics for SliverList and SliverChildBuilderDelegate in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, customscrollphysics]
+tags: [customscrollphysics]
 comments: true
 share: true
 ---

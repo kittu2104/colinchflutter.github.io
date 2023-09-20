@@ -3,7 +3,7 @@ layout: post
 title: "Working with Aspect Ratio widgets to design a video background in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, VideoBackground]
+tags: [VideoBackground]
 comments: true
 share: true
 ---

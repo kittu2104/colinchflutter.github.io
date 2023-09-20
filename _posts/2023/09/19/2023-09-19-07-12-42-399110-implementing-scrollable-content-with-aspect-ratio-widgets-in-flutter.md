@@ -3,7 +3,7 @@ layout: post
 title: "Implementing scrollable content with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, AspectRatio, ScrollableView]
+tags: [AspectRatio, ScrollableView]
 comments: true
 share: true
 ---

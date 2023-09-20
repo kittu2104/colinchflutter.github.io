@@ -3,7 +3,7 @@ layout: post
 title: "Creating an event planner app using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [Building, #Setting]
+tags: [Building, Setting]
 comments: true
 share: true
 ---

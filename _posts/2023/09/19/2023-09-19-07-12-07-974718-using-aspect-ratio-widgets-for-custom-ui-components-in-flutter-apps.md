@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets for custom UI components in Flutter apps"
 description: " "
 date: 2023-09-19
-tags: [Flutter, UIcomponents]
+tags: [UIcomponents]
 comments: true
 share: true
 ---

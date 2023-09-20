@@ -3,7 +3,7 @@ layout: post
 title: "Working with platform-specific permissions in Flutter."
 description: " "
 date: 2023-09-18
-tags: [flutter, permissions]
+tags: [permissions]
 comments: true
 share: true
 ---

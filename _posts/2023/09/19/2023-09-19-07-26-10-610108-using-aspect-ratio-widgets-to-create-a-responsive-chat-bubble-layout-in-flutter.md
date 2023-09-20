@@ -3,7 +3,7 @@ layout: post
 title: "Using Aspect Ratio widgets to create a responsive chat bubble layout in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, chatbubbles]
+tags: [chatbubbles]
 comments: true
 share: true
 ---

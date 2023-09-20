@@ -3,7 +3,7 @@ layout: post
 title: "Building a photo editing app using Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, PhotoEditingApp]
+tags: [PhotoEditingApp]
 comments: true
 share: true
 ---

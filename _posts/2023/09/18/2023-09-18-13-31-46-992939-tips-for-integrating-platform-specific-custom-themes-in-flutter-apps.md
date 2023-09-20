@@ -3,7 +3,7 @@ layout: post
 title: "Tips for integrating platform-specific custom themes in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [flutter, customthemes]
+tags: [customthemes]
 comments: true
 share: true
 ---

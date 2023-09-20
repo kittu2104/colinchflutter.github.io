@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing Aspect Ratio widgets in the design of gaming interfaces in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, gaminginterfaces]
+tags: [gaminginterfaces]
 comments: true
 share: true
 ---

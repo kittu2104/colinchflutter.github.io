@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive e-commerce product gallery with Aspect Ratio widgets in Flutter"
 description: " "
 date: 2023-09-19
-tags: [Flutter, EcommerceGallery]
+tags: [EcommerceGallery]
 comments: true
 share: true
 ---

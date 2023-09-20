@@ -3,7 +3,7 @@ layout: post
 title: "Creating smooth scrolling effects with custom scroll physics in Flutter"
 description: " "
 date: 2023-09-20
-tags: [flutter, scrollphysics]
+tags: [scrollphysics]
 comments: true
 share: true
 ---

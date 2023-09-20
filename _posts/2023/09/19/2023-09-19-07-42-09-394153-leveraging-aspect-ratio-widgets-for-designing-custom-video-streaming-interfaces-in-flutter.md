@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging Aspect Ratio widgets for designing custom video streaming interfaces in Flutter"
 description: " "
 date: 2023-09-19
-tags: [flutter, videostreaming, flutterdevelopment]
+tags: [videostreaming, flutterdevelopment]
 comments: true
 share: true
 ---

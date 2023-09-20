@@ -3,7 +3,7 @@ layout: post
 title: "Building a birthday reminder app with alarm functionality using Flutter"
 description: " "
 date: 2023-09-18
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---
