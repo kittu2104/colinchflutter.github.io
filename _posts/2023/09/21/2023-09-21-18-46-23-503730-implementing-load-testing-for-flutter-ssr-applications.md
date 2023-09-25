@@ -3,7 +3,7 @@ layout: post
 title: "Implementing load testing for Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, loadtesting]
+tags: [loadtesting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing virtual reality in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, VirtualReality, WebAssembly]
+tags: [VirtualReality, WebAssembly]
 comments: true
 share: true
 ---

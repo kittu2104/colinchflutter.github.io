@@ -3,7 +3,7 @@ layout: post
 title: "Customizing the opacity animation with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, flutter)]
+tags: [flutter)]
 comments: true
 share: true
 ---

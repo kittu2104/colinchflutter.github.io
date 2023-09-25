@@ -3,7 +3,7 @@ layout: post
 title: "Image comparison and similarity analysis extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, imagecomparison, similarityanalysis]
+tags: [imagecomparison, similarityanalysis]
 comments: true
 share: true
 ---
@@ -12,7 +12,7 @@ share: true
 
 With the increasing use of visual content in mobile apps, it has become crucial to incorporate image comparison and similarity analysis capabilities. Whether you are building an e-commerce app, a social media platform, or a content aggregator, being able to compare and analyze images can provide valuable insights and enhance user experiences.
 
-Fortunately, Flutter, Google's UI toolkit for building cross-platform applications, offers various extensions and plugins for image comparison and similarity analysis. In this article, we will explore some popular options to help you choose the right one for your Flutter app.
+Fortunately, Google's UI toolkit for building cross-platform applications, offers various extensions and plugins for image comparison and similarity analysis. In this article, we will explore some popular options to help you choose the right one for your Flutter app.
 
 ## 1. Image Comparison Plugin for Flutter
 

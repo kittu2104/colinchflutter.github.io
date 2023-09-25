@@ -3,7 +3,7 @@ layout: post
 title: "Calendar and event management extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, calendar]
+tags: [calendar]
 comments: true
 share: true
 ---

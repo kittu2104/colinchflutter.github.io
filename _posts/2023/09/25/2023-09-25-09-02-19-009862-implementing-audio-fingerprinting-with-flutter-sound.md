@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio fingerprinting with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiofingerprinting]
+tags: [audiofingerprinting]
 comments: true
 share: true
 ---

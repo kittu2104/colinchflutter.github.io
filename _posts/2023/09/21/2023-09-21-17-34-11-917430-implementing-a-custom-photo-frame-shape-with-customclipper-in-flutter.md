@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom photo frame shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, Customization]
+tags: [CustomClipper, Customization]
 comments: true
 share: true
 ---

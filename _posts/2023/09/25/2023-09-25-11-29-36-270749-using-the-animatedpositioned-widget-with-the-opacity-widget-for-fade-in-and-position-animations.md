@@ -3,7 +3,7 @@ layout: post
 title: "Using the AnimatedPositioned widget with the Opacity widget for fade-in and position animations"
 description: " "
 date: 2023-09-25
-tags: [flutter, animations]
+tags: [animations]
 comments: true
 share: true
 ---

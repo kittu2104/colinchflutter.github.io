@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive bottom sheet with `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsivebottomsheet]
+tags: [responsivebottomsheet]
 comments: true
 share: true
 ---

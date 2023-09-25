@@ -3,7 +3,7 @@ layout: post
 title: "How to use the MediaQuery widget with the Opacity widget for responsive opacity levels"
 description: " "
 date: 2023-09-25
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to use the SizeTransition widget with the Opacity widget for fade-in and size animations"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Animations]
+tags: [Animations]
 comments: true
 share: true
 ---

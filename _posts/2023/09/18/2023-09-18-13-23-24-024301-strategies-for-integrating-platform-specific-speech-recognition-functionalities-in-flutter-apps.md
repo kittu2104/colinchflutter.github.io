@@ -3,7 +3,7 @@ layout: post
 title: "Strategies for integrating platform-specific speech recognition functionalities in Flutter apps."
 description: " "
 date: 2023-09-18
-tags: [speechrecognition, flutter]
+tags: [speechrecognition]
 comments: true
 share: true
 ---

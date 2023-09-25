@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio trimming with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

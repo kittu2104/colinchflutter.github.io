@@ -3,7 +3,7 @@ layout: post
 title: "Using the Hero widget with the Opacity widget for fade-in transitions between screens"
 description: " "
 date: 2023-09-25
-tags: [flutter, flutteranimation]
+tags: [flutteranimation]
 comments: true
 share: true
 ---

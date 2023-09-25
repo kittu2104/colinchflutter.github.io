@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recording in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, audio, recording, FlutterDevelopment, appdevelopment]
+tags: [audio, recording, FlutterDevelopment, appdevelopment]
 comments: true
 share: true
 ---

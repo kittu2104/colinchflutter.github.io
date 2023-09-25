@@ -3,7 +3,7 @@ layout: post
 title: "An in-depth look at the lifecycle of a CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomPainter]
+tags: [CustomPainter]
 comments: true
 share: true
 ---

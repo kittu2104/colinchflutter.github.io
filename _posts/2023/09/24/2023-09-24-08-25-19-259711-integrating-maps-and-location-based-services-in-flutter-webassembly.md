@@ -3,7 +3,7 @@ layout: post
 title: "Integrating maps and location-based services in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Maps, LocationServices]
+tags: [Maps, LocationServices]
 comments: true
 share: true
 ---

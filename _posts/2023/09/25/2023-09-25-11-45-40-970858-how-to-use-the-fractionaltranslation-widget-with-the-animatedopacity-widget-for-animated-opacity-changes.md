@@ -3,7 +3,7 @@ layout: post
 title: "How to use the FractionalTranslation widget with the AnimatedOpacity widget for animated opacity changes"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Animation]
+tags: [Animation]
 comments: true
 share: true
 ---

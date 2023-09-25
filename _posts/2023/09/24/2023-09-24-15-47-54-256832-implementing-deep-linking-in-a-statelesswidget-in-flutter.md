@@ -3,7 +3,7 @@ layout: post
 title: "Implementing deep linking in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, deeplinking]
+tags: [deeplinking]
 comments: true
 share: true
 ---

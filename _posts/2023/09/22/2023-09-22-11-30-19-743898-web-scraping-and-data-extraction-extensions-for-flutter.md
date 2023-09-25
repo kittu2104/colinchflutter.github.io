@@ -3,7 +3,7 @@ layout: post
 title: "Web scraping and data extraction extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, webscraping]
+tags: [webscraping]
 comments: true
 share: true
 ---

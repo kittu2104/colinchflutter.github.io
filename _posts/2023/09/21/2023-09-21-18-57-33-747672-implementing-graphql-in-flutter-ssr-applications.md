@@ -3,7 +3,7 @@ layout: post
 title: "Implementing GraphQL in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, graphql, flutter, graphql]
+tags: [graphql, graphql]
 comments: true
 share: true
 ---

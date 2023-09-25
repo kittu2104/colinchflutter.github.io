@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

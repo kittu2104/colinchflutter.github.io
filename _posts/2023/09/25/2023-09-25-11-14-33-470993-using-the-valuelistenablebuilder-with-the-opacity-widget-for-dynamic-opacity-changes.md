@@ -3,7 +3,7 @@ layout: post
 title: "Using the ValueListenableBuilder with the Opacity widget for dynamic opacity changes"
 description: " "
 date: 2023-09-25
-tags: [flutter, opacity]
+tags: [opacity]
 comments: true
 share: true
 ---

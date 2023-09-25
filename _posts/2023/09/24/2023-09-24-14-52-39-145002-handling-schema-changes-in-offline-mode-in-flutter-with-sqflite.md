@@ -3,7 +3,7 @@ layout: post
 title: "Handling schema changes in offline mode in Flutter with sqflite"
 description: " "
 date: 2023-09-24
-tags: [Flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

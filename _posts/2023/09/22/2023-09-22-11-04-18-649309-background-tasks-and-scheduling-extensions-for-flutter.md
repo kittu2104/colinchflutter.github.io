@@ -3,7 +3,7 @@ layout: post
 title: "Background tasks and scheduling extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, backgroundtasks]
+tags: [backgroundtasks]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Preparing data for migrations in Flutter's sqflite package"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

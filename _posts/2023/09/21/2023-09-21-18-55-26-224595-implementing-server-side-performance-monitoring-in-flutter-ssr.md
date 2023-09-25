@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side performance monitoring in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, serverSideRendering, performanceMonitoring]
+tags: [serverSideRendering, performanceMonitoring]
 comments: true
 share: true
 ---

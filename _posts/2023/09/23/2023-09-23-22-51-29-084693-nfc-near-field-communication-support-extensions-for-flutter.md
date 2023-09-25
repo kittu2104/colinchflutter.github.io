@@ -3,7 +3,7 @@ layout: post
 title: "NFC (Near Field Communication) support extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, NFCSupport, MobileAppDevelopment]
+tags: [NFCSupport, MobileAppDevelopment]
 comments: true
 share: true
 ---

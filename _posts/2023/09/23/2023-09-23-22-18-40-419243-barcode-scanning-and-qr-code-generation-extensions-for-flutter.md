@@ -3,7 +3,7 @@ layout: post
 title: "Barcode scanning and QR code generation extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [FF0000, flutter, barcode, QRcode]
+tags: [FF0000, barcode, QRcode]
 comments: true
 share: true
 ---

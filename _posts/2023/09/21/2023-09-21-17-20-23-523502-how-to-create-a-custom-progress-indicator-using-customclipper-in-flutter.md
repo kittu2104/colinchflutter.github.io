@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom progress indicator using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customization]
+tags: [customization]
 comments: true
 share: true
 ---

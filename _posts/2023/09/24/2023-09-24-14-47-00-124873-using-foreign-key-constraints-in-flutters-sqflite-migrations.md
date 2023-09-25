@@ -3,7 +3,7 @@ layout: post
 title: "Using foreign key constraints in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, migrations]
+tags: [sqflite, migrations]
 comments: true
 share: true
 ---

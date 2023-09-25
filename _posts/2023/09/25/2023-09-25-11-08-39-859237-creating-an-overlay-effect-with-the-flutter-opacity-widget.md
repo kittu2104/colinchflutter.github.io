@@ -3,7 +3,7 @@ layout: post
 title: "Creating an overlay effect with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, opacity]
+tags: [opacity]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing recommendation systems in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, RecommendationSystems]
+tags: [RecommendationSystems]
 comments: true
 share: true
 ---

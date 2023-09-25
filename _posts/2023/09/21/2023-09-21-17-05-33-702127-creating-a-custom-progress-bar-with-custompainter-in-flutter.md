@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom progress bar with CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customprogress, custompainter]
+tags: [customprogress, custompainter]
 comments: true
 share: true
 ---

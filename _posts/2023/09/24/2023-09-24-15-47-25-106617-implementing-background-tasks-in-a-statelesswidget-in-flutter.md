@@ -3,7 +3,7 @@ layout: post
 title: "Implementing background tasks in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, BackgroundTasks]
+tags: [BackgroundTasks]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side validation in Flutter SSR forms"
 description: " "
 date: 2023-09-21
-tags: [Flutter, ServerSideValidation]
+tags: [ServerSideValidation]
 comments: true
 share: true
 ---

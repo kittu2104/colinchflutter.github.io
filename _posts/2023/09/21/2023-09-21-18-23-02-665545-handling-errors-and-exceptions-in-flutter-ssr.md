@@ -3,7 +3,7 @@ layout: post
 title: "Handling errors and exceptions in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, errors, exceptions]
+tags: [errors, exceptions]
 comments: true
 share: true
 ---

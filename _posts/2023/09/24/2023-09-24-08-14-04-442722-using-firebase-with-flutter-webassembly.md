@@ -3,7 +3,7 @@ layout: post
 title: "Using Firebase with Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, firebase, webassembly]
+tags: [firebase, webassembly]
 comments: true
 share: true
 ---

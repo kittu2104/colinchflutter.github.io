@@ -3,7 +3,7 @@ layout: post
 title: "Image recognition and augmented reality filters extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, imageRecognition, augmentedReality]
+tags: [imageRecognition, augmentedReality]
 comments: true
 share: true
 ---

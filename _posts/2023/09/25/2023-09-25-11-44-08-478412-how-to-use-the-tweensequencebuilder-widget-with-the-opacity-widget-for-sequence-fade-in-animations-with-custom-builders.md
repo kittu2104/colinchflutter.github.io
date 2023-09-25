@@ -3,7 +3,7 @@ layout: post
 title: "How to use the TweenSequenceBuilder widget with the Opacity widget for sequence fade-in animations with custom builders"
 description: " "
 date: 2023-09-25
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

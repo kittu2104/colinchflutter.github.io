@@ -3,7 +3,7 @@ layout: post
 title: "Building a social media platform with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, socialmedia, flutterSSR]
+tags: [socialmedia, flutterSSR]
 comments: true
 share: true
 ---

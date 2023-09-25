@@ -3,7 +3,7 @@ layout: post
 title: "OCR (Optical Character Recognition) extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, OCRExtensions]
+tags: [OCRExtensions]
 comments: true
 share: true
 ---

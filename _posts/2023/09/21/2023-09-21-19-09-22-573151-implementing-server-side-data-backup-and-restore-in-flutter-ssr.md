@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side data backup and restore in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, serverrendering, backup, restore]
+tags: [serverrendering, backup, restore]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing Flutter widget performance for smooth animations"
 description: " "
 date: 2023-09-14
-tags: [performance, Flutter]
+tags: [performance]
 comments: true
 share: true
 ---

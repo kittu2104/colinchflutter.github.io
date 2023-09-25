@@ -3,7 +3,7 @@ layout: post
 title: "Unit testing and automated testing extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

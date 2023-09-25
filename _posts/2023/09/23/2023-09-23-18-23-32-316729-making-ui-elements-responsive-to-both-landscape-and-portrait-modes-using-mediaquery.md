@@ -3,7 +3,7 @@ layout: post
 title: "Making UI elements responsive to both landscape and portrait modes using `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

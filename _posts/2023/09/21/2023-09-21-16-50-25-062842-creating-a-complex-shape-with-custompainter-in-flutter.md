@@ -3,7 +3,7 @@ layout: post
 title: "Creating a complex shape with CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

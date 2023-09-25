@@ -3,7 +3,7 @@ layout: post
 title: "Using GraphQL as a backend for Flutter migrations with sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, graphql]
+tags: [sqflite, graphql]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to use the AnimatedDefaultTextStyle widget with the Opacity widget for fade-in text style changes"
 description: " "
 date: 2023-09-25
-tags: [flutter, textstyle]
+tags: [textstyle]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using `MediaQuery.of(context).orientation` to detect the device's orientation"
 description: " "
 date: 2023-09-22
-tags: [Flutter, DeviceOrientation]
+tags: [DeviceOrientation]
 comments: true
 share: true
 ---

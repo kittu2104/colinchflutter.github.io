@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive quiz app using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

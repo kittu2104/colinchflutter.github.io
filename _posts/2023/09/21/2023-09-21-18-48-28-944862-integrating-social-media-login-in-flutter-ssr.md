@@ -3,7 +3,7 @@ layout: post
 title: "Integrating social media login in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, socialmedialogin]
+tags: [socialmedialogin]
 comments: true
 share: true
 ---

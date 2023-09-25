@@ -3,7 +3,7 @@ layout: post
 title: "Testing database migrations in Flutter with sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image manipulation in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, imageManipulation, FlutterDevelopment]
+tags: [imageManipulation, FlutterDevelopment]
 comments: true
 share: true
 ---

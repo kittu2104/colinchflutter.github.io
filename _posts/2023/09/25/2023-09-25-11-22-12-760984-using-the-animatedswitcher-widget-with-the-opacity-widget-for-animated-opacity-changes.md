@@ -3,7 +3,7 @@ layout: post
 title: "Using the AnimatedSwitcher widget with the Opacity widget for animated opacity changes"
 description: " "
 date: 2023-09-25
-tags: [Flutter, UserInterface]
+tags: [UserInterface]
 comments: true
 share: true
 ---

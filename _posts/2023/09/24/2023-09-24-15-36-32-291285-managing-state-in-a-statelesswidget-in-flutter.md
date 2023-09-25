@@ -3,7 +3,7 @@ layout: post
 title: "Managing state in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, statemanagement]
+tags: [statemanagement]
 comments: true
 share: true
 ---

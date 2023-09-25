@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to clip widgets in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, clipper]
+tags: [clipper]
 comments: true
 share: true
 ---

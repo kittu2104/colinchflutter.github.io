@@ -3,7 +3,7 @@ layout: post
 title: "Implementing swipe gestures in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, SwipeGestures]
+tags: [SwipeGestures]
 comments: true
 share: true
 ---

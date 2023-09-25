@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data persistence in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

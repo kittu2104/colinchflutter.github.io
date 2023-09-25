@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file handling in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, filehandling]
+tags: [filehandling]
 comments: true
 share: true
 ---

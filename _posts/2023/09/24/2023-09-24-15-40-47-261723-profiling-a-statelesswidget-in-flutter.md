@@ -3,7 +3,7 @@ layout: post
 title: "Profiling a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

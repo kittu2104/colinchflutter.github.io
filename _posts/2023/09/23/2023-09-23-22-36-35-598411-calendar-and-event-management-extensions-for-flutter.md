@@ -3,7 +3,7 @@ layout: post
 title: "Calendar and event management extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, flutterdevelopment, calendar, eventmanagement]
+tags: [flutterdevelopment, calendar, eventmanagement]
 comments: true
 share: true
 ---

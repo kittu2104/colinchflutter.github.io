@@ -3,7 +3,7 @@ layout: post
 title: "Building project management tools in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, ProjectManagementTools]
+tags: [ProjectManagementTools]
 comments: true
 share: true
 ---

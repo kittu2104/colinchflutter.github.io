@@ -3,7 +3,7 @@ layout: post
 title: "Implementing sentiment analysis in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, SentimentAnalysis]
+tags: [SentimentAnalysis]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom page indicator in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customindicator]
+tags: [customindicator]
 comments: true
 share: true
 ---

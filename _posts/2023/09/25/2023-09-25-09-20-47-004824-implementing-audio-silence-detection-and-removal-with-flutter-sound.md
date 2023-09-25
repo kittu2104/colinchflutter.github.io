@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio silence detection and removal with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiosilencedetection]
+tags: [audiosilencedetection]
 comments: true
 share: true
 ---

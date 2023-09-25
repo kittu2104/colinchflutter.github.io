@@ -3,7 +3,7 @@ layout: post
 title: "Using the TweenSequence widget with the Opacity widget for sequence fade-in animations"
 description: " "
 date: 2023-09-25
-tags: [flutter, animations]
+tags: [animations]
 comments: true
 share: true
 ---

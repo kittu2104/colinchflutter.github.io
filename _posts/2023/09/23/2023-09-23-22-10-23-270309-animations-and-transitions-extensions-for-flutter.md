@@ -3,7 +3,7 @@ layout: post
 title: "Animations and transitions extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, Animations, Transitions]
+tags: [Animations, Transitions]
 comments: true
 share: true
 ---

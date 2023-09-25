@@ -3,7 +3,7 @@ layout: post
 title: "Creating backup tables during database migrations in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, databasemigration, backup]
+tags: [databasemigration, backup]
 comments: true
 share: true
 ---

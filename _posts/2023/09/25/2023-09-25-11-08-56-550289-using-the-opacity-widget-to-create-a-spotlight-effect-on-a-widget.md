@@ -3,7 +3,7 @@ layout: post
 title: "Using the Opacity widget to create a spotlight effect on a widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, spotlighteffect]
+tags: [spotlighteffect]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing user feedback and ratings in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, feedback, ratings]
+tags: [feedback, ratings]
 comments: true
 share: true
 ---

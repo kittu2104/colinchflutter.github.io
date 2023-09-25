@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive social media sharing using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, MobileApp]
+tags: [MobileApp]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Push notifications handling extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, pushnotifications]
+tags: [pushnotifications]
 comments: true
 share: true
 ---

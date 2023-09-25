@@ -3,7 +3,7 @@ layout: post
 title: "Building a music streaming platform with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, musicstreaming]
+tags: [musicstreaming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Building an e-commerce platform with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, ecommerce]
+tags: [ecommerce]
 comments: true
 share: true
 ---

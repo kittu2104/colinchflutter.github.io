@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape splash screen using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customclippers]
+tags: [customclippers]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating rollback scripts for Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, database]
+tags: [database]
 comments: true
 share: true
 ---

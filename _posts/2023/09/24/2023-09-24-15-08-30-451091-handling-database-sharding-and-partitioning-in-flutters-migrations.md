@@ -3,7 +3,7 @@ layout: post
 title: "Handling database sharding and partitioning in Flutter's migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseScaling]
+tags: [DatabaseScaling]
 comments: true
 share: true
 ---

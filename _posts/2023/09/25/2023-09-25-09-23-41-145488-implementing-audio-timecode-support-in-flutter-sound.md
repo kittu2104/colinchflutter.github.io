@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio timecode support in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [Flutter, FlutterSound]
+tags: [FlutterSound]
 comments: true
 share: true
 ---

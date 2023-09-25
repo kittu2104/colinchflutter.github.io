@@ -3,7 +3,7 @@ layout: post
 title: "Building a real-time collaborative editor with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, ServerSideRendering, CollaborativeEditor]
+tags: [ServerSideRendering, CollaborativeEditor]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Applying opacity to a ripple effect using the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Opacity]
+tags: [Opacity]
 comments: true
 share: true
 ---

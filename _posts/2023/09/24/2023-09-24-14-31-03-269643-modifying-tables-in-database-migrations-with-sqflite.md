@@ -3,7 +3,7 @@ layout: post
 title: "Modifying tables in database migrations with sqflite"
 description: " "
 date: 2023-09-24
-tags: [Sqflite, Flutter]
+tags: [Sqflite]
 comments: true
 share: true
 ---

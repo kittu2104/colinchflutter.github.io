@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive dropdown menu using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, dart]
+tags: [dart]
 comments: true
 share: true
 ---

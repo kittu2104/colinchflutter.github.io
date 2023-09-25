@@ -3,7 +3,7 @@ layout: post
 title: "How to use the ShaderMask widget with the Opacity widget for image effects"
 description: " "
 date: 2023-09-25
-tags: [flutter, imagetransparency]
+tags: [imagetransparency]
 comments: true
 share: true
 ---

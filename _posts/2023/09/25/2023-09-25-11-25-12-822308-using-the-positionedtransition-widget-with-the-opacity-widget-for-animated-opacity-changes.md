@@ -3,7 +3,7 @@ layout: post
 title: "Using the PositionedTransition widget with the Opacity widget for animated opacity changes"
 description: " "
 date: 2023-09-25
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

@@ -3,14 +3,14 @@ layout: post
 title: "Emoji and Unicode support extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, FlutterDevelopment]
+tags: [FlutterDevelopment]
 comments: true
 share: true
 ---
 
 In today's digital age, emojis have become an essential part of our online communication. These small pictorial icons help us express our emotions and add a touch of personalization to our messages. Therefore, it's crucial for developers to ensure that their applications can handle emojis and Unicode characters seamlessly.
 
-Fortunately, Flutter, Google's cross-platform app development framework, offers various extensions and packages that make integrating emoji and Unicode support into your app a breeze. Let's explore some of these extensions that can enhance your Flutter app's emoji and Unicode capabilities.
+Fortunately, Google's cross-platform app development framework, offers various extensions and packages that make integrating emoji and Unicode support into your app a breeze. Let's explore some of these extensions that can enhance your Flutter app's emoji and Unicode capabilities.
 
 ## 1. `flutter_emoji` Package
 

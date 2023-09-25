@@ -3,7 +3,7 @@ layout: post
 title: "Organizing code in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, codeorganization]
+tags: [codeorganization]
 comments: true
 share: true
 ---

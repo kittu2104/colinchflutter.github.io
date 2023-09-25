@@ -3,7 +3,7 @@ layout: post
 title: "How to use the IgnorePointer widget with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, widget]
+tags: [widget]
 comments: true
 share: true
 ---

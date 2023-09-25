@@ -3,7 +3,7 @@ layout: post
 title: "Applying opacity to a shimmer effect using the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Localizing a Flutter SSR application for multiple languages"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Localization]
+tags: [Localization]
 comments: true
 share: true
 ---

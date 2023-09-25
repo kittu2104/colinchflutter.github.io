@@ -3,7 +3,7 @@ layout: post
 title: "Using the ClipRect widget with the AnimatedOpacity widget for masked opacity animations"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Animations]
+tags: [Animations]
 comments: true
 share: true
 ---

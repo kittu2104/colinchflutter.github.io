@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spatialization with spatial audio coding in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiospatialization]
+tags: [audiospatialization]
 comments: true
 share: true
 ---

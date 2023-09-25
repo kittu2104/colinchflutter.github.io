@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom progress ring in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customclipper]
+tags: [customclipper]
 comments: true
 share: true
 ---

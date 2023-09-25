@@ -3,7 +3,7 @@ layout: post
 title: "Voice recognition and speech synthesis extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, VoiceRecognition]
+tags: [VoiceRecognition]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio synchronization with video playback in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audioSync]
+tags: [audioSync]
 comments: true
 share: true
 ---

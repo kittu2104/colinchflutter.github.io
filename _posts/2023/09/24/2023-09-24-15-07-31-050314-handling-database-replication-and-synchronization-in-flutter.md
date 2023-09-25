@@ -3,7 +3,7 @@ layout: post
 title: "Handling database replication and synchronization in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseReplication]
+tags: [DatabaseReplication]
 comments: true
 share: true
 ---

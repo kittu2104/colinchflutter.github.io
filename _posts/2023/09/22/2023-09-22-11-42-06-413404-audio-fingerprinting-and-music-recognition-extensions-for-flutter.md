@@ -3,7 +3,7 @@ layout: post
 title: "Audio fingerprinting and music recognition extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, audiofingerprinting]
+tags: [audiofingerprinting]
 comments: true
 share: true
 ---

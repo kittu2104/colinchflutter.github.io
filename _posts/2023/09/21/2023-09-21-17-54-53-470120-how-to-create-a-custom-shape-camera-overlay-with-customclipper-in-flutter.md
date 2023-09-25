@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape camera overlay with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, cameraoverlay]
+tags: [cameraoverlay]
 comments: true
 share: true
 ---

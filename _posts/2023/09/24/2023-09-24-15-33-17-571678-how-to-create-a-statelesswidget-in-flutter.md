@@ -3,7 +3,7 @@ layout: post
 title: "How to create a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, widget]
+tags: [widget]
 comments: true
 share: true
 ---

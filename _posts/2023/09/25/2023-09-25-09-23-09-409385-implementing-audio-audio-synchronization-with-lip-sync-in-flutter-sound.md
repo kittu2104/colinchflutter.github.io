@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio audio synchronization with lip-sync in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiosynchronization]
+tags: [audiosynchronization]
 comments: true
 share: true
 ---

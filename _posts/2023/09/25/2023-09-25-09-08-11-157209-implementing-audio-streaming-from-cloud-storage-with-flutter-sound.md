@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio streaming from cloud storage with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audioStreaming]
+tags: [audioStreaming]
 comments: true
 share: true
 ---

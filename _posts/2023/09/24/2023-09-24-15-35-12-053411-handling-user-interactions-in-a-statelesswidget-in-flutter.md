@@ -3,7 +3,7 @@ layout: post
 title: "Handling user interactions in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, userinteractions]
+tags: [userinteractions]
 comments: true
 share: true
 ---

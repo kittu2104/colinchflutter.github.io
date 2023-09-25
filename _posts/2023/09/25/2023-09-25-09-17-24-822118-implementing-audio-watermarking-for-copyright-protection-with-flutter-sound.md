@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio watermarking for copyright protection with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [copyrightprotection, flutter]
+tags: [copyrightprotection]
 comments: true
 share: true
 ---

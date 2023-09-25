@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio sound synthesis with oscillators in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, sound]
+tags: [sound]
 comments: true
 share: true
 ---

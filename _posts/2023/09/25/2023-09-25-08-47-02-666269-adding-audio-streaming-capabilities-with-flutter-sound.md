@@ -3,7 +3,7 @@ layout: post
 title: "Adding audio streaming capabilities with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiostreaming]
+tags: [audiostreaming]
 comments: true
 share: true
 ---

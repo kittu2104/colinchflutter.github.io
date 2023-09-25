@@ -3,7 +3,7 @@ layout: post
 title: "Using the AnimatedSwitcher widget with the Opacity widget for fade-in and switch animations"
 description: " "
 date: 2023-09-25
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

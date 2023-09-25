@@ -3,7 +3,7 @@ layout: post
 title: "Applying opacity to a web view using the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, OpacityWidget]
+tags: [OpacityWidget]
 comments: true
 share: true
 ---

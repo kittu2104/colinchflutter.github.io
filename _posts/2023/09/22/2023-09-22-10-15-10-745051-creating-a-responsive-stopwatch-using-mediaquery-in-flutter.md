@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive stopwatch using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, Stopwatch]
+tags: [Stopwatch]
 comments: true
 share: true
 ---

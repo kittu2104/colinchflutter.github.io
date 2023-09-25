@@ -3,7 +3,7 @@ layout: post
 title: "Building a puzzle game using CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, PuzzleGame]
+tags: [PuzzleGame]
 comments: true
 share: true
 ---

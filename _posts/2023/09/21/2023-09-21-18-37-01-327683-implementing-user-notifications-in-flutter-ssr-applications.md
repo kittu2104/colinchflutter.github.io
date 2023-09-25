@@ -3,7 +3,7 @@ layout: post
 title: "Implementing user notifications in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [Flutter, UserNotifications]
+tags: [UserNotifications]
 comments: true
 share: true
 ---

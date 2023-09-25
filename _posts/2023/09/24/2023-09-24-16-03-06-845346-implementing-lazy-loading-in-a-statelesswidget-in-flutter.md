@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy loading in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, lazyloading]
+tags: [lazyloading]
 comments: true
 share: true
 ---

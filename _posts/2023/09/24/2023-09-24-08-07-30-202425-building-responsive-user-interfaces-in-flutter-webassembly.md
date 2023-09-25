@@ -3,7 +3,7 @@ layout: post
 title: "Building responsive user interfaces in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

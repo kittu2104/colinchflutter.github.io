@@ -3,7 +3,7 @@ layout: post
 title: "Implementing user roles and permissions in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, ServerSideRendering]
+tags: [ServerSideRendering]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom tooltip marker using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, TooltipMarker]
+tags: [TooltipMarker]
 comments: true
 share: true
 ---

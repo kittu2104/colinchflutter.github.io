@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create an animated bottom sheet shape in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper]
+tags: [CustomClipper]
 comments: true
 share: true
 ---

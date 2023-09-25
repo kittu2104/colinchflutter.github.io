@@ -3,7 +3,7 @@ layout: post
 title: "Internationalization and localization extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, localization]
+tags: [localization]
 comments: true
 share: true
 ---

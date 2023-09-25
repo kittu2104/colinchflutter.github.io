@@ -3,7 +3,7 @@ layout: post
 title: "How to use the FadeInImage widget with the Opacity widget for fade-in image loading"
 description: " "
 date: 2023-09-25
-tags: [flutter, FadeInImage]
+tags: [FadeInImage]
 comments: true
 share: true
 ---

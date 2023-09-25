@@ -3,7 +3,7 @@ layout: post
 title: "Building a forum platform with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, forum, webdevelopment]
+tags: [forum, webdevelopment]
 comments: true
 share: true
 ---

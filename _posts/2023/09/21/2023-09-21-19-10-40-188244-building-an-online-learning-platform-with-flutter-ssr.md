@@ -3,7 +3,7 @@ layout: post
 title: "Building an online learning platform with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Building, #Why, #Getting, #Conclusion, flutter, onlinelearning]
+tags: [Building, onlinelearning]
 comments: true
 share: true
 ---

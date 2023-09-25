@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fade-in and fade-out onboarding screen with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, OnboardingScreen]
+tags: [OnboardingScreen]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time search in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterssr, realtime, search]
+tags: [flutterssr, realtime, search]
 comments: true
 share: true
 ---

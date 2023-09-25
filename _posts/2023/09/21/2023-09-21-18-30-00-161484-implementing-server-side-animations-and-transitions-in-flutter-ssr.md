@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side animations and transitions in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, animations, transitions]
+tags: [animations, transitions]
 comments: true
 share: true
 ---

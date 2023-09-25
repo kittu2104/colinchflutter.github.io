@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio resampling with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audioresampling]
+tags: [audioresampling]
 comments: true
 share: true
 ---

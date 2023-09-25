@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape tag cloud using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, tagcloud]
+tags: [tagcloud]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing advanced indexing strategies in Flutter's migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, database, indexing, migrations]
+tags: [database, indexing, migrations]
 comments: true
 share: true
 ---

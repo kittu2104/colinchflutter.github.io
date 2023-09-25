@@ -3,7 +3,7 @@ layout: post
 title: "AI-driven chatbots and voice assistants extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Chatbot, Flutter, VoiceAssistant, Flutter]
+tags: [Chatbot, VoiceAssistant]
 comments: true
 share: true
 ---

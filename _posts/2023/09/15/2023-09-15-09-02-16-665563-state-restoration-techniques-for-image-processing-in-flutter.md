@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for image processing in Flutter"
 description: " "
 date: 2023-09-15
-tags: [ImageProcessing, StateRestoration, Flutter]
+tags: [ImageProcessing, StateRestoration]
 comments: true
 share: true
 ---

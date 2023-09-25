@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape barcode using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, Barcode]
+tags: [CustomClipper, Barcode]
 comments: true
 share: true
 ---

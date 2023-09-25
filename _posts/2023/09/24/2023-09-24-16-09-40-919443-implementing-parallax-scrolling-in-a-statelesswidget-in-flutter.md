@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallax scrolling in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, parallaxscrolling]
+tags: [parallaxscrolling]
 comments: true
 share: true
 ---

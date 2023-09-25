@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape timeline using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape, timeline]
+tags: [customshape, timeline]
 comments: true
 share: true
 ---

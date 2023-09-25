@@ -3,7 +3,7 @@ layout: post
 title: "Advantages of using StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

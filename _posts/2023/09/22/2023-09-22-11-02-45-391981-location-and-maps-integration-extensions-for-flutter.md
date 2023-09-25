@@ -3,7 +3,7 @@ layout: post
 title: "Location and maps integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, location]
+tags: [location]
 comments: true
 share: true
 ---

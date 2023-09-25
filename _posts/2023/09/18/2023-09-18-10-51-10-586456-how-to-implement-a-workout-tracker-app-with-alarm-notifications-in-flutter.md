@@ -8,7 +8,7 @@ comments: true
 share: true
 ---
 
-In today's fast-paced world, keeping track of your workouts and staying consistent with your fitness goals can be challenging. Fortunately, Flutter, a cross-platform framework developed by Google, allows us to build beautiful and versatile mobile applications quickly. In this tutorial, we will guide you through the process of building a workout tracker app with alarm notifications in Flutter.
+In today's fast-paced world, keeping track of your workouts and staying consistent with your fitness goals can be challenging. Fortunately, a cross-platform framework developed by Google, allows us to build beautiful and versatile mobile applications quickly. In this tutorial, we will guide you through the process of building a workout tracker app with alarm notifications in Flutter.
 
 ## Prerequisites
 

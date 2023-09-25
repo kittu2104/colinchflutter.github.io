@@ -3,7 +3,7 @@ layout: post
 title: "WebSocket communication extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [WebSocket, Flutter]
+tags: [WebSocket]
 comments: true
 share: true
 ---

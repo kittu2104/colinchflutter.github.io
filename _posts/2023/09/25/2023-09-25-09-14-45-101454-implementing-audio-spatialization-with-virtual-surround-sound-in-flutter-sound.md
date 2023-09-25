@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spatialization with virtual surround sound in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

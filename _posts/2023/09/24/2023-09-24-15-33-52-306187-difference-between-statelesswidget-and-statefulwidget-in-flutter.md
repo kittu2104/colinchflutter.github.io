@@ -3,7 +3,7 @@ layout: post
 title: "Difference between StatelessWidget and StatefulWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, statelesswidget, statefulwidget]
+tags: [statelesswidget, statefulwidget]
 comments: true
 share: true
 ---

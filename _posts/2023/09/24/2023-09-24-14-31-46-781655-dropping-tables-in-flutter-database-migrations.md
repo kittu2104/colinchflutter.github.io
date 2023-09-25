@@ -3,7 +3,7 @@ layout: post
 title: "Dropping tables in Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigrations]
+tags: [DatabaseMigrations]
 comments: true
 share: true
 ---

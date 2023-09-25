@@ -3,7 +3,7 @@ layout: post
 title: "Building a voice-controlled home automation app with audio recording and playback in Flutter"
 description: " "
 date: 2023-09-18
-tags: [Replace, flutter]
+tags: [Replace]
 comments: true
 share: true
 ---

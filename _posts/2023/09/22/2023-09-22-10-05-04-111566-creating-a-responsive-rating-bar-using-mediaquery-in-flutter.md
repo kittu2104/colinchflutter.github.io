@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive rating bar using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

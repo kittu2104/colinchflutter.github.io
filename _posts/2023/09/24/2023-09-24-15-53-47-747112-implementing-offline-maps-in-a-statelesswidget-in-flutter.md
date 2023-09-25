@@ -3,7 +3,7 @@ layout: post
 title: "Implementing offline maps in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, OfflineMaps]
+tags: [OfflineMaps]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to use the Opacity widget to create a transparent background for a widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Opacity]
+tags: [Opacity]
 comments: true
 share: true
 ---

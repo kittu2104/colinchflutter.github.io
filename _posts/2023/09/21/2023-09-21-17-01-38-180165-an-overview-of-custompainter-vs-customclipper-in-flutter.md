@@ -3,7 +3,7 @@ layout: post
 title: "An overview of CustomPainter vs CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomPainter, CustomClipper]
+tags: [CustomPainter, CustomClipper]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom loading indicator in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, LoadingIndicator]
+tags: [CustomClipper, LoadingIndicator]
 comments: true
 share: true
 ---

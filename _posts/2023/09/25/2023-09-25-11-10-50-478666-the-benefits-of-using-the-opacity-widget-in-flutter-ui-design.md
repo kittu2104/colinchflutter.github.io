@@ -3,7 +3,7 @@ layout: post
 title: "The benefits of using the Opacity widget in Flutter UI design"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Design]
+tags: [Design]
 comments: true
 share: true
 ---

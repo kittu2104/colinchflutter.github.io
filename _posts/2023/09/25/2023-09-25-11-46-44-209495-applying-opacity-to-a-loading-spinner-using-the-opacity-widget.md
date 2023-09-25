@@ -3,7 +3,7 @@ layout: post
 title: "Applying opacity to a loading spinner using the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, opacity]
+tags: [opacity]
 comments: true
 share: true
 ---

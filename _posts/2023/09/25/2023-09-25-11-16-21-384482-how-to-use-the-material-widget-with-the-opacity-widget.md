@@ -3,7 +3,7 @@ layout: post
 title: "How to use the Material widget with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, fluttertutorial]
+tags: [fluttertutorial]
 comments: true
 share: true
 ---

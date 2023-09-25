@@ -3,7 +3,7 @@ layout: post
 title: "How to use CustomClipper to create a wave effect in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customclipper]
+tags: [customclipper]
 comments: true
 share: true
 ---

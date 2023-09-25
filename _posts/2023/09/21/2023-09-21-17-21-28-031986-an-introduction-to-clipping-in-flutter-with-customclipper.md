@@ -3,7 +3,7 @@ layout: post
 title: "An introduction to clipping in Flutter with CustomClipper"
 description: " "
 date: 2023-09-21
-tags: [flutter, customclipper]
+tags: [customclipper]
 comments: true
 share: true
 ---

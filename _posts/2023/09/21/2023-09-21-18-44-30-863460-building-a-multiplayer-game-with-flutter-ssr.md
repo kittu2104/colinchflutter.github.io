@@ -3,7 +3,7 @@ layout: post
 title: "Building a multiplayer game with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, MultiplayerGame]
+tags: [MultiplayerGame]
 comments: true
 share: true
 ---

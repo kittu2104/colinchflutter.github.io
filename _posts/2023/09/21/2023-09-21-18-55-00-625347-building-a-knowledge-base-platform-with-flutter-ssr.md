@@ -3,7 +3,7 @@ layout: post
 title: "Building a knowledge base platform with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, KnowledgeBase]
+tags: [KnowledgeBase]
 comments: true
 share: true
 ---

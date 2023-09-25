@@ -3,7 +3,7 @@ layout: post
 title: "Creating a progressive fade-in effect with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, FadeInEffect]
+tags: [FadeInEffect]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fade-in and fade-out toast notification with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, toastnotification]
+tags: [toastnotification]
 comments: true
 share: true
 ---

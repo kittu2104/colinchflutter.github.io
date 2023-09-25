@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape stepper form with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape, stepper]
+tags: [customshape, stepper]
 comments: true
 share: true
 ---

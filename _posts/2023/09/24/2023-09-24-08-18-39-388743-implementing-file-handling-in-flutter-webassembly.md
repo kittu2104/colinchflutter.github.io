@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file handling in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, WebAssembly]
+tags: [WebAssembly]
 comments: true
 share: true
 ---

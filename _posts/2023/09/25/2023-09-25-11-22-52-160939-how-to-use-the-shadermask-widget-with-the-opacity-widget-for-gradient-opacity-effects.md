@@ -3,7 +3,7 @@ layout: post
 title: "How to use the ShaderMask widget with the Opacity widget for gradient opacity effects"
 description: " "
 date: 2023-09-25
-tags: [Flutter, UIEffects]
+tags: [UIEffects]
 comments: true
 share: true
 ---

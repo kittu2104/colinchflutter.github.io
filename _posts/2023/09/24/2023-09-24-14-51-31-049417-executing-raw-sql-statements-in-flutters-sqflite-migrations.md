@@ -3,7 +3,7 @@ layout: post
 title: "Executing raw SQL statements in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Debugging techniques for Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webassembly]
+tags: [webassembly]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom music player waveform shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, musicplayer, visualizations]
+tags: [musicplayer, visualizations]
 comments: true
 share: true
 ---

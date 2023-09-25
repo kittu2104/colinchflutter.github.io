@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and logging database migrations in Flutter with sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

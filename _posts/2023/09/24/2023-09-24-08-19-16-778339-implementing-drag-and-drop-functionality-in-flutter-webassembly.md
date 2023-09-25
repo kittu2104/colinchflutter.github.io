@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag and drop functionality in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

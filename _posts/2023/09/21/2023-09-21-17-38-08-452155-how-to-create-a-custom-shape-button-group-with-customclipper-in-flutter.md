@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape button group with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape, button, flutterdevelopment]
+tags: [customshape, button, flutterdevelopment]
 comments: true
 share: true
 ---

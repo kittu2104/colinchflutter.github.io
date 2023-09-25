@@ -3,7 +3,7 @@ layout: post
 title: "Handling Bloom filters and caching in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigrations]
+tags: [DatabaseMigrations]
 comments: true
 share: true
 ---

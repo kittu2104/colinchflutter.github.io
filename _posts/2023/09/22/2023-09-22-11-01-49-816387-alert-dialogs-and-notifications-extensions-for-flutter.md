@@ -3,7 +3,7 @@ layout: post
 title: "Alert dialogs and notifications extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, mobiledevelopment]
+tags: [mobiledevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling data validation in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, sqflite, DataValidation, Flutter, sqflite, DataValidation]
+tags: [sqflite, DataValidation, sqflite, DataValidation]
 comments: true
 share: true
 ---

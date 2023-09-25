@@ -3,7 +3,7 @@ layout: post
 title: "Using the Opacity widget for cross-fade transitions"
 description: " "
 date: 2023-09-25
-tags: [flutter, reactnative]
+tags: [reactnative]
 comments: true
 share: true
 ---

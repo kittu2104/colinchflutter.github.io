@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape using CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, custompainter]
+tags: [custompainter]
 comments: true
 share: true
 ---

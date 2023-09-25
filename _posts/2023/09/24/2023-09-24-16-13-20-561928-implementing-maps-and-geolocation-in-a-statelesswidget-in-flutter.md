@@ -3,7 +3,7 @@ layout: post
 title: "Implementing maps and geolocation in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, maps, geolocation]
+tags: [maps, geolocation]
 comments: true
 share: true
 ---

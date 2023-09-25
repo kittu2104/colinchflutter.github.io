@@ -3,7 +3,7 @@ layout: post
 title: "Automating Flutter database migrations using CI/CD pipelines"
 description: " "
 date: 2023-09-24
-tags: [flutter, database]
+tags: [database]
 comments: true
 share: true
 ---

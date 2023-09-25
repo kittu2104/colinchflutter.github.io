@@ -3,7 +3,7 @@ layout: post
 title: "Using `MediaQueryData` properties for conditional rendering in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

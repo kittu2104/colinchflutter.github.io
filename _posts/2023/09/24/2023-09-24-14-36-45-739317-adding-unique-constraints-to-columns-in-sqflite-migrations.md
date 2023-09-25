@@ -3,7 +3,7 @@ layout: post
 title: "Adding unique constraints to columns in sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

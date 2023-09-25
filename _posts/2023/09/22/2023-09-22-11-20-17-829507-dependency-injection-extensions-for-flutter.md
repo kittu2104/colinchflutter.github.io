@@ -3,7 +3,7 @@ layout: post
 title: "Dependency injection extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, DependencyInjection]
+tags: [DependencyInjection]
 comments: true
 share: true
 ---

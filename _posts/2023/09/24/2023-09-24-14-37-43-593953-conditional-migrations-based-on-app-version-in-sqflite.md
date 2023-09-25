@@ -3,7 +3,7 @@ layout: post
 title: "Conditional migrations based on app version in sqflite"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigrations]
+tags: [DatabaseMigrations]
 comments: true
 share: true
 ---

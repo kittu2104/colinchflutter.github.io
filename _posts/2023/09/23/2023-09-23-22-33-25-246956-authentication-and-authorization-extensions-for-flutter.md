@@ -3,7 +3,7 @@ layout: post
 title: "Authentication and authorization extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, Authentication, Authorization]
+tags: [Authentication, Authorization]
 comments: true
 share: true
 ---

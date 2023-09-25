@@ -3,7 +3,7 @@ layout: post
 title: "Text editing and input handling extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, TextEditing, InputHandling]
+tags: [TextEditing, InputHandling]
 comments: true
 share: true
 ---

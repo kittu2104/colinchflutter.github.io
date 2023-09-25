@@ -3,7 +3,7 @@ layout: post
 title: "Using `MediaQuery.of(context).size.height` to get the device's screen height"
 description: " "
 date: 2023-09-22
-tags: [Flutter, ScreenHeight]
+tags: [ScreenHeight]
 comments: true
 share: true
 ---

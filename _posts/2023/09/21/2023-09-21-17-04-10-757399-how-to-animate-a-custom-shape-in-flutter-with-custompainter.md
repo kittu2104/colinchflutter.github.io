@@ -3,7 +3,7 @@ layout: post
 title: "How to animate a custom shape in Flutter with CustomPainter"
 description: " "
 date: 2023-09-21
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

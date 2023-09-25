@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape grid layout using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customclipper]
+tags: [customclipper]
 comments: true
 share: true
 ---

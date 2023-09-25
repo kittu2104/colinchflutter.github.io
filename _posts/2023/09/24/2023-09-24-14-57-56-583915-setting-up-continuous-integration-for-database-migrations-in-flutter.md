@@ -3,7 +3,7 @@ layout: post
 title: "Setting up continuous integration for database migrations in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, continuousintegration]
+tags: [continuousintegration]
 comments: true
 share: true
 ---

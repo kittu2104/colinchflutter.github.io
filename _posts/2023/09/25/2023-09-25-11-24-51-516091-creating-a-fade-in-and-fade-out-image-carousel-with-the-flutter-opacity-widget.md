@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fade-in and fade-out image carousel with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, carousel]
+tags: [carousel]
 comments: true
 share: true
 ---

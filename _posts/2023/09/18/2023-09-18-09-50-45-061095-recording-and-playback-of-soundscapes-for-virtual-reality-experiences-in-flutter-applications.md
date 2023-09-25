@@ -3,7 +3,7 @@ layout: post
 title: "Recording and playback of soundscapes for virtual reality experiences in Flutter applications"
 description: " "
 date: 2023-09-18
-tags: [VirtualReality, Flutter]
+tags: [VirtualReality]
 comments: true
 share: true
 ---

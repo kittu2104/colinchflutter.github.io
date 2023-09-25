@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom music streaming app UI with Flutter Custom Painter"
 description: " "
 date: 2023-09-15
-tags: [Conclusion, flutter]
+tags: [Conclusion]
 comments: true
 share: true
 ---

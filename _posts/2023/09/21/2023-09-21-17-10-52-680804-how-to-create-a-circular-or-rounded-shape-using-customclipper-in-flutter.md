@@ -3,7 +3,7 @@ layout: post
 title: "How to create a circular or rounded shape using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape]
+tags: [customshape]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Managing database indexes in Flutter migrations using sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

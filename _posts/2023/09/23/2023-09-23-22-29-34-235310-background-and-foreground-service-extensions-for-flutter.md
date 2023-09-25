@@ -3,7 +3,7 @@ layout: post
 title: "Background and foreground service extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, MobileDevelopment]
+tags: [MobileDevelopment]
 comments: true
 share: true
 ---

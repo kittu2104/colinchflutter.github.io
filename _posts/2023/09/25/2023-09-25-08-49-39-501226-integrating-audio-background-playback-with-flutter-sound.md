@@ -3,7 +3,7 @@ layout: post
 title: "Integrating audio background playback with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

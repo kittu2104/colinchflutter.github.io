@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive layout using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, responsivelayout]
+tags: [responsivelayout]
 comments: true
 share: true
 ---

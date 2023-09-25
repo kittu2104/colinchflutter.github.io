@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Flutter's `MediaQuery`"
 description: " "
 date: 2023-09-22
-tags: [Flutter, MediaQuery]
+tags: [MediaQuery]
 comments: true
 share: true
 ---

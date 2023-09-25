@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape carousel using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, FlutterDevelopment]
+tags: [FlutterDevelopment]
 comments: true
 share: true
 ---

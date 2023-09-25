@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video streaming in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, videostreaming]
+tags: [videostreaming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image cropping and resizing in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, ImageCropping, ImageResizing]
+tags: [ImageCropping, ImageResizing]
 comments: true
 share: true
 ---

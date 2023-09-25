@@ -3,7 +3,7 @@ layout: post
 title: "Implementing barcode generation in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, BarcodeGeneration]
+tags: [BarcodeGeneration]
 comments: true
 share: true
 ---

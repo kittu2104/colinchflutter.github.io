@@ -3,7 +3,7 @@ layout: post
 title: "Using global variables in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, global]
+tags: [global]
 comments: true
 share: true
 ---

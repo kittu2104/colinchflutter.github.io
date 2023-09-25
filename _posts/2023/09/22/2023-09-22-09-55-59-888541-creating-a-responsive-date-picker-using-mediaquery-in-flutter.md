@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive date picker using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, datePicker]
+tags: [datePicker]
 comments: true
 share: true
 ---

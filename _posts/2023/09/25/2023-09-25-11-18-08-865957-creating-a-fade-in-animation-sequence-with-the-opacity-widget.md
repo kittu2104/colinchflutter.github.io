@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fade-in animation sequence with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

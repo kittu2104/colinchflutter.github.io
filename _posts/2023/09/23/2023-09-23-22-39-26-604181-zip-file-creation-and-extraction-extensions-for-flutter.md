@@ -3,7 +3,7 @@ layout: post
 title: "Zip file creation and extraction extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ZipFiles]
+tags: [ZipFiles]
 comments: true
 share: true
 ---

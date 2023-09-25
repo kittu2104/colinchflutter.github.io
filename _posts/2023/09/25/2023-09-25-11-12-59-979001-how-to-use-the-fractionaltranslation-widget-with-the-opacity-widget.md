@@ -3,7 +3,7 @@ layout: post
 title: "How to use the FractionalTranslation widget with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, widgets]
+tags: [widgets]
 comments: true
 share: true
 ---

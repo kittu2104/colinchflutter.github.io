@@ -3,7 +3,7 @@ layout: post
 title: "Implementing biometric authentication in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, biometricauthentication]
+tags: [biometricauthentication]
 comments: true
 share: true
 ---

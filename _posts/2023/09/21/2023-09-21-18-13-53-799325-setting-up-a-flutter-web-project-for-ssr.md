@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a Flutter web project for SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling device-specific UI adjustments using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, UIadjustments]
+tags: [UIadjustments]
 comments: true
 share: true
 ---

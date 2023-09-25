@@ -3,7 +3,7 @@ layout: post
 title: "Handling user input in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, flutterwebassembly]
+tags: [flutterwebassembly]
 comments: true
 share: true
 ---

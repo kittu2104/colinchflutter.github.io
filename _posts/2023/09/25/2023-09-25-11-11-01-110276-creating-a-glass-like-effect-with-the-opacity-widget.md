@@ -3,7 +3,7 @@ layout: post
 title: "Creating a glass-like effect with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, UIeffects]
+tags: [UIeffects]
 comments: true
 share: true
 ---

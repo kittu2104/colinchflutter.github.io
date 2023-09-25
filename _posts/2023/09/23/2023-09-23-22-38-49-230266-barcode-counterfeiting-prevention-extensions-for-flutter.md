@@ -3,7 +3,7 @@ layout: post
 title: "Barcode counterfeiting prevention extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [ff6666, barcode, counterfeiting, prevention, Flutter, barcode_scanner]
+tags: [ff6666, barcode, counterfeiting, prevention, barcode_scanner]
 comments: true
 share: true
 ---

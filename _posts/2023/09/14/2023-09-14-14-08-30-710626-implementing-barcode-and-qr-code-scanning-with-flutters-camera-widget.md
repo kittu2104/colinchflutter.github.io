@@ -3,7 +3,7 @@ layout: post
 title: "Implementing barcode and QR code scanning with Flutter's camera widget"
 description: " "
 date: 2023-09-14
-tags: [ff6666, flutter, barcode]
+tags: [ff6666, barcode]
 comments: true
 share: true
 ---

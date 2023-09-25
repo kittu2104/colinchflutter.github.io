@@ -3,7 +3,7 @@ layout: post
 title: "Pagination and infinite scroll extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, pagination, flutter, infinite]
+tags: [pagination, infinite]
 comments: true
 share: true
 ---

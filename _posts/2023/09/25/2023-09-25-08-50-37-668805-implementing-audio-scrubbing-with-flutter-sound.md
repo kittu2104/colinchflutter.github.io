@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio scrubbing with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, flutter_sound]
+tags: [flutter_sound]
 comments: true
 share: true
 ---

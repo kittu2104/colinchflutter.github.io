@@ -3,7 +3,7 @@ layout: post
 title: "How to use the TweenAnimationBuilder with the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

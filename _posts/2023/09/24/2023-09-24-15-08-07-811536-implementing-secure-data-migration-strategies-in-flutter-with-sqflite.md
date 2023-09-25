@@ -3,7 +3,7 @@ layout: post
 title: "Implementing secure data migration strategies in Flutter with sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, dataMigration, sqflite]
+tags: [dataMigration, sqflite]
 comments: true
 share: true
 ---

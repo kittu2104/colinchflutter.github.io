@@ -3,7 +3,7 @@ layout: post
 title: "Implementing crash reporting in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, crashreporting]
+tags: [crashreporting]
 comments: true
 share: true
 ---

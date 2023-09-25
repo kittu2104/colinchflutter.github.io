@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom product tag shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, ProductTag, FlutterWidgets]
+tags: [CustomClipper, ProductTag, FlutterWidgets]
 comments: true
 share: true
 ---

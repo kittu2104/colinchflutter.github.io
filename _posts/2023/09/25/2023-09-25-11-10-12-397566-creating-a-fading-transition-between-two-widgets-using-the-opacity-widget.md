@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fading transition between two widgets using the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, OpacityWidget]
+tags: [OpacityWidget]
 comments: true
 share: true
 ---

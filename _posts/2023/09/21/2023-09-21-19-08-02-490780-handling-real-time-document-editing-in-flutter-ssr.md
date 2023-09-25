@@ -3,7 +3,7 @@ layout: post
 title: "Handling real-time document editing in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, realtime, documents]
+tags: [realtime, documents]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Image comparison and similarity analysis extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, FlutterExtensions]
+tags: [FlutterExtensions]
 comments: true
 share: true
 ---

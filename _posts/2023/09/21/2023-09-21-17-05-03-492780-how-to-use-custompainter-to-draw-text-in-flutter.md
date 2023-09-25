@@ -3,7 +3,7 @@ layout: post
 title: "How to use CustomPainter to draw text in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomPainter]
+tags: [CustomPainter]
 comments: true
 share: true
 ---

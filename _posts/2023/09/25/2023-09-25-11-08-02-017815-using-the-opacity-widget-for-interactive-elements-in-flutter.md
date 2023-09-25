@@ -3,7 +3,7 @@ layout: post
 title: "Using the Opacity widget for interactive elements in Flutter"
 description: " "
 date: 2023-09-25
-tags: [flutter, userinterface]
+tags: [userinterface]
 comments: true
 share: true
 ---

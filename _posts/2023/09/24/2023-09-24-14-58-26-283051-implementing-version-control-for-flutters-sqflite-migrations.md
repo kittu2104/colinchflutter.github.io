@@ -3,7 +3,7 @@ layout: post
 title: "Implementing version control for Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, sqflite, migrations, versioncontrol]
+tags: [sqflite, migrations, versioncontrol]
 comments: true
 share: true
 ---

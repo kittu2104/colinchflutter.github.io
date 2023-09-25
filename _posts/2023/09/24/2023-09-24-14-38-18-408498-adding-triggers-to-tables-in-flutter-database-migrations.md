@@ -3,7 +3,7 @@ layout: post
 title: "Adding triggers to tables in Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, databasemigration, triggers]
+tags: [databasemigration, triggers]
 comments: true
 share: true
 ---

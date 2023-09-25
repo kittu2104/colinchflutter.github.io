@@ -3,7 +3,7 @@ layout: post
 title: "Audio recording and waveform visualization extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, audiorecording, waveformvisualization]
+tags: [audiorecording, waveformvisualization]
 comments: true
 share: true
 ---

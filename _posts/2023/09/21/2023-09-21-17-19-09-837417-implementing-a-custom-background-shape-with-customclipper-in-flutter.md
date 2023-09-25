@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom background shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape]
+tags: [customshape]
 comments: true
 share: true
 ---

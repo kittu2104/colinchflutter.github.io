@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio speech recognition with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [Flutter, SpeechRecognition]
+tags: [SpeechRecognition]
 comments: true
 share: true
 ---

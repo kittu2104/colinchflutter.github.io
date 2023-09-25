@@ -3,7 +3,7 @@ layout: post
 title: "Updating default values of columns in Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, databasemigrations]
+tags: [databasemigrations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Credit card scanning and verification extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, creditcard, scanning, flutter, creditcard, verification]
+tags: [creditcard, scanning, creditcard, verification]
 comments: true
 share: true
 ---

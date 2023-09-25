@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive chart layout with `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

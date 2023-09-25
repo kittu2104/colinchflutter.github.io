@@ -3,7 +3,7 @@ layout: post
 title: "How to use the Opacity widget with the AnimatedBuilder widget for custom opacity animations"
 description: " "
 date: 2023-09-25
-tags: [flutter, flutteranimation]
+tags: [flutteranimation]
 comments: true
 share: true
 ---

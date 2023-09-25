@@ -3,7 +3,7 @@ layout: post
 title: "Managing encryption and security in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, encryption, security, database, migrations]
+tags: [encryption, security, database, migrations]
 comments: true
 share: true
 ---

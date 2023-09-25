@@ -3,7 +3,7 @@ layout: post
 title: "Handling interruptions in audio playback with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiohandling]
+tags: [audiohandling]
 comments: true
 share: true
 ---

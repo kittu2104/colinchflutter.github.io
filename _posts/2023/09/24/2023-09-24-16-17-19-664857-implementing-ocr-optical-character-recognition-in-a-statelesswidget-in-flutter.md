@@ -3,7 +3,7 @@ layout: post
 title: "Implementing OCR (Optical Character Recognition) in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

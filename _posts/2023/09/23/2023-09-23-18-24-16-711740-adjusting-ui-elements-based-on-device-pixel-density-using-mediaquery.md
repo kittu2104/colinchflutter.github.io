@@ -3,7 +3,7 @@ layout: post
 title: "Adjusting UI elements based on device pixel density using `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [Flutter, UIAdjustment, MediaQuery]
+tags: [UIAdjustment, MediaQuery]
 comments: true
 share: true
 ---

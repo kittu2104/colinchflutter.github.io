@@ -3,7 +3,7 @@ layout: post
 title: "Modifying trigger logic in sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, migrations]
+tags: [sqflite, migrations]
 comments: true
 share: true
 ---

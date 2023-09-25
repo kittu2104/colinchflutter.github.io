@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side user tracking and analytics in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Analytics]
+tags: [Analytics]
 comments: true
 share: true
 ---

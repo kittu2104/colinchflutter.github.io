@@ -3,7 +3,7 @@ layout: post
 title: "Debugging a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DebuggingTips]
+tags: [DebuggingTips]
 comments: true
 share: true
 ---

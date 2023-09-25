@@ -3,7 +3,7 @@ layout: post
 title: "Implementing A/B testing in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, ABtesting]
+tags: [ABtesting]
 comments: true
 share: true
 ---

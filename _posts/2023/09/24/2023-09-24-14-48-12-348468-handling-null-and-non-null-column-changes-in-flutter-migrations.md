@@ -3,7 +3,7 @@ layout: post
 title: "Handling null and non-null column changes in Flutter migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, FlutterMigrations]
+tags: [FlutterMigrations]
 comments: true
 share: true
 ---

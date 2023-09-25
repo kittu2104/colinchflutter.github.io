@@ -3,7 +3,7 @@ layout: post
 title: "How to use Gradient with CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, custompainter, gradient]
+tags: [custompainter, gradient]
 comments: true
 share: true
 ---

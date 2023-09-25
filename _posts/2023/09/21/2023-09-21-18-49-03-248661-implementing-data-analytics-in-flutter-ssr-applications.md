@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data analytics in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, analytics]
+tags: [analytics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dynamic forms in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webassembly, dynamicforms]
+tags: [webassembly, dynamicforms]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive image filters using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

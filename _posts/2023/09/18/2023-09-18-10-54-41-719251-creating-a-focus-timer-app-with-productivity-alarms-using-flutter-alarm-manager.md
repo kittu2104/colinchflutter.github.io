@@ -3,7 +3,7 @@ layout: post
 title: "Creating a focus timer app with productivity alarms using Flutter Alarm Manager"
 description: " "
 date: 2023-09-18
-tags: [tags, Flutter]
+tags: [tags]
 comments: true
 share: true
 ---

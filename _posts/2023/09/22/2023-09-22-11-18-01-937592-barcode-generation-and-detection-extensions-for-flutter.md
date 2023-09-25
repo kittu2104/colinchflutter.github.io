@@ -3,7 +3,7 @@ layout: post
 title: "Barcode generation and detection extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, Barcodes]
+tags: [Barcodes]
 comments: true
 share: true
 ---

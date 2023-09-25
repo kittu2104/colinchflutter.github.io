@@ -3,7 +3,7 @@ layout: post
 title: "Automating data backups and restores during Flutter migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DataMigration]
+tags: [DataMigration]
 comments: true
 share: true
 ---

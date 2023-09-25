@@ -3,7 +3,7 @@ layout: post
 title: "Handling different screen resolutions with `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, MobileAppDevelopment]
+tags: [MobileAppDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Handling real-time notifications in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, realtime, notifications]
+tags: [realtime, notifications]
 comments: true
 share: true
 ---

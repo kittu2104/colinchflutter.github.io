@@ -3,7 +3,7 @@ layout: post
 title: "Applying opacity to a countdown timer using the Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, CountdownTimer]
+tags: [CountdownTimer]
 comments: true
 share: true
 ---

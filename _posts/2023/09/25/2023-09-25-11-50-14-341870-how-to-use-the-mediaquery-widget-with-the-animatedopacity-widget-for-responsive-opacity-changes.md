@@ -3,7 +3,7 @@ layout: post
 title: "How to use the MediaQuery widget with the AnimatedOpacity widget for responsive opacity changes"
 description: " "
 date: 2023-09-25
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

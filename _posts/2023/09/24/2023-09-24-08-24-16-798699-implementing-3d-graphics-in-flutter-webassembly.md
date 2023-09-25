@@ -3,7 +3,7 @@ layout: post
 title: "Implementing 3D graphics in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [myCanvas, myCanvas, flutter, webassembly, 3dgraphics, webgl]
+tags: [myCanvas, myCanvas, webassembly, 3dgraphics, webgl]
 comments: true
 share: true
 ---

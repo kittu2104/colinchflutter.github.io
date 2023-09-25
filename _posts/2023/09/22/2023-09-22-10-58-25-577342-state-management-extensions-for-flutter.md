@@ -3,7 +3,7 @@ layout: post
 title: "State management extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, statemanagement]
+tags: [statemanagement]
 comments: true
 share: true
 ---

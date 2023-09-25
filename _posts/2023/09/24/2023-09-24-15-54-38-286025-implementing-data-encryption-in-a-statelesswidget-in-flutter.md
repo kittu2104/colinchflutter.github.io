@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data encryption in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DataEncryption]
+tags: [DataEncryption]
 comments: true
 share: true
 ---

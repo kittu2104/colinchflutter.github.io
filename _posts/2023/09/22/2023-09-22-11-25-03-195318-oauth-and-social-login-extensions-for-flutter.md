@@ -3,7 +3,7 @@ layout: post
 title: "OAuth and social login extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, OAuthAccessToken]
+tags: [OAuthAccessToken]
 comments: true
 share: true
 ---

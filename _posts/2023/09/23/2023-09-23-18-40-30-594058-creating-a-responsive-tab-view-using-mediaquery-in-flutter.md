@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive tab view using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsive, tabview]
+tags: [responsive, tabview]
 comments: true
 share: true
 ---

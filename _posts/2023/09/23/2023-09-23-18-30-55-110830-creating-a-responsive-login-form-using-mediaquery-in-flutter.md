@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive login form using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, loginform, responsivedesign]
+tags: [loginform, responsivedesign]
 comments: true
 share: true
 ---

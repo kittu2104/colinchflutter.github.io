@@ -3,7 +3,7 @@ layout: post
 title: "Creating and using migration scripts in Flutter's sqflite package"
 description: " "
 date: 2023-09-24
-tags: [Flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

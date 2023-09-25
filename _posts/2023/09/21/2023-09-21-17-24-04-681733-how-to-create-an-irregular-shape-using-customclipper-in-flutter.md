@@ -3,7 +3,7 @@ layout: post
 title: "How to create an irregular shape using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, IrregularShape]
+tags: [CustomClipper, IrregularShape]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to use the IgnorePointer widget with the AnimatedOpacity widget for interactive fade-in animations"
 description: " "
 date: 2023-09-25
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

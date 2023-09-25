@@ -3,7 +3,7 @@ layout: post
 title: "Setting up Flutter Sound in a Flutter project"
 description: " "
 date: 2023-09-25
-tags: [flutter, fluttersound]
+tags: [fluttersound]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "PDF viewing and annotation extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, annotation, extensions]
+tags: [annotation, extensions]
 comments: true
 share: true
 ---

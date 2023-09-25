@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio sentiment analysis with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiosentimentanalysis]
+tags: [audiosentimentanalysis]
 comments: true
 share: true
 ---

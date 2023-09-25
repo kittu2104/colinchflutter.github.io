@@ -3,7 +3,7 @@ layout: post
 title: "Video conferencing and live streaming extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, videoconferencing, livestreaming]
+tags: [videoconferencing, livestreaming]
 comments: true
 share: true
 ---

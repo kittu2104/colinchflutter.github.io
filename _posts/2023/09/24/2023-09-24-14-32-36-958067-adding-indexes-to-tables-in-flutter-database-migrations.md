@@ -3,7 +3,7 @@ layout: post
 title: "Adding indexes to tables in Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigration]
+tags: [DatabaseMigration]
 comments: true
 share: true
 ---

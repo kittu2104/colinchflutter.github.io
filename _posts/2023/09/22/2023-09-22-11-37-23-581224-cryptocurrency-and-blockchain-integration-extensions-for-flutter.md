@@ -3,7 +3,7 @@ layout: post
 title: "Cryptocurrency and blockchain integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, cryptocurrency]
+tags: [cryptocurrency]
 comments: true
 share: true
 ---

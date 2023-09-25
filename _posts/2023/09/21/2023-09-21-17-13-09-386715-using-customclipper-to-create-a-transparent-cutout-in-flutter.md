@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a transparent cutout in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape]
+tags: [customshape]
 comments: true
 share: true
 ---

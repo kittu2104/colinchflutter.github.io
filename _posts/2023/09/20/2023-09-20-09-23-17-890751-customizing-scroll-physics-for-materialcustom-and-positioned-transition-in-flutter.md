@@ -3,7 +3,7 @@ layout: post
 title: "Customizing scroll physics for Material.custom and Positioned Transition in Flutter"
 description: " "
 date: 2023-09-20
-tags: [customscrollphysics, flutter]
+tags: [customscrollphysics]
 comments: true
 share: true
 ---

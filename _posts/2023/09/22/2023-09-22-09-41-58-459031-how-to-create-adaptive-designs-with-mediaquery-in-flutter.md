@@ -3,7 +3,7 @@ layout: post
 title: "How to create adaptive designs with `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, mediquery]
+tags: [mediquery]
 comments: true
 share: true
 ---

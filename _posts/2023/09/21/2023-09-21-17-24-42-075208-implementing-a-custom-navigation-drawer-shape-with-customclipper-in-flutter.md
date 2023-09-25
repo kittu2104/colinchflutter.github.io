@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom navigation drawer shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, navigationdrawer]
+tags: [navigationdrawer]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to use the Opacity widget with the AnimatedContainer widget for dynamic opacity animations"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Animation]
+tags: [Animation]
 comments: true
 share: true
 ---

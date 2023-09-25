@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data compression in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, compression]
+tags: [compression]
 comments: true
 share: true
 ---

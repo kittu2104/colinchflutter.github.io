@@ -3,7 +3,7 @@ layout: post
 title: "Migrating from SQLite to other database engines in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, database, migration]
+tags: [database, migration]
 comments: true
 share: true
 ---

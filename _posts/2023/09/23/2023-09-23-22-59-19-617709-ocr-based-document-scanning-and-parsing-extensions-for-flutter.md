@@ -3,7 +3,7 @@ layout: post
 title: "OCR-based document scanning and parsing extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, DocumentScanning, Parsing, MobileDevelopment]
+tags: [DocumentScanning, Parsing, MobileDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing offline mode in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, offlineMode]
+tags: [offlineMode]
 comments: true
 share: true
 ---

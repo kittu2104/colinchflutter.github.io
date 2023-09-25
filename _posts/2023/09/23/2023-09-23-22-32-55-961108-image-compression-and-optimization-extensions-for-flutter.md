@@ -3,7 +3,7 @@ layout: post
 title: "Image compression and optimization extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, imageoptimization]
+tags: [imageoptimization]
 comments: true
 share: true
 ---

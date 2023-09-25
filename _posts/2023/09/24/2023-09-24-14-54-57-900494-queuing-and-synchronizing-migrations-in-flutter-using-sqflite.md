@@ -3,7 +3,7 @@ layout: post
 title: "Queuing and synchronizing migrations in Flutter using sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

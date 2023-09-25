@@ -3,7 +3,7 @@ layout: post
 title: "Video streaming and broadcasting extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, VideoStreaming, VideoBroadcasting]
+tags: [VideoStreaming, VideoBroadcasting]
 comments: true
 share: true
 ---

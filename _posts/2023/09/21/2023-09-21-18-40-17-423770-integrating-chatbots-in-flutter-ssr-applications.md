@@ -3,7 +3,7 @@ layout: post
 title: "Integrating chatbots in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, chatbots]
+tags: [chatbots]
 comments: true
 share: true
 ---

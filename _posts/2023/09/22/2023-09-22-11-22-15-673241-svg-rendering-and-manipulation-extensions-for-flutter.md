@@ -3,7 +3,7 @@ layout: post
 title: "SVG rendering and manipulation extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, SVGextensions]
+tags: [SVGextensions]
 comments: true
 share: true
 ---

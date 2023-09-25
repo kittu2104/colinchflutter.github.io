@@ -3,7 +3,7 @@ layout: post
 title: "Using the Opacity widget for tooltips and pop-ups in Flutter"
 description: " "
 date: 2023-09-25
-tags: [Flutter, UIComponents]
+tags: [UIComponents]
 comments: true
 share: true
 ---

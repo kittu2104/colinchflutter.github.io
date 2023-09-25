@@ -3,7 +3,7 @@ layout: post
 title: "Implementing AR-based educational applications in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Education, Flutter]
+tags: [Education]
 comments: true
 share: true
 ---

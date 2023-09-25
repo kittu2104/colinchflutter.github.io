@@ -3,7 +3,7 @@ layout: post
 title: "Creating a fade-in text input field with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Animation]
+tags: [Animation]
 comments: true
 share: true
 ---

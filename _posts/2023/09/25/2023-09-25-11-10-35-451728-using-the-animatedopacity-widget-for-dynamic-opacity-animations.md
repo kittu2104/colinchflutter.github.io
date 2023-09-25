@@ -3,7 +3,7 @@ layout: post
 title: "Using the AnimatedOpacity widget for dynamic opacity animations"
 description: " "
 date: 2023-09-25
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

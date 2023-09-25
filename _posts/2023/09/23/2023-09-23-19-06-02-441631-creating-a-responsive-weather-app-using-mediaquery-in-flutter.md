@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive weather app using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, weatherapp]
+tags: [weatherapp]
 comments: true
 share: true
 ---

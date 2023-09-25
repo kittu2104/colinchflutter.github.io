@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom animations in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, animations]
+tags: [animations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing machine learning interfaces in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

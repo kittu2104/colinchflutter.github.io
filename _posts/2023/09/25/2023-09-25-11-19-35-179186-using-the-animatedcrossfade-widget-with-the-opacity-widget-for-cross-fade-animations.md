@@ -3,7 +3,7 @@ layout: post
 title: "Using the AnimatedCrossFade widget with the Opacity widget for cross-fade animations"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Animation]
+tags: [Animation]
 comments: true
 share: true
 ---

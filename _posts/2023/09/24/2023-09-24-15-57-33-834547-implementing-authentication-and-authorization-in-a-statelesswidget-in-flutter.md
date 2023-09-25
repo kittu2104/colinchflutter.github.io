@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication and authorization in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, authentication, authorization]
+tags: [authentication, authorization]
 comments: true
 share: true
 ---

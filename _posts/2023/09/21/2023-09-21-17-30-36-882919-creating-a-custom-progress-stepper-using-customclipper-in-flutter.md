@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom progress stepper using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customstepper]
+tags: [customstepper]
 comments: true
 share: true
 ---

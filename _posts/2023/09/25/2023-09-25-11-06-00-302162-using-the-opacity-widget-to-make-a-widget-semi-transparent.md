@@ -3,7 +3,7 @@ layout: post
 title: "Using the Opacity widget to make a widget semi-transparent"
 description: " "
 date: 2023-09-25
-tags: [flutter, opacity]
+tags: [opacity]
 comments: true
 share: true
 ---

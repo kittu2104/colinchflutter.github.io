@@ -3,7 +3,7 @@ layout: post
 title: "Using the ClipRect widget with the Opacity widget for masked opacity"
 description: " "
 date: 2023-09-25
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

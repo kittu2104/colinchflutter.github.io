@@ -3,7 +3,7 @@ layout: post
 title: "Implementing camera functionality in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, CameraFunctionality]
+tags: [CameraFunctionality]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Flutter SSR applications on cloud platforms"
 description: " "
 date: 2023-09-21
-tags: [flutter, serverSideRendering]
+tags: [serverSideRendering]
 comments: true
 share: true
 ---

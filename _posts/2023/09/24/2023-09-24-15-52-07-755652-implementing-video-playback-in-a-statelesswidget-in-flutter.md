@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video playback in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, videoplayback]
+tags: [videoplayback]
 comments: true
 share: true
 ---

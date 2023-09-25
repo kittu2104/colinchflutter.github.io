@@ -3,7 +3,7 @@ layout: post
 title: "Implementing recommendation systems with Flutter's recommendation widget"
 description: " "
 date: 2023-09-14
-tags: [recommendations, Flutter]
+tags: [recommendations]
 comments: true
 share: true
 ---

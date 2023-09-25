@@ -3,7 +3,7 @@ layout: post
 title: "Implementing localization in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Localization, Flutter]
+tags: [Localization]
 comments: true
 share: true
 ---

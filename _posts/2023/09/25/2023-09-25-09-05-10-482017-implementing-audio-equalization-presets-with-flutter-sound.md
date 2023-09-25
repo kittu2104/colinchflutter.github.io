@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio equalization presets with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audiosound]
+tags: [audiosound]
 comments: true
 share: true
 ---

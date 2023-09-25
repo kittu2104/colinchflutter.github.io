@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom floating action button shape in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterdevelopment, customfabshape, flutterui]
+tags: [flutterdevelopment, customfabshape, flutterui]
 comments: true
 share: true
 ---

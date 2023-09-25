@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive stepper navigation using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsive]
+tags: [responsive]
 comments: true
 share: true
 ---

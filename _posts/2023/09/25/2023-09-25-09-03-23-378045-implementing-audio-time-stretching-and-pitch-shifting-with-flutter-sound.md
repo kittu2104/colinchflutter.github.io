@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio time stretching and pitch shifting with Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [Flutter, AudioProcessing]
+tags: [AudioProcessing]
 comments: true
 share: true
 ---

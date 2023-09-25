@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom shapes with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, Shapes]
+tags: [CustomClipper, Shapes]
 comments: true
 share: true
 ---

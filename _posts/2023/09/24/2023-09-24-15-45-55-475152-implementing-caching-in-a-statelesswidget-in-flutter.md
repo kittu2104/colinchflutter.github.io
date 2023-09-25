@@ -3,7 +3,7 @@ layout: post
 title: "Implementing caching in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, caching]
+tags: [caching]
 comments: true
 share: true
 ---

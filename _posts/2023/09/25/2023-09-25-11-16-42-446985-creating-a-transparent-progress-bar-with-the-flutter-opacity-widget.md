@@ -3,7 +3,7 @@ layout: post
 title: "Creating a transparent progress bar with the Flutter Opacity widget"
 description: " "
 date: 2023-09-25
-tags: [Flutter, Transparency]
+tags: [Transparency]
 comments: true
 share: true
 ---

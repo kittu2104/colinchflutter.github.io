@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spectrum visualization with customizable color themes in Flutter Sound"
 description: " "
 date: 2023-09-25
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---
