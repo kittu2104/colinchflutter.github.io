@@ -3,7 +3,7 @@ layout: post
 title: "Debugging package installation errors in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageInstallationErrors]
+tags: [PackageInstallationErrors]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Excluding packages from a Flutter project with the package manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManagement]
+tags: [PackageManagement]
 comments: true
 share: true
 ---

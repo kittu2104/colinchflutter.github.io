@@ -3,7 +3,7 @@ layout: post
 title: "Publishing a package to the Flutter Package Manager registry"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManager]
+tags: [PackageManager]
 comments: true
 share: true
 ---

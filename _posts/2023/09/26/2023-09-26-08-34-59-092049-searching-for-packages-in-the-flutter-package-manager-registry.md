@@ -3,7 +3,7 @@ layout: post
 title: "Searching for packages in the Flutter Package Manager registry"
 description: " "
 date: 2023-09-26
-tags: [flutter, pubdev]
+tags: [pubdev]
 comments: true
 share: true
 ---

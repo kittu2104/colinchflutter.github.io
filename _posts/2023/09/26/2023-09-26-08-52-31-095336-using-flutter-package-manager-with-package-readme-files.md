@@ -3,7 +3,7 @@ layout: post
 title: "Using Flutter Package Manager with package readme files"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManager]
+tags: [PackageManager]
 comments: true
 share: true
 ---

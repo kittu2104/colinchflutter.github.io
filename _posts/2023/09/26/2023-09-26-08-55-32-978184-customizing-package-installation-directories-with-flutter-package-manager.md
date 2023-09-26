@@ -3,7 +3,7 @@ layout: post
 title: "Customizing package installation directories with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, package]
+tags: [package]
 comments: true
 share: true
 ---

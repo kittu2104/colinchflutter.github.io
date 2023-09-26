@@ -3,7 +3,7 @@ layout: post
 title: "Resolving dependency conflicts in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, DependencyConflicts]
+tags: [DependencyConflicts]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing performance bottlenecks in Flutter web apps"
 description: " "
 date: 2023-09-26
-tags: [Conclusion, Flutter]
+tags: [Conclusion]
 comments: true
 share: true
 ---

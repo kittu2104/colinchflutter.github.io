@@ -3,7 +3,7 @@ layout: post
 title: "Managing dependencies with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, dependencies]
+tags: [dependencies]
 comments: true
 share: true
 ---

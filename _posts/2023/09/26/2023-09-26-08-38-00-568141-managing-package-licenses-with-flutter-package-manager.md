@@ -3,7 +3,7 @@ layout: post
 title: "Managing package licenses with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterdeveloper]
+tags: [flutterdeveloper]
 comments: true
 share: true
 ---

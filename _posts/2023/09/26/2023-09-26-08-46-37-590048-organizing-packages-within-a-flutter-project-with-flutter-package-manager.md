@@ -3,7 +3,7 @@ layout: post
 title: "Organizing packages within a Flutter project with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManagement]
+tags: [PackageManagement]
 comments: true
 share: true
 ---

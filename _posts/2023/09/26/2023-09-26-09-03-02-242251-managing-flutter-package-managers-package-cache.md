@@ -3,7 +3,7 @@ layout: post
 title: "Managing Flutter Package Manager's package cache"
 description: " "
 date: 2023-09-26
-tags: [flutter, cachemanagement]
+tags: [cachemanagement]
 comments: true
 share: true
 ---

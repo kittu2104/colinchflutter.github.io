@@ -3,7 +3,7 @@ layout: post
 title: "Adding a package to multiple Flutter projects with the package manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, packages]
+tags: [packages]
 comments: true
 share: true
 ---

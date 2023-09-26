@@ -3,7 +3,7 @@ layout: post
 title: "Publishing package documentation with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, documentation]
+tags: [documentation]
 comments: true
 share: true
 ---

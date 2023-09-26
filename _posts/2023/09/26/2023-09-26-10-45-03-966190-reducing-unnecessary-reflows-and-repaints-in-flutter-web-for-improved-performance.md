@@ -3,7 +3,7 @@ layout: post
 title: "Reducing unnecessary reflows and repaints in Flutter web for improved performance"
 description: " "
 date: 2023-09-26
-tags: [Flutter, WebPerformance]
+tags: [WebPerformance]
 comments: true
 share: true
 ---

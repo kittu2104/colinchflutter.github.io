@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a local package registry with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManager]
+tags: [PackageManager]
 comments: true
 share: true
 ---

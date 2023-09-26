@@ -3,7 +3,7 @@ layout: post
 title: "Contributing to open source packages in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, OpenSource]
+tags: [OpenSource]
 comments: true
 share: true
 ---

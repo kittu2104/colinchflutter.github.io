@@ -3,7 +3,7 @@ layout: post
 title: "Using local packages with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, LocalPackages]
+tags: [LocalPackages]
 comments: true
 share: true
 ---

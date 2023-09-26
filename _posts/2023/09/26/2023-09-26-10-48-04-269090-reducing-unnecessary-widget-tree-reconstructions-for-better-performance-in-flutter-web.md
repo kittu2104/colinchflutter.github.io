@@ -3,7 +3,7 @@ layout: post
 title: "Reducing unnecessary widget tree reconstructions for better performance in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

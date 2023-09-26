@@ -3,7 +3,7 @@ layout: post
 title: "Implementing client-side caching for improved performance in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, caching]
+tags: [caching]
 comments: true
 share: true
 ---

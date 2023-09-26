@@ -3,7 +3,7 @@ layout: post
 title: "Implementing efficient typography and text rendering in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, typography]
+tags: [typography]
 comments: true
 share: true
 ---

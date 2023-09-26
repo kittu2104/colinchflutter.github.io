@@ -3,7 +3,7 @@ layout: post
 title: "Using package aliases to manage package compatibility in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManagement]
+tags: [PackageManagement]
 comments: true
 share: true
 ---

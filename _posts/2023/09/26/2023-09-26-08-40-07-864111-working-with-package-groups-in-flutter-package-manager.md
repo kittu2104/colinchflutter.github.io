@@ -3,7 +3,7 @@ layout: post
 title: "Working with package groups in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, packagegroups]
+tags: [packagegroups]
 comments: true
 share: true
 ---

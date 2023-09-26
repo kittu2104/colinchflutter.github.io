@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance for progressive web apps (PWA) in Flutter"
 description: " "
 date: 2023-09-26
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

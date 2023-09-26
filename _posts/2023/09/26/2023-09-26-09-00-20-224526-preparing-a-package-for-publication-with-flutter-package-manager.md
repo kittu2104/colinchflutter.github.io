@@ -3,7 +3,7 @@ layout: post
 title: "Preparing a package for publication with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, packages]
+tags: [packages]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Setting up package version control with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [FlutterPackageManager), Flutter]
+tags: [FlutterPackageManager]
 comments: true
 share: true
 ---

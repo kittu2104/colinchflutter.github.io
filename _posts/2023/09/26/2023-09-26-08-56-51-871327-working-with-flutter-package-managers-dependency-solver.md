@@ -3,7 +3,7 @@ layout: post
 title: "Working with Flutter Package Manager's dependency solver"
 description: " "
 date: 2023-09-26
-tags: [Flutter, DependencySolving]
+tags: [DependencySolving]
 comments: true
 share: true
 ---

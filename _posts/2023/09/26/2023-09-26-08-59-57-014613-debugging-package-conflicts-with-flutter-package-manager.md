@@ -3,7 +3,7 @@ layout: post
 title: "Debugging package conflicts with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageConflicts]
+tags: [PackageConflicts]
 comments: true
 share: true
 ---

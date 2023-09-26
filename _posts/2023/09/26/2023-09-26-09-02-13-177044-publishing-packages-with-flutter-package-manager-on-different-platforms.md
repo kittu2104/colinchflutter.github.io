@@ -3,7 +3,7 @@ layout: post
 title: "Publishing packages with Flutter Package Manager on different platforms"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterpackages]
+tags: [flutterpackages]
 comments: true
 share: true
 ---

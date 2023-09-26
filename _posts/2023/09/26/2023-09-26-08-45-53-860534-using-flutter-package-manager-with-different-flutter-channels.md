@@ -3,7 +3,7 @@ layout: post
 title: "Using Flutter Package Manager with different Flutter channels"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Sharing a Flutter Package Manager project with others"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManagement]
+tags: [PackageManagement]
 comments: true
 share: true
 ---

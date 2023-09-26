@@ -3,7 +3,7 @@ layout: post
 title: "Implementing efficient navigation and routing in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Performance considerations for internationalization in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, internationalization]
+tags: [internationalization]
 comments: true
 share: true
 ---

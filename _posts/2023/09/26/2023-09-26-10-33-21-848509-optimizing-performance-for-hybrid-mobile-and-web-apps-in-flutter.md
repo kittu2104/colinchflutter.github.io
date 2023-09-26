@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance for hybrid mobile and web apps in Flutter"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PerformanceOptimization]
+tags: [PerformanceOptimization]
 comments: true
 share: true
 ---

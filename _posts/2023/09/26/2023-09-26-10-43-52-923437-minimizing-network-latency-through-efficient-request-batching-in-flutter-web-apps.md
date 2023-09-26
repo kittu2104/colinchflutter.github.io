@@ -3,7 +3,7 @@ layout: post
 title: "Minimizing network latency through efficient request batching in Flutter web apps"
 description: " "
 date: 2023-09-26
-tags: [flutter, networkLatency]
+tags: [networkLatency]
 comments: true
 share: true
 ---

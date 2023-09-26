@@ -3,7 +3,7 @@ layout: post
 title: "Implementing efficient rendering of dynamic charts and graphs in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, FlutterWeb]
+tags: [FlutterWeb]
 comments: true
 share: true
 ---

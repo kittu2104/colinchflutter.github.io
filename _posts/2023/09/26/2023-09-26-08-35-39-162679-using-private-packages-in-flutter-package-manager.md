@@ -3,7 +3,7 @@ layout: post
 title: "Using private packages in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, privaterepositories]
+tags: [privaterepositories]
 comments: true
 share: true
 ---

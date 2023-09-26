@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing packages with Flutter Package Manager's analyzer"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

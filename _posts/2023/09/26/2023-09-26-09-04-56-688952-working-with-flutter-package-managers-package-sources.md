@@ -3,7 +3,7 @@ layout: post
 title: "Working with Flutter Package Manager's package sources"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManager]
+tags: [PackageManager]
 comments: true
 share: true
 ---

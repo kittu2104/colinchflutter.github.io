@@ -3,7 +3,7 @@ layout: post
 title: "Working with packages imported through Git with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, GitPackages]
+tags: [GitPackages]
 comments: true
 share: true
 ---

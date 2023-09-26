@@ -3,7 +3,7 @@ layout: post
 title: "Setting up continuous integration with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, continuousintegration]
+tags: [continuousintegration]
 comments: true
 share: true
 ---

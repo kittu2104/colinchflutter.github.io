@@ -3,7 +3,7 @@ layout: post
 title: "Debugging package dependency loops with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, dependencyloops]
+tags: [dependencyloops]
 comments: true
 share: true
 ---

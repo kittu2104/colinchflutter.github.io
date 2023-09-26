@@ -3,7 +3,7 @@ layout: post
 title: "Minimizing browser memory leaks for better performance in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

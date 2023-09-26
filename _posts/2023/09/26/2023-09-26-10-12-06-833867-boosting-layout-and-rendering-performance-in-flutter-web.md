@@ -3,7 +3,7 @@ layout: post
 title: "Boosting layout and rendering performance in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

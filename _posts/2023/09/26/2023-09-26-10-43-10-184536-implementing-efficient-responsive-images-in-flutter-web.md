@@ -3,7 +3,7 @@ layout: post
 title: "Implementing efficient responsive images in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

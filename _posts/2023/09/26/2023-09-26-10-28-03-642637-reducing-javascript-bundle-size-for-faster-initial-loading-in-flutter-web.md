@@ -3,7 +3,7 @@ layout: post
 title: "Reducing JavaScript bundle size for faster initial loading in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, JavaScriptFileSize]
+tags: [JavaScriptFileSize]
 comments: true
 share: true
 ---

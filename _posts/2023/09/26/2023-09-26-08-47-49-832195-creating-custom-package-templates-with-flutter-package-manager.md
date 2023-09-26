@@ -3,7 +3,7 @@ layout: post
 title: "Creating custom package templates with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, FlutterPackageManager]
+tags: [FlutterPackageManager]
 comments: true
 share: true
 ---

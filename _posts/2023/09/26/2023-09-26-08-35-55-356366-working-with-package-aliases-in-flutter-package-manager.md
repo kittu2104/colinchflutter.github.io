@@ -3,7 +3,7 @@ layout: post
 title: "Working with package aliases in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, packagealiases]
+tags: [packagealiases]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Compiling packages with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, development]
+tags: [development]
 comments: true
 share: true
 ---

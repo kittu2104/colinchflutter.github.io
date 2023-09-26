@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing asset loading in Flutter web apps"
 description: " "
 date: 2023-09-26
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

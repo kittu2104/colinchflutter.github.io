@@ -3,7 +3,7 @@ layout: post
 title: "Analyzing package quality metrics with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, packageanalysis]
+tags: [packageanalysis]
 comments: true
 share: true
 ---

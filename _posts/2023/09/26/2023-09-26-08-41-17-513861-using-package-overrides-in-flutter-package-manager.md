@@ -3,7 +3,7 @@ layout: post
 title: "Using package overrides in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageOverrides]
+tags: [PackageOverrides]
 comments: true
 share: true
 ---

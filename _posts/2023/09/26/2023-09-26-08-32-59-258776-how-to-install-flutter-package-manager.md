@@ -3,7 +3,7 @@ layout: post
 title: "How to install Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

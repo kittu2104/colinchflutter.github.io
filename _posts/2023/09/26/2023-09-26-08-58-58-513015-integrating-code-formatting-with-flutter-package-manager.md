@@ -3,7 +3,7 @@ layout: post
 title: "Integrating code formatting with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, codeformatting]
+tags: [codeformatting]
 comments: true
 share: true
 ---

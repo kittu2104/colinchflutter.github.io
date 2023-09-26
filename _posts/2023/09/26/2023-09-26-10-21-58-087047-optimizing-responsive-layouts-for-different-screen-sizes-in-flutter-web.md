@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing responsive layouts for different screen sizes in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [Flutter, ResponsiveLayout]
+tags: [ResponsiveLayout]
 comments: true
 share: true
 ---

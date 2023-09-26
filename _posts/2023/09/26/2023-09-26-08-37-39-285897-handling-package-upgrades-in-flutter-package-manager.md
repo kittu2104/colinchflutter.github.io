@@ -3,7 +3,7 @@ layout: post
 title: "Handling package upgrades in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, packageupgrade]
+tags: [packageupgrade]
 comments: true
 share: true
 ---

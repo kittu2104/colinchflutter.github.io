@@ -3,7 +3,7 @@ layout: post
 title: "Integrating static code analysis with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, StaticCodeAnalysis]
+tags: [StaticCodeAnalysis]
 comments: true
 share: true
 ---

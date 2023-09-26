@@ -3,7 +3,7 @@ layout: post
 title: "Integrating code coverage analysis with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, codecoverage]
+tags: [codecoverage]
 comments: true
 share: true
 ---

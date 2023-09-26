@@ -3,7 +3,7 @@ layout: post
 title: "Reducing unnecessary network requests for improved performance in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, webperformance]
+tags: [webperformance]
 comments: true
 share: true
 ---

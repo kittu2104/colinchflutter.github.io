@@ -3,7 +3,7 @@ layout: post
 title: "Upgrading Flutter Package Manager to the latest version"
 description: " "
 date: 2023-09-26
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing network requests in Flutter web apps"
 description: " "
 date: 2023-09-26
-tags: [Flutter, WebDevelopment_]
+tags: [WebDevelopment_]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing efficient state management libraries in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [Flutter, FlutterWeb]
+tags: [FlutterWeb]
 comments: true
 share: true
 ---

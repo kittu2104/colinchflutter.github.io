@@ -3,7 +3,7 @@ layout: post
 title: "Reducing rendering jank and frame drops in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

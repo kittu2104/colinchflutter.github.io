@@ -3,7 +3,7 @@ layout: post
 title: "Setting up continuous delivery with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, continuousdelivery]
+tags: [continuousdelivery]
 comments: true
 share: true
 ---

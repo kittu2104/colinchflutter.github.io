@@ -3,7 +3,7 @@ layout: post
 title: "Running package-specific integration tests with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, integrationtesting]
+tags: [integrationtesting]
 comments: true
 share: true
 ---

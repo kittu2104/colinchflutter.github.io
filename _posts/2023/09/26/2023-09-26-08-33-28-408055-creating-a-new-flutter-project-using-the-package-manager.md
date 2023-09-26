@@ -3,7 +3,7 @@ layout: post
 title: "Creating a new Flutter project using the package manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterproject]
+tags: [flutterproject]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using dev dependencies in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, devdependencies]
+tags: [devdependencies]
 comments: true
 share: true
 ---

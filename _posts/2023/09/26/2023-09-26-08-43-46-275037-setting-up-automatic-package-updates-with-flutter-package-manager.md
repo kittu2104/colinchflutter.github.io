@@ -3,7 +3,7 @@ layout: post
 title: "Setting up automatic package updates with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, PackageManager]
+tags: [PackageManager]
 comments: true
 share: true
 ---

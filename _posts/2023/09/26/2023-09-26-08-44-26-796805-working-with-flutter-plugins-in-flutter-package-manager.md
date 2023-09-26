@@ -3,7 +3,7 @@ layout: post
 title: "Working with Flutter plugins in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterplugins]
+tags: [flutterplugins]
 comments: true
 share: true
 ---

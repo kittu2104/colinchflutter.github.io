@@ -3,7 +3,7 @@ layout: post
 title: "Running tests for packages in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, Testing]
+tags: [Testing]
 comments: true
 share: true
 ---

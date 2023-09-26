@@ -3,7 +3,7 @@ layout: post
 title: "Implementing efficient data serialization and deserialization in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, serialization]
+tags: [serialization]
 comments: true
 share: true
 ---

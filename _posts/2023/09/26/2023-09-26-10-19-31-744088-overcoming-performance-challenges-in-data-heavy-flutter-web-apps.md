@@ -3,7 +3,7 @@ layout: post
 title: "Overcoming performance challenges in data-heavy Flutter web apps"
 description: " "
 date: 2023-09-26
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

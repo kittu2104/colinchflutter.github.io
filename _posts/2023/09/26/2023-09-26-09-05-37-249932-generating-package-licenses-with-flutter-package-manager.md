@@ -3,7 +3,7 @@ layout: post
 title: "Generating package licenses with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, flutterpackage]
+tags: [flutterpackage]
 comments: true
 share: true
 ---

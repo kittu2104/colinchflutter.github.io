@@ -3,7 +3,7 @@ layout: post
 title: "Running package-specific unit tests with Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [flutter, unittests]
+tags: [unittests]
 comments: true
 share: true
 ---

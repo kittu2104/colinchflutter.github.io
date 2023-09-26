@@ -3,7 +3,7 @@ layout: post
 title: "Resolving transitive dependencies in Flutter Package Manager"
 description: " "
 date: 2023-09-26
-tags: [Flutter, DependencyManagement]
+tags: [DependencyManagement]
 comments: true
 share: true
 ---

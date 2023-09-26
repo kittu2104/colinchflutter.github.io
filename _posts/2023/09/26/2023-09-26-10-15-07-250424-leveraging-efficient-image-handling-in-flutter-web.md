@@ -3,7 +3,7 @@ layout: post
 title: "Leveraging efficient image handling in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [Flutter, WebDevelopment]
+tags: [WebDevelopment]
 comments: true
 share: true
 ---

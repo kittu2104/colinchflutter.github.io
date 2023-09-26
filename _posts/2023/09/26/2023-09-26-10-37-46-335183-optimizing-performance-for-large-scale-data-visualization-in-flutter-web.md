@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing performance for large-scale data visualization in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

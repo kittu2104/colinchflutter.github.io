@@ -3,7 +3,7 @@ layout: post
 title: "Harnessing the power of WebAssembly for improved performance in Flutter web"
 description: " "
 date: 2023-09-26
-tags: [WebAssembly, Flutter]
+tags: [WebAssembly]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Publishing packages with Flutter Package Manager to different registries"
 description: " "
 date: 2023-09-26
-tags: [Conclusion, flutter]
+tags: [Conclusion]
 comments: true
 share: true
 ---
