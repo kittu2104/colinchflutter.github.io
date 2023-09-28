@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side email services in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, server]
+tags: [server]
 comments: true
 share: true
 ---

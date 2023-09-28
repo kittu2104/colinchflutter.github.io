@@ -3,7 +3,7 @@ layout: post
 title: "Implementing charts and graphs in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, charts, graphs]
+tags: [charts, graphs]
 comments: true
 share: true
 ---

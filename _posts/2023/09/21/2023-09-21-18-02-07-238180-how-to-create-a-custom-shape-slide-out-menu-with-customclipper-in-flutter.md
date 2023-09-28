@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape slide out menu with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, SlideOutMenu]
+tags: [SlideOutMenu]
 comments: true
 share: true
 ---

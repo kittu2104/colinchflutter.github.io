@@ -3,7 +3,7 @@ layout: post
 title: "Animations and transitions in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Animations, Transitions]
+tags: [Animations, Transitions]
 comments: true
 share: true
 ---

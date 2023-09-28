@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio playback and recording in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, WebAssembly]
+tags: [WebAssembly]
 comments: true
 share: true
 ---

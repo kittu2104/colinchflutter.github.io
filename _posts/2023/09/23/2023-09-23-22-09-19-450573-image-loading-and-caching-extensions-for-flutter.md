@@ -3,7 +3,7 @@ layout: post
 title: "Image loading and caching extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ImageLoadingExtensions]
+tags: [ImageLoadingExtensions]
 comments: true
 share: true
 ---

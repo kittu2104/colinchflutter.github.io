@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for barcode scanning in Flutter"
 description: " "
 date: 2023-09-15
-tags: [barcode, Flutter]
+tags: [barcode]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Installing the sqflite package in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

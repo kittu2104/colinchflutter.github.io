@@ -3,7 +3,7 @@ layout: post
 title: "Migrating data from one table to another in Flutter migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, fluttermigrations]
+tags: [fluttermigrations]
 comments: true
 share: true
 ---

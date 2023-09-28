@@ -3,7 +3,7 @@ layout: post
 title: "Audio and video playback extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, AudioVideoPlaybackExtensions]
+tags: [AudioVideoPlaybackExtensions]
 comments: true
 share: true
 ---

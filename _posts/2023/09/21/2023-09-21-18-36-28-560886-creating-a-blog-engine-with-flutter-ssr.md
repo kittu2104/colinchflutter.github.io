@@ -3,7 +3,7 @@ layout: post
 title: "Creating a blog engine with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, blogengine]
+tags: [blogengine]
 comments: true
 share: true
 ---

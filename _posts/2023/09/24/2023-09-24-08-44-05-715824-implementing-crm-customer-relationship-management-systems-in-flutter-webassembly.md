@@ -3,7 +3,7 @@ layout: post
 title: "Implementing CRM (Customer Relationship Management) systems in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webassembly]
+tags: [webassembly]
 comments: true
 share: true
 ---

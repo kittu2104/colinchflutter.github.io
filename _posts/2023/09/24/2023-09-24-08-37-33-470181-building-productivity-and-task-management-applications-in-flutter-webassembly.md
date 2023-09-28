@@ -3,7 +3,7 @@ layout: post
 title: "Building productivity and task management applications in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webassembly]
+tags: [webassembly]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Responsive layout and device adaptation extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveLayout, DeviceAdaptation]
+tags: [ResponsiveLayout, DeviceAdaptation]
 comments: true
 share: true
 ---

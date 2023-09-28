@@ -3,7 +3,7 @@ layout: post
 title: "QR code scanning and decoding extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [FF0000, flutter, qrcodescanning, flutterdevelopment]
+tags: [FF0000, qrcodescanning, flutterdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing gamification techniques with Flutter's gaming widgets"
 description: " "
 date: 2023-09-14
-tags: [gamification, flutter]
+tags: [gamification]
 comments: true
 share: true
 ---

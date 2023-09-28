@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side search functionality in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, server_side_search, FlutterSSR, search]
+tags: [server_side_search, FlutterSSR, search]
 comments: true
 share: true
 ---

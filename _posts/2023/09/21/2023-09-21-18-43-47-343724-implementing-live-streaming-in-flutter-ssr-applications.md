@@ -3,7 +3,7 @@ layout: post
 title: "Implementing live streaming in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, livestreaming]
+tags: [livestreaming]
 comments: true
 share: true
 ---

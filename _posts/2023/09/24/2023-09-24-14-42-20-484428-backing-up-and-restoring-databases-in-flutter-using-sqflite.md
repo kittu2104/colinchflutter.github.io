@@ -3,7 +3,7 @@ layout: post
 title: "Backing up and restoring databases in Flutter using sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, database, backup, restore]
+tags: [sqflite, database, backup, restore]
 comments: true
 share: true
 ---

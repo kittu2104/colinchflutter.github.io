@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data versioning and fallback strategies in Flutter migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, dataVersioning]
+tags: [dataVersioning]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Emoji picker and Emoji keyboard extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, emoji]
+tags: [emoji]
 comments: true
 share: true
 ---

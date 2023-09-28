@@ -3,7 +3,7 @@ layout: post
 title: "State restoration techniques for real-time handwriting recognition in Flutter"
 description: " "
 date: 2023-09-15
-tags: [handwritingrecognition, Flutter]
+tags: [handwritingrecognition]
 comments: true
 share: true
 ---

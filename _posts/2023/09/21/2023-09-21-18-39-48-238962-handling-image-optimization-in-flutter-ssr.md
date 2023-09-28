@@ -3,7 +3,7 @@ layout: post
 title: "Handling image optimization in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, optimization]
+tags: [optimization]
 comments: true
 share: true
 ---

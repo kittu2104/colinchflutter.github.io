@@ -3,7 +3,7 @@ layout: post
 title: "Responding to changes in device orientation using `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsive]
+tags: [responsive]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing infinite scrolling in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, InfiniteScrolling]
+tags: [InfiniteScrolling]
 comments: true
 share: true
 ---

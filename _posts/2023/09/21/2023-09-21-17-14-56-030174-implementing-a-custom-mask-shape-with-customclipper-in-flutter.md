@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom mask shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshapes]
+tags: [customshapes]
 comments: true
 share: true
 ---

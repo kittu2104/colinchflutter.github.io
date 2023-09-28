@@ -3,7 +3,7 @@ layout: post
 title: "Augmented reality (AR) extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

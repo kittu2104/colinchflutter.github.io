@@ -3,7 +3,7 @@ layout: post
 title: "QR code scanning and decoding extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, QRCode]
+tags: [QRCode]
 comments: true
 share: true
 ---

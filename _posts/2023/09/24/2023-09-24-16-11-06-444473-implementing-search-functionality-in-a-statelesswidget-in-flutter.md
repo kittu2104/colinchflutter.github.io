@@ -3,7 +3,7 @@ layout: post
 title: "Implementing search functionality in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, searchfunctionality]
+tags: [searchfunctionality]
 comments: true
 share: true
 ---

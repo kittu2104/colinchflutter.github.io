@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom mask with CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, CustomPainter]
+tags: [CustomPainter]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Speech synthesis with custom voices and styles extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, speechsynthesis, customvoices, customstyles]
+tags: [speechsynthesis, customvoices, customstyles]
 comments: true
 share: true
 ---

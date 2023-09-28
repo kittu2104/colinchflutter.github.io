@@ -3,7 +3,7 @@ layout: post
 title: "Bluetooth beacon scanning and proximity detection extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, flutterdev, bluetooth, beacon, proximity]
+tags: [flutterdev, bluetooth, beacon, proximity]
 comments: true
 share: true
 ---

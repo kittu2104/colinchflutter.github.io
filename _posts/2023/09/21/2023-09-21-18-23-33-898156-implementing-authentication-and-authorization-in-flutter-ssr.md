@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication and authorization in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Authentication, Authorization]
+tags: [Authentication, Authorization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom fonts in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, CustomFonts]
+tags: [CustomFonts]
 comments: true
 share: true
 ---

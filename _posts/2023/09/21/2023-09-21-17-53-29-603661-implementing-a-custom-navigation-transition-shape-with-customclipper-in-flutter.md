@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom navigation transition shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, animation]
+tags: [animation]
 comments: true
 share: true
 ---

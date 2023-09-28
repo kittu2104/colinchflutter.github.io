@@ -3,7 +3,7 @@ layout: post
 title: "What is sqflite in Flutter?"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

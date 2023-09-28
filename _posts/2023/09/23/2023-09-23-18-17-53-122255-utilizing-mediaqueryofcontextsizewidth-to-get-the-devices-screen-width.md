@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing `MediaQuery.of(context).size.width` to get the device's screen width"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ScreenWidth]
+tags: [ScreenWidth]
 comments: true
 share: true
 ---

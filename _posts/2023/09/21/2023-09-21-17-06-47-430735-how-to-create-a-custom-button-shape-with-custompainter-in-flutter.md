@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom button shape with CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomButton, CustomPainter]
+tags: [CustomButton, CustomPainter]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Database handling extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, database]
+tags: [database]
 comments: true
 share: true
 ---

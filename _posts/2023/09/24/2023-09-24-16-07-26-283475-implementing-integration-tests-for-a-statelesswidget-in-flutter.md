@@ -3,7 +3,7 @@ layout: post
 title: "Implementing integration tests for a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, IntegrationTesting]
+tags: [IntegrationTesting]
 comments: true
 share: true
 ---

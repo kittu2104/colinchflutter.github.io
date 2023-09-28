@@ -3,7 +3,7 @@ layout: post
 title: "Working with forms and user inputs in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, forms]
+tags: [forms]
 comments: true
 share: true
 ---

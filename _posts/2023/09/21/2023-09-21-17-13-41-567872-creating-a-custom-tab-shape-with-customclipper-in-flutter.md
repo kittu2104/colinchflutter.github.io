@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom tab shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomTabShape]
+tags: [CustomTabShape]
 comments: true
 share: true
 ---

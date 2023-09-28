@@ -3,7 +3,7 @@ layout: post
 title: "How to animate a clipped widget with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Animations]
+tags: [Animations]
 comments: true
 share: true
 ---

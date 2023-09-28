@@ -3,7 +3,7 @@ layout: post
 title: "Implementing carousels in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, carousel, widget]
+tags: [carousel, widget]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom countdown timer shape in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, CountdownTimer]
+tags: [CustomClipper, CountdownTimer]
 comments: true
 share: true
 ---

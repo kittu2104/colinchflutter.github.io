@@ -3,7 +3,7 @@ layout: post
 title: "Barcode tracking and inventory management extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [ff6666, flutter, barcode, inventorymanagement, flutterdevelopment]
+tags: [ff6666, barcode, inventorymanagement, flutterdevelopment]
 comments: true
 share: true
 ---

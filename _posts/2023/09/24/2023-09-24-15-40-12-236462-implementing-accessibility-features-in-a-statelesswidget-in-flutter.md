@@ -3,7 +3,7 @@ layout: post
 title: "Implementing accessibility features in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Accessibility]
+tags: [Accessibility]
 comments: true
 share: true
 ---

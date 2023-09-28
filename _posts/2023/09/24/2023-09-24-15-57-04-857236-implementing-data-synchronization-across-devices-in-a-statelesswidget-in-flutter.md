@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data synchronization across devices in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, dataSync]
+tags: [dataSync]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Deploying Flutter WebAssembly on various web hosting platforms"
 description: " "
 date: 2023-09-24
-tags: [flutter, webassembly]
+tags: [webassembly]
 comments: true
 share: true
 ---

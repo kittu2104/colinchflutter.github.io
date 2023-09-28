@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image and video uploading in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, ImageUpload, VideoUpload]
+tags: [ImageUpload, VideoUpload]
 comments: true
 share: true
 ---

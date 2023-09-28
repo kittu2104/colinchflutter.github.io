@@ -3,7 +3,7 @@ layout: post
 title: "Styling a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, UIStyling]
+tags: [UIStyling]
 comments: true
 share: true
 ---

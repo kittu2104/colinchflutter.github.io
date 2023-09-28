@@ -3,7 +3,7 @@ layout: post
 title: "Handling errors in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, errorhandling]
+tags: [errorhandling]
 comments: true
 share: true
 ---

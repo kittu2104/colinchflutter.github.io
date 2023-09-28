@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive barcode scanning using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, barcodescanning]
+tags: [barcodescanning]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using Bezier curves with CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, beziercurves]
+tags: [beziercurves]
 comments: true
 share: true
 ---

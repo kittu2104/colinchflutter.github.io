@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape radar chart using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, radarchart]
+tags: [radarchart]
 comments: true
 share: true
 ---

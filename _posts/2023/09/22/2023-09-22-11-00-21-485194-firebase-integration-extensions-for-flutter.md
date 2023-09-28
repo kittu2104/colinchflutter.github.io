@@ -3,7 +3,7 @@ layout: post
 title: "Firebase integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, FirebaseIntegration]
+tags: [FirebaseIntegration]
 comments: true
 share: true
 ---

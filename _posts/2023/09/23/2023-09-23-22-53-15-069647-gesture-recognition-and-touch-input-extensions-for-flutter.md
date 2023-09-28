@@ -3,7 +3,7 @@ layout: post
 title: "Gesture recognition and touch input extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, gesture_recognition, touch_input]
+tags: [gesture_recognition, touch_input]
 comments: true
 share: true
 ---

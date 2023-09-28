@@ -3,7 +3,7 @@ layout: post
 title: "Step-by-step guide to implementing CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, custompainter]
+tags: [custompainter]
 comments: true
 share: true
 ---

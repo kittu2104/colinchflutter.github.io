@@ -3,7 +3,7 @@ layout: post
 title: "Navigating between screens in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, navigations]
+tags: [navigations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom bottom navigation shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, BottomNavigation]
+tags: [CustomClipper, BottomNavigation]
 comments: true
 share: true
 ---

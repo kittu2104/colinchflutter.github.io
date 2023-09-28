@@ -3,7 +3,7 @@ layout: post
 title: "Handling state restoration with adaptive user interfaces in Flutter apps"
 description: " "
 date: 2023-09-15
-tags: [developer, flutter, state, appdevelopment]
+tags: [developer, state, appdevelopment]
 comments: true
 share: true
 ---

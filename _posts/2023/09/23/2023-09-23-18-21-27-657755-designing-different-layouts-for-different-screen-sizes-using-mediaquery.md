@@ -3,7 +3,7 @@ layout: post
 title: "Designing different layouts for different screen sizes using `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [Flutter, Responsivedesign]
+tags: [Responsivedesign]
 comments: true
 share: true
 ---

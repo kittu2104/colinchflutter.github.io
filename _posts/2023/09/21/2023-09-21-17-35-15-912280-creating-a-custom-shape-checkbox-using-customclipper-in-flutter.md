@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape checkbox using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterdev, customcheckbox, customshape]
+tags: [flutterdev, customcheckbox, customshape]
 comments: true
 share: true
 ---

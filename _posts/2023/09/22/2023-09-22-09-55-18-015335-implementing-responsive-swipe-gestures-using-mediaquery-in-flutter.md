@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive swipe gestures using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, responsiveUI]
+tags: [responsiveUI]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing barcode scanning in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [barcodeImage, barcodeImage, flutter, barcode]
+tags: [barcodeImage, barcodeImage, barcode]
 comments: true
 share: true
 ---

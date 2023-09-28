@@ -3,7 +3,7 @@ layout: post
 title: "Writing SQL queries for database migrations in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, database, migrations]
+tags: [database, migrations]
 comments: true
 share: true
 ---

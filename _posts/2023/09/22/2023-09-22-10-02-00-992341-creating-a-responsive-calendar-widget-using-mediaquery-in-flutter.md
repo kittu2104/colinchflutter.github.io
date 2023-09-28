@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive calendar widget using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, ResponsiveCalendar]
+tags: [ResponsiveCalendar]
 comments: true
 share: true
 ---

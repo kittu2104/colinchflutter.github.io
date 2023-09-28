@@ -3,7 +3,7 @@ layout: post
 title: "Continuous integration and deployment extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, cicdextensions, flutterdevelopment]
+tags: [cicdextensions, flutterdevelopment]
 comments: true
 share: true
 ---

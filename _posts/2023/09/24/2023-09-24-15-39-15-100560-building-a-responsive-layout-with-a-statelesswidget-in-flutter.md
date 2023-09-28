@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive layout with a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, responsivelayout]
+tags: [responsivelayout]
 comments: true
 share: true
 ---

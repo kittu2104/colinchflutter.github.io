@@ -3,7 +3,7 @@ layout: post
 title: "When to use StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, StatelessWidget]
+tags: [StatelessWidget]
 comments: true
 share: true
 ---

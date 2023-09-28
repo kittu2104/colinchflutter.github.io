@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive music player using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, fluttertutorial]
+tags: [fluttertutorial]
 comments: true
 share: true
 ---

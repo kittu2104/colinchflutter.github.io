@@ -3,7 +3,7 @@ layout: post
 title: "Handling data integrity checks in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Database, DataIntegrity]
+tags: [Database, DataIntegrity]
 comments: true
 share: true
 ---

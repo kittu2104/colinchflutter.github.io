@@ -3,7 +3,7 @@ layout: post
 title: "Setting up Flutter WebAssembly development environment"
 description: " "
 date: 2023-09-24
-tags: [Flutter, WebAssembly]
+tags: [WebAssembly]
 comments: true
 share: true
 ---

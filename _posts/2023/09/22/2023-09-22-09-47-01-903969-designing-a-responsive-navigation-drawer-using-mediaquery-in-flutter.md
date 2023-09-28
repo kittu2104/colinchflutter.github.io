@@ -3,7 +3,7 @@ layout: post
 title: "Designing a responsive navigation drawer using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, ResponsiveUI]
+tags: [ResponsiveUI]
 comments: true
 share: true
 ---

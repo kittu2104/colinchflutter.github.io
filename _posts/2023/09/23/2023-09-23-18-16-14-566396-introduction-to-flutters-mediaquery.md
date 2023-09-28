@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Flutter's `MediaQuery`"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveUI]
+tags: [ResponsiveUI]
 comments: true
 share: true
 ---

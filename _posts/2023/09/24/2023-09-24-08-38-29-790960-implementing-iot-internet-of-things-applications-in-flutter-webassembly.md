@@ -3,7 +3,7 @@ layout: post
 title: "Implementing IoT (Internet of Things) applications in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

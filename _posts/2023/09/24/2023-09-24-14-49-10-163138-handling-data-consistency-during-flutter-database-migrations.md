@@ -3,7 +3,7 @@ layout: post
 title: "Handling data consistency during Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigration, Flutter, DatabaseMigration]
+tags: [DatabaseMigration, DatabaseMigration]
 comments: true
 share: true
 ---

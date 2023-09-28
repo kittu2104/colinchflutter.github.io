@@ -3,7 +3,7 @@ layout: post
 title: "Implementing social media sharing in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, socialmedia]
+tags: [socialmedia]
 comments: true
 share: true
 ---

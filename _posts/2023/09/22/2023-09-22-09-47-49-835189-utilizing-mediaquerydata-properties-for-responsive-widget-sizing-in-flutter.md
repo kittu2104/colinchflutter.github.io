@@ -3,7 +3,7 @@ layout: post
 title: "Utilizing `MediaQueryData` properties for responsive widget sizing in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

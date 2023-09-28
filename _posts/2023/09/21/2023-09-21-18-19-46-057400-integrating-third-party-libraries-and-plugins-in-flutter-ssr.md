@@ -3,7 +3,7 @@ layout: post
 title: "Integrating third-party libraries and plugins in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterssr]
+tags: [flutterssr]
 comments: true
 share: true
 ---

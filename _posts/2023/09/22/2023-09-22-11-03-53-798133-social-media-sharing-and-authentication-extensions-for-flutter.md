@@ -3,7 +3,7 @@ layout: post
 title: "Social media sharing and authentication extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, extensions]
+tags: [extensions]
 comments: true
 share: true
 ---

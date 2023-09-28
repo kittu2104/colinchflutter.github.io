@@ -3,7 +3,7 @@ layout: post
 title: "Testing and debugging Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, testing, debugging]
+tags: [testing, debugging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Remote configuration and feature flags extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, remoteproject]
+tags: [remoteproject]
 comments: true
 share: true
 ---

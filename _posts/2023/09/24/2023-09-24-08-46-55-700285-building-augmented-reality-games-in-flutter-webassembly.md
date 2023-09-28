@@ -3,7 +3,7 @@ layout: post
 title: "Building augmented reality games in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

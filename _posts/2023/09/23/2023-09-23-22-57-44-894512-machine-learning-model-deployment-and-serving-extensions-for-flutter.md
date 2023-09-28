@@ -3,7 +3,7 @@ layout: post
 title: "Machine learning model deployment and serving extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

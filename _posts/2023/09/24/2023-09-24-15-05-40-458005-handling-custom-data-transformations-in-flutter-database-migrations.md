@@ -3,7 +3,7 @@ layout: post
 title: "Handling custom data transformations in Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, databasemigrations]
+tags: [databasemigrations]
 comments: true
 share: true
 ---

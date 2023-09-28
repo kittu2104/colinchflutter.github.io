@@ -3,7 +3,7 @@ layout: post
 title: "Handling user-generated content moderation in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, contentmoderation]
+tags: [contentmoderation]
 comments: true
 share: true
 ---

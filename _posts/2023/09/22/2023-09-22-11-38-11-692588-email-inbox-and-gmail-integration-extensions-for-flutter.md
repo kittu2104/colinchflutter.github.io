@@ -3,7 +3,7 @@ layout: post
 title: "Email inbox and Gmail integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, emailintegration]
+tags: [emailintegration]
 comments: true
 share: true
 ---

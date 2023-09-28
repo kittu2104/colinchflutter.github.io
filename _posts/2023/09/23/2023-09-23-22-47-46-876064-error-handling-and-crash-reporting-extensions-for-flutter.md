@@ -3,7 +3,7 @@ layout: post
 title: "Error handling and crash reporting extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ErrorHandling, CrashReporting]
+tags: [ErrorHandling, CrashReporting]
 comments: true
 share: true
 ---

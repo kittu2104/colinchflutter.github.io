@@ -3,7 +3,7 @@ layout: post
 title: "Rolling back database migrations in Flutter using sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, database, migrations, sqflite]
+tags: [database, migrations, sqflite]
 comments: true
 share: true
 ---

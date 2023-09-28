@@ -3,7 +3,7 @@ layout: post
 title: "Barcode counterfeiting prevention extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [000000, Flutter]
+tags: [000000]
 comments: true
 share: true
 ---

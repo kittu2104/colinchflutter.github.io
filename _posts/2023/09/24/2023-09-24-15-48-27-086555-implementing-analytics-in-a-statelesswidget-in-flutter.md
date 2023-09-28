@@ -3,7 +3,7 @@ layout: post
 title: "Implementing analytics in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, analytics]
+tags: [analytics]
 comments: true
 share: true
 ---

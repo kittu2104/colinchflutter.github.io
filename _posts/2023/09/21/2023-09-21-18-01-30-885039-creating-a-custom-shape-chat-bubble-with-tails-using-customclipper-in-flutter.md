@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape chat bubble with tails using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper]
+tags: [CustomClipper]
 comments: true
 share: true
 ---

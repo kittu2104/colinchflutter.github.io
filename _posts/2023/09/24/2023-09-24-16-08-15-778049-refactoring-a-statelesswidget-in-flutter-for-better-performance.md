@@ -3,7 +3,7 @@ layout: post
 title: "Refactoring a StatelessWidget in Flutter for better performance"
 description: " "
 date: 2023-09-24
-tags: [flutter, performance]
+tags: [performance]
 comments: true
 share: true
 ---

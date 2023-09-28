@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a custom gauge using CustomPainter in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customgauge]
+tags: [customgauge]
 comments: true
 share: true
 ---

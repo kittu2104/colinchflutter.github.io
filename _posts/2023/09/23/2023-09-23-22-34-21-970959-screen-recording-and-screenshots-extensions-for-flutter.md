@@ -3,7 +3,7 @@ layout: post
 title: "Screen recording and screenshots extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, flutterextensions]
+tags: [flutterextensions]
 comments: true
 share: true
 ---

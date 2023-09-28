@@ -3,7 +3,7 @@ layout: post
 title: "Implementing file uploads and downloads in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterSSR]
+tags: [flutterSSR]
 comments: true
 share: true
 ---

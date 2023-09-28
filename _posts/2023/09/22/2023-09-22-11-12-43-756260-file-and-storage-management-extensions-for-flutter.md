@@ -3,7 +3,7 @@ layout: post
 title: "File and storage management extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, FileManagement]
+tags: [FileManagement]
 comments: true
 share: true
 ---

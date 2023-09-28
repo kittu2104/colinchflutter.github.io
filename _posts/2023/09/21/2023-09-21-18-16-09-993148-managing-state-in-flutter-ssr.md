@@ -3,7 +3,7 @@ layout: post
 title: "Managing state in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, state]
+tags: [state]
 comments: true
 share: true
 ---

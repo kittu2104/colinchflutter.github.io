@@ -3,7 +3,7 @@ layout: post
 title: "Chatbot-powered customer support and helpdesk extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, chatbots, customersupport, helpdesk]
+tags: [chatbots, customersupport, helpdesk]
 comments: true
 share: true
 ---

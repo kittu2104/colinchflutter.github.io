@@ -3,7 +3,7 @@ layout: post
 title: "Time and date manipulation extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, datetime]
+tags: [datetime]
 comments: true
 share: true
 ---

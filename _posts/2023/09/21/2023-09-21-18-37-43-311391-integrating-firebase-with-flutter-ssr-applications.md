@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Firebase with Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Firebase, ServerSideRendering]
+tags: [Firebase, ServerSideRendering]
 comments: true
 share: true
 ---

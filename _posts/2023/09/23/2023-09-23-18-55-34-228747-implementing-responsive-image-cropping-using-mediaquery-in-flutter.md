@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive image cropping using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsiveimagecropping]
+tags: [responsiveimagecropping]
 comments: true
 share: true
 ---

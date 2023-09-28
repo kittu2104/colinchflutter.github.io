@@ -3,7 +3,7 @@ layout: post
 title: "Handling concurrent updates and conflicts in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, database, migrations, concurrency]
+tags: [sqflite, database, migrations, concurrency]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio playback in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, AudioPlayback]
+tags: [AudioPlayback]
 comments: true
 share: true
 ---

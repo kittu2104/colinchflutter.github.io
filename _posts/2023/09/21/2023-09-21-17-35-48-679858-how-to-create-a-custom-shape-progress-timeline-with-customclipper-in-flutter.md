@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape progress timeline with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshape, progress, timeline, dart]
+tags: [customshape, progress, timeline, dart]
 comments: true
 share: true
 ---

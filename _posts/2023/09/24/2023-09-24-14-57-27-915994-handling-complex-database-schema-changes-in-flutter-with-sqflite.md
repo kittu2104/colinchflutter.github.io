@@ -3,7 +3,7 @@ layout: post
 title: "Handling complex database schema changes in Flutter with sqflite"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseSchema, Sqflite]
+tags: [DatabaseSchema, Sqflite]
 comments: true
 share: true
 ---

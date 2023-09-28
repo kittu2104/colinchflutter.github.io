@@ -3,7 +3,7 @@ layout: post
 title: "Multilingual speech recognition and translation extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, speechrecognition, translation]
+tags: [speechrecognition, translation]
 comments: true
 share: true
 ---

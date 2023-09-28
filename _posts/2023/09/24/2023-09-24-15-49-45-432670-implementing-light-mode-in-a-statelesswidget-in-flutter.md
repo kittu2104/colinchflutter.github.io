@@ -3,7 +3,7 @@ layout: post
 title: "Implementing light mode in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, lightmode]
+tags: [lightmode]
 comments: true
 share: true
 ---

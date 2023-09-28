@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive audio playback using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, AudioPlayback]
+tags: [AudioPlayback]
 comments: true
 share: true
 ---

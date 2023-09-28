@@ -3,7 +3,7 @@ layout: post
 title: "Natural language processing and sentiment analysis extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, sentimentanalysis]
+tags: [sentimentanalysis]
 comments: true
 share: true
 ---

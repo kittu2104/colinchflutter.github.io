@@ -3,7 +3,7 @@ layout: post
 title: "Resolving conflicts in column name changes during sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite]
+tags: [sqflite]
 comments: true
 share: true
 ---

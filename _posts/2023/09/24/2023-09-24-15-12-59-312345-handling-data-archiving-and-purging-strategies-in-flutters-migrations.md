@@ -3,7 +3,7 @@ layout: post
 title: "Handling data archiving and purging strategies in Flutter's migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, migrations]
+tags: [migrations]
 comments: true
 share: true
 ---

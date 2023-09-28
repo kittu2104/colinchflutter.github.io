@@ -3,7 +3,7 @@ layout: post
 title: "GraphQL integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [GraphQL, Flutter]
+tags: [GraphQL]
 comments: true
 share: true
 ---

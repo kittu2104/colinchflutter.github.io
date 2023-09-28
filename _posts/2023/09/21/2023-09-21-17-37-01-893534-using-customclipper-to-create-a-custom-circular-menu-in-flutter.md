@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom circular menu in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, fluttertutorial]
+tags: [fluttertutorial]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Resolving data conflicts during Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Database, Migration]
+tags: [Database, Migration]
 comments: true
 share: true
 ---

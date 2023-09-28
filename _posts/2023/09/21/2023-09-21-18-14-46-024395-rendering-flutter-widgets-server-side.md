@@ -3,7 +3,7 @@ layout: post
 title: "Rendering Flutter widgets server-side"
 description: " "
 date: 2023-09-21
-tags: [Flutter, ServerSideRendering]
+tags: [ServerSideRendering]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using custom SQL queries in sqflite migrations in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Sqflite, Migrations]
+tags: [Sqflite, Migrations]
 comments: true
 share: true
 ---

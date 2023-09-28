@@ -3,7 +3,7 @@ layout: post
 title: "Scalability considerations in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, scalability]
+tags: [scalability]
 comments: true
 share: true
 ---

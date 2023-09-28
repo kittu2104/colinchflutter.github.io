@@ -3,7 +3,7 @@ layout: post
 title: "Handling data anonymization and encryption in Flutter database migrations"
 description: " "
 date: 2023-09-24
-tags: [tech, flutter, datasecurity, anonymization, encryption]
+tags: [tech, datasecurity, anonymization, encryption]
 comments: true
 share: true
 ---

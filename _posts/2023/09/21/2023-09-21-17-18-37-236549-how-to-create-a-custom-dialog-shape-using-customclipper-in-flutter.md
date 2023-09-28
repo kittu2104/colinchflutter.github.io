@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom dialog shape using CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, DialogShape]
+tags: [CustomClipper, DialogShape]
 comments: true
 share: true
 ---

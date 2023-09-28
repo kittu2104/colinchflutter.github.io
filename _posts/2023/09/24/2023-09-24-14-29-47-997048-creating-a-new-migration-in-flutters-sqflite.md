@@ -3,7 +3,7 @@ layout: post
 title: "Creating a new migration in Flutter's sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, database, sqflite, migration]
+tags: [database, sqflite, migration]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing form validation in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, FormValidation]
+tags: [FormValidation]
 comments: true
 share: true
 ---

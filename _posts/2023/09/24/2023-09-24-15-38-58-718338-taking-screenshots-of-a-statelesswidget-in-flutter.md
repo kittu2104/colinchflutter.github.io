@@ -3,7 +3,7 @@ layout: post
 title: "Taking screenshots of a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Screenshot]
+tags: [Screenshot]
 comments: true
 share: true
 ---

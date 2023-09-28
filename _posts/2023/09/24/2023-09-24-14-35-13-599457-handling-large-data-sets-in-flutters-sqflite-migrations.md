@@ -3,7 +3,7 @@ layout: post
 title: "Handling large data sets in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Database, Migrations]
+tags: [Database, Migrations]
 comments: true
 share: true
 ---

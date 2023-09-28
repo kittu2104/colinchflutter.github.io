@@ -3,7 +3,7 @@ layout: post
 title: "Implementing user authentication with OAuth in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, oauth, authentication]
+tags: [oauth, authentication]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomPainter to draw charts and graphs in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, CustomPainter, charts, graphs]
+tags: [CustomPainter, charts, graphs]
 comments: true
 share: true
 ---

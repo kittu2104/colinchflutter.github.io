@@ -3,7 +3,7 @@ layout: post
 title: "Implementing right-to-left (RTL) support in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, RTLsupport]
+tags: [RTLsupport]
 comments: true
 share: true
 ---

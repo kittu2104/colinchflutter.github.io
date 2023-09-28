@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive app bar using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveUI]
+tags: [ResponsiveUI]
 comments: true
 share: true
 ---

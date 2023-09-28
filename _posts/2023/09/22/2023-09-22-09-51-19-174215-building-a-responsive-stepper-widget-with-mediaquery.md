@@ -3,7 +3,7 @@ layout: post
 title: "Building a responsive stepper widget with `MediaQuery`"
 description: " "
 date: 2023-09-22
-tags: [flutter, responsiveUI]
+tags: [responsiveUI]
 comments: true
 share: true
 ---

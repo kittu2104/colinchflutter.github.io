@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing data manipulation operations in sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, databaseoptimization]
+tags: [databaseoptimization]
 comments: true
 share: true
 ---

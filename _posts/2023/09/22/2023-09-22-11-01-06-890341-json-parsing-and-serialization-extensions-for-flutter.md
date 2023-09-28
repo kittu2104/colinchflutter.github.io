@@ -3,7 +3,7 @@ layout: post
 title: "JSON parsing and serialization extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, json]
+tags: [json]
 comments: true
 share: true
 ---

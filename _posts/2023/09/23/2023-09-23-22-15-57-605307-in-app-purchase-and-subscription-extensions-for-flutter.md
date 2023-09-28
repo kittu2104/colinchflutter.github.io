@@ -3,7 +3,7 @@ layout: post
 title: "In-app purchase and subscription extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, inapppurchase, subscriptions]
+tags: [inapppurchase, subscriptions]
 comments: true
 share: true
 ---

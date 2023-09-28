@@ -3,7 +3,7 @@ layout: post
 title: "Deploying a Flutter SSR application"
 description: " "
 date: 2023-09-21
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

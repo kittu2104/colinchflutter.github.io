@@ -3,7 +3,7 @@ layout: post
 title: "Code obfuscation and security enhancements extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, appsecurity]
+tags: [appsecurity]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing distributed transaction management in Flutter's migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, distributedtransactionmanagement]
+tags: [distributedtransactionmanagement]
 comments: true
 share: true
 ---

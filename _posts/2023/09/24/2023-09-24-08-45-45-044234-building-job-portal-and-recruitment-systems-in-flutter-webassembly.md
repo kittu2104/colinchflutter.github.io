@@ -3,7 +3,7 @@ layout: post
 title: "Building job portal and recruitment systems in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, jobportal, jobrecruitment, webdevelopment]
+tags: [jobportal, jobrecruitment, webdevelopment]
 comments: true
 share: true
 ---

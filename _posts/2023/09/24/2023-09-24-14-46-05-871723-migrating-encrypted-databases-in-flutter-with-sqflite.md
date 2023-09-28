@@ -3,7 +3,7 @@ layout: post
 title: "Migrating encrypted databases in Flutter with sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, databases, dataencryption]
+tags: [databases, dataencryption]
 comments: true
 share: true
 ---

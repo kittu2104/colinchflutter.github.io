@@ -3,7 +3,7 @@ layout: post
 title: "Integrating payment gateways in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, payments]
+tags: [payments]
 comments: true
 share: true
 ---

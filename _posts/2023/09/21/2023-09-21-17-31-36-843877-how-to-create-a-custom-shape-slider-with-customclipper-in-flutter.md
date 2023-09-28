@@ -3,7 +3,7 @@ layout: post
 title: "How to create a custom shape slider with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, customshapeslider]
+tags: [customshapeslider]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Image recognition and object detection extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, imageRecognition]
+tags: [imageRecognition]
 comments: true
 share: true
 ---

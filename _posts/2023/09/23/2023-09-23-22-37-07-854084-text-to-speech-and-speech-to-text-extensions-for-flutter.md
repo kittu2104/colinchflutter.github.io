@@ -3,7 +3,7 @@ layout: post
 title: "Text-to-speech and speech-to-text extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, TextToSpeech, SpeechToText]
+tags: [TextToSpeech, SpeechToText]
 comments: true
 share: true
 ---

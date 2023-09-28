@@ -3,7 +3,7 @@ layout: post
 title: "Emoji and Unicode support extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, emoji, Unicode]
+tags: [emoji, Unicode]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Integrating Firebase in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Firebase]
+tags: [Firebase]
 comments: true
 share: true
 ---

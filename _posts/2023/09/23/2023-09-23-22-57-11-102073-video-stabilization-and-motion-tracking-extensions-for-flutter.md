@@ -3,7 +3,7 @@ layout: post
 title: "Video stabilization and motion tracking extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, videostabilization, motiontracking]
+tags: [videostabilization, motiontracking]
 comments: true
 share: true
 ---

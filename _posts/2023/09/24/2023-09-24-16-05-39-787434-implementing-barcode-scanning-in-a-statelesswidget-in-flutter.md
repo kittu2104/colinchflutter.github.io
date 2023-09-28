@@ -3,7 +3,7 @@ layout: post
 title: "Implementing barcode scanning in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, barcode, scanning]
+tags: [barcode, scanning]
 comments: true
 share: true
 ---

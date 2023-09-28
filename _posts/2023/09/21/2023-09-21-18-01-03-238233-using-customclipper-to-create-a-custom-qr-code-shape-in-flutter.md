@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom QR code shape in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, qrcode, customshape]
+tags: [qrcode, customshape]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Scaling Flutter SSR applications for high traffic"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Scaling, HighTraffic]
+tags: [Scaling, HighTraffic]
 comments: true
 share: true
 ---

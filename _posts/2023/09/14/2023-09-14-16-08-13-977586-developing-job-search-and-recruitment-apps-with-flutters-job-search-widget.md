@@ -3,7 +3,7 @@ layout: post
 title: "Developing job search and recruitment apps with Flutter's job search widget"
 description: " "
 date: 2023-09-14
-tags: [jobsearch, recruitment, flutter]
+tags: [jobsearch, recruitment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Serverless computing and Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [serverless, applicationdevelopment, flutter, webdevelopment]
+tags: [serverless, applicationdevelopment, webdevelopment]
 comments: true
 share: true
 ---

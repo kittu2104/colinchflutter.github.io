@@ -3,7 +3,7 @@ layout: post
 title: "Implementing server-side caching strategies in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Caching]
+tags: [Caching]
 comments: true
 share: true
 ---

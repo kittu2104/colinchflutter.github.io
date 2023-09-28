@@ -3,7 +3,7 @@ layout: post
 title: "Handling schema changes in Flutter migrations without data loss"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigrations]
+tags: [DatabaseMigrations]
 comments: true
 share: true
 ---

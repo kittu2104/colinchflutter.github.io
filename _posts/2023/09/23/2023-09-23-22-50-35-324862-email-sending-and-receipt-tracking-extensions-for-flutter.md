@@ -3,7 +3,7 @@ layout: post
 title: "Email sending and receipt tracking extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, email_extensions]
+tags: [email_extensions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom transitions in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, customtransitions]
+tags: [customtransitions]
 comments: true
 share: true
 ---

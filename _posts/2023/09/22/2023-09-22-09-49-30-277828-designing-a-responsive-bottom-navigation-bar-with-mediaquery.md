@@ -3,7 +3,7 @@ layout: post
 title: "Designing a responsive bottom navigation bar with `MediaQuery`"
 description: " "
 date: 2023-09-22
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

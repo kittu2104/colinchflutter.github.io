@@ -3,7 +3,7 @@ layout: post
 title: "An overview of the path calculation in CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, FlutterDevelopment]
+tags: [CustomClipper, FlutterDevelopment]
 comments: true
 share: true
 ---

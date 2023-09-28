@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive swipeable cards using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, ResponsiveSwipeableCards]
+tags: [ResponsiveSwipeableCards]
 comments: true
 share: true
 ---

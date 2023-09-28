@@ -3,7 +3,7 @@ layout: post
 title: "Implementing multi-language support in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, localization]
+tags: [localization]
 comments: true
 share: true
 ---

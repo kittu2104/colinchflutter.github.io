@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive camera capture using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, CameraCapture]
+tags: [CameraCapture]
 comments: true
 share: true
 ---

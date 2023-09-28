@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time data synchronization in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DataSynchronization]
+tags: [DataSynchronization]
 comments: true
 share: true
 ---

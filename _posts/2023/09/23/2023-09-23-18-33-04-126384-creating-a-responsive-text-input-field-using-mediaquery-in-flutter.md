@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive text input field using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

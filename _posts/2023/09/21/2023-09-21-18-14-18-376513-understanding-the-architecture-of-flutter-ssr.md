@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the architecture of Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

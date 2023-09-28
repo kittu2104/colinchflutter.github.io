@@ -3,7 +3,7 @@ layout: post
 title: "Internationalization and localization in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, internationalization, localization]
+tags: [internationalization, localization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Real-time updates and websockets in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, websockets]
+tags: [websockets]
 comments: true
 share: true
 ---

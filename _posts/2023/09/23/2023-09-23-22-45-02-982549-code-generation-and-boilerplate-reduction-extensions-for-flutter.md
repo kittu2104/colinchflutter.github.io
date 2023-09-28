@@ -3,7 +3,7 @@ layout: post
 title: "Code generation and boilerplate reduction extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, codetools]
+tags: [codetools]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Flutter StatelessWidget"
 description: " "
 date: 2023-09-24
-tags: [flutter, statelesswidget]
+tags: [statelesswidget]
 comments: true
 share: true
 ---

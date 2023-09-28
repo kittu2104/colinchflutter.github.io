@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive audio recording using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, audio, recording, responsive]
+tags: [audio, recording, responsive]
 comments: true
 share: true
 ---

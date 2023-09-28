@@ -3,7 +3,7 @@ layout: post
 title: "Integrating voice assistants in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, voicetechnology]
+tags: [voicetechnology]
 comments: true
 share: true
 ---

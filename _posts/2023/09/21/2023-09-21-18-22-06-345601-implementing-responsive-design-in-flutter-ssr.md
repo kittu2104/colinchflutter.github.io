@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive design in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [flutter, responsive, design]
+tags: [responsive, design]
 comments: true
 share: true
 ---

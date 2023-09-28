@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive countdown timer using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, CountdownTimer]
+tags: [CountdownTimer]
 comments: true
 share: true
 ---

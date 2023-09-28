@@ -3,7 +3,7 @@ layout: post
 title: "Form validation extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, formvalidation]
+tags: [formvalidation]
 comments: true
 share: true
 ---

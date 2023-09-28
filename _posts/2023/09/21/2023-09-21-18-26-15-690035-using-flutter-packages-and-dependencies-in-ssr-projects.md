@@ -3,7 +3,7 @@ layout: post
 title: "Using Flutter packages and dependencies in SSR projects"
 description: " "
 date: 2023-09-21
-tags: [flutter, packages, dependencies]
+tags: [packages, dependencies]
 comments: true
 share: true
 ---

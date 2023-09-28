@@ -3,7 +3,7 @@ layout: post
 title: "Creating adaptive breakpoints with `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, mediaquery]
+tags: [mediaquery]
 comments: true
 share: true
 ---

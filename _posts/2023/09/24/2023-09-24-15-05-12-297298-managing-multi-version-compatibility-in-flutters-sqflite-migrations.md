@@ -3,7 +3,7 @@ layout: post
 title: "Managing multi-version compatibility in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqlflite, database, migrations]
+tags: [sqlflite, database, migrations]
 comments: true
 share: true
 ---

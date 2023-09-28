@@ -3,7 +3,7 @@ layout: post
 title: "Handling table renaming in sqflite database migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, databasemigration]
+tags: [databasemigration]
 comments: true
 share: true
 ---

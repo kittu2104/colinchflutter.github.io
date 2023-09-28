@@ -3,7 +3,7 @@ layout: post
 title: "Implementing online schema changes with minimal downtime in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, OnlineSchemaChanges, MinimalDowntime]
+tags: [OnlineSchemaChanges, MinimalDowntime]
 comments: true
 share: true
 ---

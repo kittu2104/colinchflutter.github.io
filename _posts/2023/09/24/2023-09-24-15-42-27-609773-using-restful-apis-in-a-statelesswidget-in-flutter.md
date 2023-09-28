@@ -3,7 +3,7 @@ layout: post
 title: "Using RESTful APIs in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, APIs]
+tags: [APIs]
 comments: true
 share: true
 ---

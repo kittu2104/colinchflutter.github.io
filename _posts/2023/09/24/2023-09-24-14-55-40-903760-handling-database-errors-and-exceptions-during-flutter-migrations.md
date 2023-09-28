@@ -3,7 +3,7 @@ layout: post
 title: "Handling database errors and exceptions during Flutter migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, databasemigration]
+tags: [databasemigration]
 comments: true
 share: true
 ---

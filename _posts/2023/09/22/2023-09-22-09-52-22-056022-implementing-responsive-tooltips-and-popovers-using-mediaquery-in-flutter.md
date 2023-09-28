@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive tooltips and popovers using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [Flutter, UserInterface]
+tags: [UserInterface]
 comments: true
 share: true
 ---

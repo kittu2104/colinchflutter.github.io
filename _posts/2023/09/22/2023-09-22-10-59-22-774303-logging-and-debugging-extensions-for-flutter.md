@@ -3,7 +3,7 @@ layout: post
 title: "Logging and debugging extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, logging]
+tags: [logging]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom shape divider with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, FlutterUI, CustomClipper]
+tags: [FlutterUI, CustomClipper]
 comments: true
 share: true
 ---

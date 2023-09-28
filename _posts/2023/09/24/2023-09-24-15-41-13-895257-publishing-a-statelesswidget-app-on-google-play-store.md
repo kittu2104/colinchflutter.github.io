@@ -3,7 +3,7 @@ layout: post
 title: "Publishing a StatelessWidget app on Google Play Store"
 description: " "
 date: 2023-09-24
-tags: [flutter, googpleplaystore]
+tags: [googpleplaystore]
 comments: true
 share: true
 ---

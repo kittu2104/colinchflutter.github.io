@@ -3,7 +3,7 @@ layout: post
 title: "Creating dynamic content in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter, flutterSSR]
+tags: [flutterSSR]
 comments: true
 share: true
 ---

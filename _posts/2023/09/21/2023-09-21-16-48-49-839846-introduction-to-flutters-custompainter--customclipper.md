@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Flutter's CustomPainter & CustomClipper"
 description: " "
 date: 2023-09-21
-tags: [flutter, custompainter, customclipper]
+tags: [custompainter, customclipper]
 comments: true
 share: true
 ---

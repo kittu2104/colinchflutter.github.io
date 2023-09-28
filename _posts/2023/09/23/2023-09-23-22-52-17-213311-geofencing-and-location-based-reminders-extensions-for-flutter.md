@@ -3,7 +3,7 @@ layout: post
 title: "Geofencing and location-based reminders extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, Geofencing, LocationBasedReminders]
+tags: [Geofencing, LocationBasedReminders]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Widget customization and styling extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter_svg, flutter_neumorphic, flutter, widgetstyling]
+tags: [flutter_svg, flutter_neumorphic, widgetstyling]
 comments: true
 share: true
 ---

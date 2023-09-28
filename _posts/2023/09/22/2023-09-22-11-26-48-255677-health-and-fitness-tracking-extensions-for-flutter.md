@@ -3,7 +3,7 @@ layout: post
 title: "Health and fitness tracking extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, healthTrackers]
+tags: [healthTrackers]
 comments: true
 share: true
 ---

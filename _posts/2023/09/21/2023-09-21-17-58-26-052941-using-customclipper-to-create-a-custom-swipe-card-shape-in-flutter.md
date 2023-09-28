@@ -3,7 +3,7 @@ layout: post
 title: "Using CustomClipper to create a custom swipe card shape in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, CustomClipper]
+tags: [CustomClipper]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Stripe payment gateway integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, Stripe]
+tags: [Stripe]
 comments: true
 share: true
 ---

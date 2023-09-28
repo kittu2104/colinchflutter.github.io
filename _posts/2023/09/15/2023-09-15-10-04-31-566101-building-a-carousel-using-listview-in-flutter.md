@@ -3,7 +3,7 @@ layout: post
 title: "Building a carousel using ListView in Flutter."
 description: " "
 date: 2023-09-15
-tags: [Conclusion, Flutter, Carousel]
+tags: [Conclusion, Carousel]
 comments: true
 share: true
 ---

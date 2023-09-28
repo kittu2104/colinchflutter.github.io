@@ -3,7 +3,7 @@ layout: post
 title: "Image cropping and resizing extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, imagecropper, flutter, imagepicker]
+tags: [imagecropper, imagepicker]
 comments: true
 share: true
 ---

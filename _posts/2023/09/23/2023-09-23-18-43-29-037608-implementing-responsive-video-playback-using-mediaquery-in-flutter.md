@@ -3,7 +3,7 @@ layout: post
 title: "Implementing responsive video playback using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveVideoPlayback]
+tags: [ResponsiveVideoPlayback]
 comments: true
 share: true
 ---

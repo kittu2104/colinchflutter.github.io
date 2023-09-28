@@ -3,7 +3,7 @@ layout: post
 title: "Developing language learning apps with Flutter's language learning widget"
 description: " "
 date: 2023-09-14
-tags: [languagelearning, flutter]
+tags: [languagelearning]
 comments: true
 share: true
 ---

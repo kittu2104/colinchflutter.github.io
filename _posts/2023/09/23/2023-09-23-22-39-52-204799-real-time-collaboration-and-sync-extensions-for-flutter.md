@@ -3,7 +3,7 @@ layout: post
 title: "Real-time collaboration and sync extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, realtime, collaboration, sync]
+tags: [realtime, collaboration, sync]
 comments: true
 share: true
 ---

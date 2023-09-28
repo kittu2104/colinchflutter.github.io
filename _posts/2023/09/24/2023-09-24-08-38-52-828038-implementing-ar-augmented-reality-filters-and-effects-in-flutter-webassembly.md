@@ -3,7 +3,7 @@ layout: post
 title: "Implementing AR (Augmented Reality) filters and effects in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

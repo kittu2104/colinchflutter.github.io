@@ -3,7 +3,7 @@ layout: post
 title: "GPS tracking and route mapping extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, routemapping]
+tags: [routemapping]
 comments: true
 share: true
 ---

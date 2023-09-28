@@ -3,7 +3,7 @@ layout: post
 title: "Optimizing data consistency checks in Flutter's sqflite migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Database, Migration, DataConsistency, Optimization]
+tags: [Database, Migration, DataConsistency, Optimization]
 comments: true
 share: true
 ---

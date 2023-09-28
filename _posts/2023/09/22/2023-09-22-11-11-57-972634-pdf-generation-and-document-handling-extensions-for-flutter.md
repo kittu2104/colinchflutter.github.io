@@ -3,7 +3,7 @@ layout: post
 title: "PDF generation and document handling extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, printing]
+tags: [printing]
 comments: true
 share: true
 ---

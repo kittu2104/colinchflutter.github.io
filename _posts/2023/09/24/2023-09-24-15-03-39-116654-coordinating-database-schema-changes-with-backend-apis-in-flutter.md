@@ -3,7 +3,7 @@ layout: post
 title: "Coordinating database schema changes with backend APIs in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, backend, database, APIs]
+tags: [backend, database, APIs]
 comments: true
 share: true
 ---

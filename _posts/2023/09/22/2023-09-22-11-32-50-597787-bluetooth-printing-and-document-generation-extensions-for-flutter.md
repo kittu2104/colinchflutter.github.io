@@ -3,7 +3,7 @@ layout: post
 title: "Bluetooth printing and document generation extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, bluetoothprinting]
+tags: [bluetoothprinting]
 comments: true
 share: true
 ---

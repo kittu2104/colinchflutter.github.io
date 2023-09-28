@@ -3,7 +3,7 @@ layout: post
 title: "Device sensors and hardware access extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter_sensors, flutter_blue, flutter, hardware]
+tags: [flutter_sensors, flutter_blue, hardware]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Monitoring and logging in Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

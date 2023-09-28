@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling database migrations in Flutter using sqflite"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigrations]
+tags: [DatabaseMigrations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the concept of responsive UI in Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, ResponsiveUI, MobileAppDevelopment]
+tags: [ResponsiveUI, MobileAppDevelopment]
 comments: true
 share: true
 ---

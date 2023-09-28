@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive notification banner using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, notificationbanner]
+tags: [notificationbanner]
 comments: true
 share: true
 ---

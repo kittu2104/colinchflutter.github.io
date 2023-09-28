@@ -3,7 +3,7 @@ layout: post
 title: "Implementing database migration rollback strategies in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, DatabaseMigration, RollbackStrategy]
+tags: [DatabaseMigration, RollbackStrategy]
 comments: true
 share: true
 ---

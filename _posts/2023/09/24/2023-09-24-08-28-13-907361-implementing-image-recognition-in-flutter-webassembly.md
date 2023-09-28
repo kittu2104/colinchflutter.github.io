@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image recognition in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [Flutter, ImageRecognition]
+tags: [ImageRecognition]
 comments: true
 share: true
 ---

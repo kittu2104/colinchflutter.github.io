@@ -3,7 +3,7 @@ layout: post
 title: "Handling data deprecation and removal in Flutter's migrations"
 description: " "
 date: 2023-09-24
-tags: [flutter, data, data]
+tags: [data, data]
 comments: true
 share: true
 ---

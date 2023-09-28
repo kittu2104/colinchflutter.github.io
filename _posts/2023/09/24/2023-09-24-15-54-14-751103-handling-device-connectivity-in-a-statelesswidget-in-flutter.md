@@ -3,7 +3,7 @@ layout: post
 title: "Handling device connectivity in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Connectivity]
+tags: [Connectivity]
 comments: true
 share: true
 ---

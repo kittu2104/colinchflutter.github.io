@@ -3,7 +3,7 @@ layout: post
 title: "Implementing pull-to-refresh in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, pulltorefresh]
+tags: [pulltorefresh]
 comments: true
 share: true
 ---

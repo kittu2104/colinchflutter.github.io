@@ -3,7 +3,7 @@ layout: post
 title: "SEO optimization for Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

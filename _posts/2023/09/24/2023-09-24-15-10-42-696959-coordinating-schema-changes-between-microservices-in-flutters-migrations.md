@@ -3,7 +3,7 @@ layout: post
 title: "Coordinating schema changes between microservices in Flutter's migrations"
 description: " "
 date: 2023-09-24
-tags: [Flutter, Microservices]
+tags: [Microservices]
 comments: true
 share: true
 ---

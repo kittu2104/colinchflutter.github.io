@@ -3,7 +3,7 @@ layout: post
 title: "Firebase Analytics integration extensions for Flutter"
 description: " "
 date: 2023-09-22
-tags: [flutter, FirebaseAnalytics]
+tags: [FirebaseAnalytics]
 comments: true
 share: true
 ---

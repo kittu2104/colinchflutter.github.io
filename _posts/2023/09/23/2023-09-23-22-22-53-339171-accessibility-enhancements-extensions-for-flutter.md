@@ -3,7 +3,7 @@ layout: post
 title: "Accessibility enhancements extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [Flutter, AccessibilityEnhancements]
+tags: [AccessibilityEnhancements]
 comments: true
 share: true
 ---

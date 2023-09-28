@@ -3,7 +3,7 @@ layout: post
 title: "Video transcoding and format conversion extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, video, transcoding, formatconversion]
+tags: [video, transcoding, formatconversion]
 comments: true
 share: true
 ---

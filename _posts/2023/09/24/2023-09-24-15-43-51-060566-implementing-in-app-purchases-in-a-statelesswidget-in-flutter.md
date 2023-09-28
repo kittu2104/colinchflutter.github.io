@@ -3,7 +3,7 @@ layout: post
 title: "Implementing in-app purchases in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, inapppurchases]
+tags: [inapppurchases]
 comments: true
 share: true
 ---

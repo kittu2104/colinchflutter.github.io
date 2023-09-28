@@ -3,7 +3,7 @@ layout: post
 title: "Building educational gaming applications in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, installation, flutter, FlutterWebAssembly, educationalgames, gamedevelopment]
+tags: [installation, FlutterWebAssembly, educationalgames, gamedevelopment]
 comments: true
 share: true
 ---

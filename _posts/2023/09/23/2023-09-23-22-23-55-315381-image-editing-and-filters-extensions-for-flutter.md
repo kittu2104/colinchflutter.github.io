@@ -3,7 +3,7 @@ layout: post
 title: "Image editing and filters extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, imageediting, filters, flutterextensions]
+tags: [imageediting, filters, flutterextensions]
 comments: true
 share: true
 ---

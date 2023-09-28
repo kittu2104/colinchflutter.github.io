@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a diagonal cut shape with CustomClipper in Flutter"
 description: " "
 date: 2023-09-21
-tags: [Flutter, CustomClipper, DiagonalCutShape]
+tags: [CustomClipper, DiagonalCutShape]
 comments: true
 share: true
 ---

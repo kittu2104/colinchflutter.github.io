@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

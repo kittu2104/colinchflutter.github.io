@@ -3,7 +3,7 @@ layout: post
 title: "Network request handling extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, networking, http, chopper]
+tags: [networking, http, chopper]
 comments: true
 share: true
 ---

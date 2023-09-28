@@ -3,7 +3,7 @@ layout: post
 title: "Implementing end-to-end tests for a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, testing]
+tags: [testing]
 comments: true
 share: true
 ---

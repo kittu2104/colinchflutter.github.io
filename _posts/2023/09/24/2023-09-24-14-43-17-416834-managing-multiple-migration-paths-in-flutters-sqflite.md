@@ -3,7 +3,7 @@ layout: post
 title: "Managing multiple migration paths in Flutter's sqflite"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, migration, database]
+tags: [sqflite, migration, database]
 comments: true
 share: true
 ---

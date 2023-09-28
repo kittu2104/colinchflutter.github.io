@@ -3,7 +3,7 @@ layout: post
 title: "Server-side rendering vs client-side rendering in Flutter"
 description: " "
 date: 2023-09-21
-tags: [flutter, rendering]
+tags: [rendering]
 comments: true
 share: true
 ---

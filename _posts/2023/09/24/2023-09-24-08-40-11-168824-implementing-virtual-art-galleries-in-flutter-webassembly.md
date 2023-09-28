@@ -3,7 +3,7 @@ layout: post
 title: "Implementing virtual art galleries in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, artgallery, webassembly]
+tags: [artgallery, webassembly]
 comments: true
 share: true
 ---

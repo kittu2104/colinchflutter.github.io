@@ -3,7 +3,7 @@ layout: post
 title: "Using web workers with Flutter SSR"
 description: " "
 date: 2023-09-21
-tags: [Flutter, WebWorkers]
+tags: [WebWorkers]
 comments: true
 share: true
 ---

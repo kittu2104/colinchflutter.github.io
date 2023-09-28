@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive rating system using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, ratingSystem]
+tags: [ratingSystem]
 comments: true
 share: true
 ---

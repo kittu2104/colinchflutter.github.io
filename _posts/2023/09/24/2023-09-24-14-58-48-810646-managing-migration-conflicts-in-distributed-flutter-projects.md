@@ -3,7 +3,7 @@ layout: post
 title: "Managing migration conflicts in distributed Flutter projects"
 description: " "
 date: 2023-09-24
-tags: [Flutter, MigrationConflicts]
+tags: [MigrationConflicts]
 comments: true
 share: true
 ---

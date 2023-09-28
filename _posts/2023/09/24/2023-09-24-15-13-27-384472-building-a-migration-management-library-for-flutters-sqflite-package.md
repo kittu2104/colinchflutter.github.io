@@ -3,7 +3,7 @@ layout: post
 title: "Building a migration management library for Flutter's sqflite package"
 description: " "
 date: 2023-09-24
-tags: [flutter, sqflite, migrations]
+tags: [sqflite, migrations]
 comments: true
 share: true
 ---

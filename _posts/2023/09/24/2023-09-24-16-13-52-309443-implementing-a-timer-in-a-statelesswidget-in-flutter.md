@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a timer in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [flutter, timer]
+tags: [timer]
 comments: true
 share: true
 ---

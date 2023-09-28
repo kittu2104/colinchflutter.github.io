@@ -3,7 +3,7 @@ layout: post
 title: "Implementing restaurant and food delivery applications in Flutter WebAssembly"
 description: " "
 date: 2023-09-24
-tags: [flutter, webdev]
+tags: [webdev]
 comments: true
 share: true
 ---

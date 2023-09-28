@@ -3,7 +3,7 @@ layout: post
 title: "Securing API endpoints in Flutter SSR applications"
 description: " "
 date: 2023-09-21
-tags: [Flutter, Security]
+tags: [Security]
 comments: true
 share: true
 ---

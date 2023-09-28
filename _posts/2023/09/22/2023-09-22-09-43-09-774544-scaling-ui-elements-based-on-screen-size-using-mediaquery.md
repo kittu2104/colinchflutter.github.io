@@ -3,7 +3,7 @@ layout: post
 title: "Scaling UI elements based on screen size using `MediaQuery`"
 description: " "
 date: 2023-09-22
-tags: [flutter, responsivedesign]
+tags: [responsivedesign]
 comments: true
 share: true
 ---

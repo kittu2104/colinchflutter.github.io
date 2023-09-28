@@ -3,7 +3,7 @@ layout: post
 title: "Unit testing in Flutter: Best practices and tips for writing effective unit tests"
 description: " "
 date: 2023-09-17
-tags: [unitTesting, Flutter]
+tags: [unitTesting]
 comments: true
 share: true
 ---

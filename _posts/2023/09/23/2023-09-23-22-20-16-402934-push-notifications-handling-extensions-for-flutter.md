@@ -3,7 +3,7 @@ layout: post
 title: "Push notifications handling extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, pushnotifications, flutterdev, appdevelopment]
+tags: [pushnotifications, flutterdev, appdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video recording in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, VideoRecording]
+tags: [VideoRecording]
 comments: true
 share: true
 ---

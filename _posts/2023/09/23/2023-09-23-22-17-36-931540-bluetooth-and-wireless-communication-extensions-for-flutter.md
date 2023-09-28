@@ -3,7 +3,7 @@ layout: post
 title: "Bluetooth and wireless communication extensions for Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter_blue, wifi_flutter, Flutter, Bluetooth, WirelessCommunication]
+tags: [flutter_blue, wifi_flutter, Bluetooth, WirelessCommunication]
 comments: true
 share: true
 ---

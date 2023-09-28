@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive animated button using `MediaQuery` in Flutter"
 description: " "
 date: 2023-09-23
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

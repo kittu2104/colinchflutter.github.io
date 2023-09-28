@@ -10,7 +10,7 @@ share: true
 
 In the world of mobile applications, audio fingerprinting and music recognition have become essential features for various music-related applications. Whether it's identifying music playing in the background or building personalized playlists based on user preferences, audio fingerprinting and music recognition are widely used.
 
-Fortunately, Flutter, the popular cross-platform development framework, provides developers with powerful extensions and plugins to incorporate these functionalities seamlessly into their Flutter apps.
+Fortunately, the popular cross-platform development framework, provides developers with powerful extensions and plugins to incorporate these functionalities seamlessly into their Flutter apps.
 
 ## 1. Introduction to Audio Fingerprinting
 

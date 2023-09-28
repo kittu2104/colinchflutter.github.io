@@ -3,7 +3,7 @@ layout: post
 title: "Handling push notification permissions in a StatelessWidget in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, PushNotifications]
+tags: [PushNotifications]
 comments: true
 share: true
 ---

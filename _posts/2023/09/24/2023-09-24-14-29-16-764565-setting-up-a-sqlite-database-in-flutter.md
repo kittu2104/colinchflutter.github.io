@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a SQLite database in Flutter"
 description: " "
 date: 2023-09-24
-tags: [Flutter, SQLite]
+tags: [SQLite]
 comments: true
 share: true
 ---
