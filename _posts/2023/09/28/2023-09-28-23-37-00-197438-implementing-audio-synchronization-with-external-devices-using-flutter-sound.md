@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio synchronization with external devices using Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio]
+tags: [audio]
 comments: true
 share: true
 ---

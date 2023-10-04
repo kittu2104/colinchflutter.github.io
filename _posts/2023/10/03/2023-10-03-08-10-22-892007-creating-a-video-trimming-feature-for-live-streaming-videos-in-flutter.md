@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming feature for live streaming videos in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimming, LiveStreaming, CrossPlatform, MobileAppDevelopment]
+tags: [VideoTrimming, LiveStreaming, CrossPlatform, MobileAppDevelopment]
 comments: true
 share: true
 ---

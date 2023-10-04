@@ -3,7 +3,7 @@ layout: post
 title: "Implementing OCR and text extraction with GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, TextExtraction]
+tags: [GetX, TextExtraction]
 comments: true
 share: true
 ---

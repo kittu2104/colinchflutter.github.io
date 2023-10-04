@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time image processing using Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageProcessing]
+tags: [imageProcessing]
 comments: true
 share: true
 ---

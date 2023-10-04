@@ -3,7 +3,7 @@ layout: post
 title: "Creating smooth scroll effects with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl]
+tags: [webgl]
 comments: true
 share: true
 ---

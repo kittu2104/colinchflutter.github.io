@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image caching and memory management in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, caching]
+tags: [caching]
 comments: true
 share: true
 ---

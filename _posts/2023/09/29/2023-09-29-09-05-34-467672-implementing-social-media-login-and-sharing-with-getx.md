@@ -3,7 +3,7 @@ layout: post
 title: "Implementing social media login and sharing with GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Parsing complex JSON structures with Flutter JSON serialization"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSONserialization]
+tags: [JSONserialization]
 comments: true
 share: true
 ---

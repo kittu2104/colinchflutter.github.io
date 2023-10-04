@@ -3,7 +3,7 @@ layout: post
 title: "How to check if the device uses dark mode using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, DarkMode]
+tags: [DarkMode]
 comments: true
 share: true
 ---

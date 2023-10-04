@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio pitch control in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, sound, flutterdevelopment, pitchcontrol]
+tags: [audio, sound, flutterdevelopment, pitchcontrol]
 comments: true
 share: true
 ---

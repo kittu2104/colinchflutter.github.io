@@ -3,7 +3,7 @@ layout: post
 title: "Implementing email notification in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, WorkManager, emailNotification, scheduledTasks]
+tags: [WorkManager, emailNotification, scheduledTasks]
 comments: true
 share: true
 ---

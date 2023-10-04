@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio noise reduction with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, noisereduction]
+tags: [noisereduction]
 comments: true
 share: true
 ---

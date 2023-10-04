@@ -3,7 +3,7 @@ layout: post
 title: "Implementing search functionality with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutterweb, webgl, flutter]
+tags: [flutterweb, webgl]
 comments: true
 share: true
 ---

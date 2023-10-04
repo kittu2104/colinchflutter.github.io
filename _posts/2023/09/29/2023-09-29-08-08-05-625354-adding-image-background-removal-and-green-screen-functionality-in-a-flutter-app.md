@@ -3,7 +3,7 @@ layout: post
 title: "Adding image background removal and green screen functionality in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageProcessing]
+tags: [ImageProcessing]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for augmented reality functionality in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, augmentedreality, appdevelopment]
+tags: [GetX, augmentedreality, appdevelopment]
 comments: true
 share: true
 ---

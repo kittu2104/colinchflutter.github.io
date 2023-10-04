@@ -3,7 +3,7 @@ layout: post
 title: "How to disable animations using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Animations]
+tags: [Animations]
 comments: true
 share: true
 ---

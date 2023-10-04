@@ -3,7 +3,7 @@ layout: post
 title: "How to add query parameters to http requests in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, HTTPRequest]
+tags: [HTTPRequest]
 comments: true
 share: true
 ---

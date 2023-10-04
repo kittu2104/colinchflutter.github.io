@@ -3,7 +3,7 @@ layout: post
 title: "Implementing screen capture and recording in WorkManager tasks for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, screenshots, recording]
+tags: [workmanager, screenshots, recording]
 comments: true
 share: true
 ---

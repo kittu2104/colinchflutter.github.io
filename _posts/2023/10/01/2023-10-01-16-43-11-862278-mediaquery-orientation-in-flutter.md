@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery orientation in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, mediaqueryorientation]
+tags: [mediaqueryorientation]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing multi-room audio playback with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audiostream, multiroomaudio]
+tags: [audiostream, multiroomaudio]
 comments: true
 share: true
 ---

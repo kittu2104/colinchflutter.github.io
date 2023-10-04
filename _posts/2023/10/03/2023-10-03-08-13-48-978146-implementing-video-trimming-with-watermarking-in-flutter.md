@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with watermarking in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming, videowatermarking]
+tags: [videotrimming, videowatermarking]
 comments: true
 share: true
 ---

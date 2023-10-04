@@ -3,7 +3,7 @@ layout: post
 title: "Integrating cloud storage services for image uploading in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, Firebase]
+tags: [Firebase]
 comments: true
 share: true
 ---

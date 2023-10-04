@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for video streaming and encoding in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, videoStreaming, videoEncoding]
+tags: [GetX, videoStreaming, videoEncoding]
 comments: true
 share: true
 ---

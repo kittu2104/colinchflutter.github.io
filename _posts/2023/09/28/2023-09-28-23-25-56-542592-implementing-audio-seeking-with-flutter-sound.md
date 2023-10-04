@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio seeking with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audioseeking]
+tags: [audioseeking]
 comments: true
 share: true
 ---

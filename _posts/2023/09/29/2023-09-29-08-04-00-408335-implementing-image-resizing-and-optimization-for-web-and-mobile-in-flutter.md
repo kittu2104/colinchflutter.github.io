@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image resizing and optimization for web and mobile in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageOptimization]
+tags: [ImageOptimization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to listen for high contrast mode changes using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, accessibility]
+tags: [accessibility]
 comments: true
 share: true
 ---

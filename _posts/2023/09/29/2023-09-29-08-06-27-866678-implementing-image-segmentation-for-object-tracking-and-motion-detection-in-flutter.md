@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image segmentation for object tracking and motion detection in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageSegmentation, objectTracking, motionDetection]
+tags: [imageSegmentation, objectTracking, motionDetection]
 comments: true
 share: true
 ---

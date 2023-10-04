@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing JSON with moor in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, Moor]
+tags: [Moor]
 comments: true
 share: true
 ---

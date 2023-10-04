@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio playback speed control in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, flutterdev, audio, playback, speedcontrol]
+tags: [flutterdev, audio, playback, speedcontrol]
 comments: true
 share: true
 ---

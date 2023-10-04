@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio transcriptions and closed captioning with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audiotranscriptions, closedcaptioning]
+tags: [audiotranscriptions, closedcaptioning]
 comments: true
 share: true
 ---

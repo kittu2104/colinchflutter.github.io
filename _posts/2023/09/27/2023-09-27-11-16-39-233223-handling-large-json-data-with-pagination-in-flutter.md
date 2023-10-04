@@ -3,7 +3,7 @@ layout: post
 title: "Handling large JSON data with pagination in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, pagination]
+tags: [pagination]
 comments: true
 share: true
 ---

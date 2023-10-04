@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recording with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [Flutter, AudioRecording]
+tags: [AudioRecording]
 comments: true
 share: true
 ---

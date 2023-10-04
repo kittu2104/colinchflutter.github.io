@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for audio transcription and voice recognition"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, AudioTranscription, VoiceRecognition]
+tags: [GetX, AudioTranscription, VoiceRecognition]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to handle secure data transfer with the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, SecureDataTransfer]
+tags: [SecureDataTransfer]
 comments: true
 share: true
 ---

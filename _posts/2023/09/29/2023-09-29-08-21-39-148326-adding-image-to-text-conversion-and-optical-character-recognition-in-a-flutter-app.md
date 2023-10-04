@@ -3,7 +3,7 @@ layout: post
 title: "Adding image to text conversion and optical character recognition in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageToText, FlutterDevelopment]
+tags: [ImageToText, FlutterDevelopment]
 comments: true
 share: true
 ---

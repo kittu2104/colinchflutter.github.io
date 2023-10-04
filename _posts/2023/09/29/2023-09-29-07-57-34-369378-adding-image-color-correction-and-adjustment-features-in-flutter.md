@@ -3,7 +3,7 @@ layout: post
 title: "Adding image color correction and adjustment features in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, colorAdjustment, imageCorrection]
+tags: [colorAdjustment, imageCorrection]
 comments: true
 share: true
 ---

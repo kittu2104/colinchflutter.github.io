@@ -3,7 +3,7 @@ layout: post
 title: "Creating a custom video trimming toolbar in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting]
+tags: [videoediting]
 comments: true
 share: true
 ---

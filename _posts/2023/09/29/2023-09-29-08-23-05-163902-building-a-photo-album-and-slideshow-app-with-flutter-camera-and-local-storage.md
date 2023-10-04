@@ -3,7 +3,7 @@ layout: post
 title: "Building a photo album and slideshow app with Flutter camera and local storage"
 description: " "
 date: 2023-09-29
-tags: [Flutter, PhotoAlbum]
+tags: [PhotoAlbum]
 comments: true
 share: true
 ---

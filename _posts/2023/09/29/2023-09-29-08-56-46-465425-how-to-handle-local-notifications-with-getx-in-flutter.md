@@ -3,7 +3,7 @@ layout: post
 title: "How to handle local notifications with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, notifications]
+tags: [notifications]
 comments: true
 share: true
 ---

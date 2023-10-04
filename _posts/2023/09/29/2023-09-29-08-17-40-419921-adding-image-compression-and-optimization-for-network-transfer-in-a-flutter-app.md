@@ -3,7 +3,7 @@ layout: post
 title: "Adding image compression and optimization for network transfer in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageoptimization]
+tags: [imageoptimization]
 comments: true
 share: true
 ---

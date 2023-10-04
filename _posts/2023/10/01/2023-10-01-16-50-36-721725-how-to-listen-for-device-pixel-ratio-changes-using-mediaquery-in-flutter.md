@@ -3,7 +3,7 @@ layout: post
 title: "How to listen for device pixel ratio changes using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, Flutter, MediaQuery]
+tags: [MediaQuery, Flutter, MediaQuery]
 comments: true
 share: true
 ---

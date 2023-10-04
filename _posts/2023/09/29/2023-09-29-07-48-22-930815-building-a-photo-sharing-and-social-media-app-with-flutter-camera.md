@@ -3,7 +3,7 @@ layout: post
 title: "Building a photo sharing and social media app with Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, socialmedia, appdevelopment]
+tags: [socialmedia, appdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming using server-side processing in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimming, ServerSideProcessing]
+tags: [VideoTrimming, ServerSideProcessing]
 comments: true
 share: true
 ---

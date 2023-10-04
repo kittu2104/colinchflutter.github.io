@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for audio and video playback in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, multimedia, audioPlayback, videoPlayback]
+tags: [GetX, multimedia, audioPlayback, videoPlayback]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image steganography for secure communication in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, steganography]
+tags: [steganography]
 comments: true
 share: true
 ---

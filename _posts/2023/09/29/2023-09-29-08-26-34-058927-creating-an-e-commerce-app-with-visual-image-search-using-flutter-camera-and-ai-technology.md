@@ -3,7 +3,7 @@ layout: post
 title: "Creating an e-commerce app with visual image search using Flutter camera and AI technology"
 description: " "
 date: 2023-09-29
-tags: [flutter, visualimagesearch]
+tags: [visualimagesearch]
 comments: true
 share: true
 ---

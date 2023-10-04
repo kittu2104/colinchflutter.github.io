@@ -3,7 +3,7 @@ layout: post
 title: "How to handle secure data synchronization with the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, DataSynchronization]
+tags: [DataSynchronization]
 comments: true
 share: true
 ---

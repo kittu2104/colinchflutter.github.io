@@ -3,7 +3,7 @@ layout: post
 title: "Adding text overlays to trimmed videos in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoplayer, videoediting]
+tags: [videoplayer, videoediting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image manipulation and transformation using matrix operations in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageManipulation]
+tags: [ImageManipulation]
 comments: true
 share: true
 ---

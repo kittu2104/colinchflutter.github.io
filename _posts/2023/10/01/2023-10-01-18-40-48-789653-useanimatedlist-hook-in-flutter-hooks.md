@@ -3,7 +3,7 @@ layout: post
 title: "useAnimatedList hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [Flutter, FlutterHooks]
+tags: [FlutterHooks]
 comments: true
 share: true
 ---

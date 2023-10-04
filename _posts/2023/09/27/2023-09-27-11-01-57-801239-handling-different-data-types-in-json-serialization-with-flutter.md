@@ -3,7 +3,7 @@ layout: post
 title: "Handling different data types in JSON serialization with Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How does MediaQuery work in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dark mode with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, darkmode]
+tags: [darkmode]
 comments: true
 share: true
 ---

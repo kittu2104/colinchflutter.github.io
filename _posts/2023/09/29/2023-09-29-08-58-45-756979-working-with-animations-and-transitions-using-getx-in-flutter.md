@@ -3,7 +3,7 @@ layout: post
 title: "Working with animations and transitions using GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, Animations, Transitions]
+tags: [GetX, Animations, Transitions]
 comments: true
 share: true
 ---

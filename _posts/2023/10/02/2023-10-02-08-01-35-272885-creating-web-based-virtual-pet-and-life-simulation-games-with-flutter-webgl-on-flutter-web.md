@@ -3,7 +3,7 @@ layout: post
 title: "Creating web-based virtual pet and life simulation games with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, gamedevelopment]
+tags: [webgl, gamedevelopment]
 comments: true
 share: true
 ---

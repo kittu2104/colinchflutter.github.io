@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for real-time translation and language detection"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, translation]
+tags: [GetX, translation]
 comments: true
 share: true
 ---

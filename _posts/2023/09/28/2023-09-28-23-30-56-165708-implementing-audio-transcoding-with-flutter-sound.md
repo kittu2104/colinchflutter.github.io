@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio transcoding with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, transcoding, FlutterSound]
+tags: [audio, transcoding, FlutterSound]
 comments: true
 share: true
 ---

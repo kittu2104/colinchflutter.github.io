@@ -3,7 +3,7 @@ layout: post
 title: "Building a food photo recognition and recipe app with Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, foodrecognition]
+tags: [foodrecognition]
 comments: true
 share: true
 ---

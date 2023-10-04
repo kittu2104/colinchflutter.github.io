@@ -3,7 +3,7 @@ layout: post
 title: "Working with Bluetooth and NFC connectivity in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, bluetooth]
+tags: [workmanager, bluetooth]
 comments: true
 share: true
 ---

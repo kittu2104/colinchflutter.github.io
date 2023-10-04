@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image segmentation and object extraction in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, computer]
+tags: [computer]
 comments: true
 share: true
 ---

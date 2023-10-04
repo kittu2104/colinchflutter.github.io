@@ -3,7 +3,7 @@ layout: post
 title: "Implementing geofencing in scheduled tasks with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, geofencing, workmanager]
+tags: [geofencing, workmanager]
 comments: true
 share: true
 ---

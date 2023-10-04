@@ -3,7 +3,7 @@ layout: post
 title: "How to determine if accessible navigation is enabled using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, accessibility]
+tags: [accessibility]
 comments: true
 share: true
 ---

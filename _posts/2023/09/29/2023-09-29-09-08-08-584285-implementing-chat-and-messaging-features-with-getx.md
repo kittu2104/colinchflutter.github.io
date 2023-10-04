@@ -3,7 +3,7 @@ layout: post
 title: "Implementing chat and messaging features with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

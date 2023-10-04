@@ -3,7 +3,7 @@ layout: post
 title: "Building an OCR (Optical Character Recognition) app with Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [Flutter, Camera, MobileApp]
+tags: [Camera, MobileApp]
 comments: true
 share: true
 ---

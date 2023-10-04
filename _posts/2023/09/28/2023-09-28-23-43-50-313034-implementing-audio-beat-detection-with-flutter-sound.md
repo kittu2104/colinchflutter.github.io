@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio beat detection with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, beats, fluttersound]
+tags: [audio, beats, fluttersound]
 comments: true
 share: true
 ---

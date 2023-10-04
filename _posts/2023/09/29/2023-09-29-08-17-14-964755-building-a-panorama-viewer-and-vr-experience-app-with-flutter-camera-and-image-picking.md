@@ -3,7 +3,7 @@ layout: post
 title: "Building a panorama viewer and VR experience app with Flutter camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, appDevelopment]
+tags: [appDevelopment]
 comments: true
 share: true
 ---

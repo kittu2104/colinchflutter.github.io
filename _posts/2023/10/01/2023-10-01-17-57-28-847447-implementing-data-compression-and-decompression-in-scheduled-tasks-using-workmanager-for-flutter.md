@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data compression and decompression in scheduled tasks using WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, datacompression, datadecompression]
+tags: [workmanager, datacompression, datadecompression]
 comments: true
 share: true
 ---

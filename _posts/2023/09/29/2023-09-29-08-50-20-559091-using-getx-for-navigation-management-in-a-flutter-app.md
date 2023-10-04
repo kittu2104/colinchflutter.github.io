@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for navigation management in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, navigationmanagement]
+tags: [navigationmanagement]
 comments: true
 share: true
 ---

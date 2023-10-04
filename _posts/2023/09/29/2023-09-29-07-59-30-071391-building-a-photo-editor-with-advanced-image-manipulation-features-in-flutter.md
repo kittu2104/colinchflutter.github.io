@@ -3,7 +3,7 @@ layout: post
 title: "Building a photo editor with advanced image manipulation features in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, flutter), PhotoEditor, photoeditor)]
+tags: [flutter), PhotoEditor, photoeditor)]
 comments: true
 share: true
 ---

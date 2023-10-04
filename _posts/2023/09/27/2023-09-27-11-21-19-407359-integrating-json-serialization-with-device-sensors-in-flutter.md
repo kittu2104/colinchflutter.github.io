@@ -3,7 +3,7 @@ layout: post
 title: "Integrating JSON serialization with device sensors in Flutter"
 description: " "
 date: 2023-09-27
-tags: [hashtags, Flutter]
+tags: [hashtags]
 comments: true
 share: true
 ---

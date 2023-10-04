@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks with dynamic intervals and durations using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [WorkManager, Flutter]
+tags: [WorkManager]
 comments: true
 share: true
 ---

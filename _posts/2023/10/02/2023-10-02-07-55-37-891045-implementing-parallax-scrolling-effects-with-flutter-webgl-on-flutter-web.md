@@ -3,7 +3,7 @@ layout: post
 title: "Implementing parallax scrolling effects with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL, ParallaxScrolling]
+tags: [WebGL, ParallaxScrolling]
 comments: true
 share: true
 ---

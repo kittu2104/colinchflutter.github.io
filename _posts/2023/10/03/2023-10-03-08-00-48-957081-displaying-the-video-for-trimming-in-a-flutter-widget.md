@@ -3,7 +3,7 @@ layout: post
 title: "Displaying the video for trimming in a Flutter widget"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimmer]
+tags: [VideoTrimmer]
 comments: true
 share: true
 ---

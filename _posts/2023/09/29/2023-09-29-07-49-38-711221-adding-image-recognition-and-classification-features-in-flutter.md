@@ -3,7 +3,7 @@ layout: post
 title: "Adding image recognition and classification features in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

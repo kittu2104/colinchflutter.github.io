@@ -3,7 +3,7 @@ layout: post
 title: "How to import a video in Flutter for trimming"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimming]
+tags: [VideoTrimming]
 comments: true
 share: true
 ---

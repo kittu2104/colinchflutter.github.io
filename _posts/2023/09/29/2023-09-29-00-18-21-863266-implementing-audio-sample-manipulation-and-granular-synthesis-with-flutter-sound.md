@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio sample manipulation and granular synthesis with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, samples, granularsynthesis]
+tags: [audio, samples, granularsynthesis]
 comments: true
 share: true
 ---

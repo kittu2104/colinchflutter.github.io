@@ -3,7 +3,7 @@ layout: post
 title: "Implementing drag and drop functionality with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, draganddrop, flutterweb]
+tags: [webgl, draganddrop, flutterweb]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to handle cookies in http requests using the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, HTTPCookies]
+tags: [HTTPCookies]
 comments: true
 share: true
 ---

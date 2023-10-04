@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for barcode scanning and QR code generation"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, BarcodeScanning, QRCodeGeneration]
+tags: [GetX, BarcodeScanning, QRCodeGeneration]
 comments: true
 share: true
 ---

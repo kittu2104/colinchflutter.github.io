@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio caching for offline playback with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, AudioCaching]
+tags: [AudioCaching]
 comments: true
 share: true
 ---

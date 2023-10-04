@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with adjustable playback speed in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting, flutterdevelopment, videoplayer]
+tags: [videoediting, flutterdevelopment, videoplayer]
 comments: true
 share: true
 ---

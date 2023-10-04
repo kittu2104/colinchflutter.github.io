@@ -3,7 +3,7 @@ layout: post
 title: "Working with notifications in scheduled tasks using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, WorkManager]
+tags: [WorkManager]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio mixing and blending with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, sound]
+tags: [audio, sound]
 comments: true
 share: true
 ---

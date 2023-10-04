@@ -3,7 +3,7 @@ layout: post
 title: "Handling form validation with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

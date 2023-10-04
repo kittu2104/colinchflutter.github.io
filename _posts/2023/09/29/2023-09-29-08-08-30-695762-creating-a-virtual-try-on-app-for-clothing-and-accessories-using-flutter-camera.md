@@ -3,7 +3,7 @@ layout: post
 title: "Creating a virtual try-on app for clothing and accessories using Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [Flutter, VirtualTryOnApp]
+tags: [VirtualTryOnApp]
 comments: true
 share: true
 ---

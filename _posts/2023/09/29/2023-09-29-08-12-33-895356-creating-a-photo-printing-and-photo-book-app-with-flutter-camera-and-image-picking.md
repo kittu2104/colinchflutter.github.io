@@ -3,7 +3,7 @@ layout: post
 title: "Creating a photo printing and photo book app with Flutter camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

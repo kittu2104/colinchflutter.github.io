@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming timeline in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimmer, Timeline]
+tags: [VideoTrimmer, Timeline]
 comments: true
 share: true
 ---

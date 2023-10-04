@@ -3,7 +3,7 @@ layout: post
 title: "Building a wallpaper app with Flutter camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [Flutter, WallpaperApp]
+tags: [WallpaperApp]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio text-to-speech synthesis with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Setting up WorkManager in Flutter project"
 description: " "
 date: 2023-10-01
-tags: [flutter, backgroundTasks]
+tags: [backgroundTasks]
 comments: true
 share: true
 ---

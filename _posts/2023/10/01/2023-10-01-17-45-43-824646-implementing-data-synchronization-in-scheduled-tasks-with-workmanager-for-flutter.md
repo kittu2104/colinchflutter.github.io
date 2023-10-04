@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data synchronization in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, datasync, workmanager]
+tags: [datasync, workmanager]
 comments: true
 share: true
 ---

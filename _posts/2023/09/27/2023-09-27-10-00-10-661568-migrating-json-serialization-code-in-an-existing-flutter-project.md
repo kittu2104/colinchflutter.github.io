@@ -3,7 +3,7 @@ layout: post
 title: "Migrating JSON serialization code in an existing Flutter project"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSONserialization]
+tags: [JSONserialization]
 comments: true
 share: true
 ---

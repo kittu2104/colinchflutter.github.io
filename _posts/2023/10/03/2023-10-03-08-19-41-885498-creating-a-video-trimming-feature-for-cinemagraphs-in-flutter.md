@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming feature for cinemagraphs in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, Cinemagraphs]
+tags: [Cinemagraphs]
 comments: true
 share: true
 ---

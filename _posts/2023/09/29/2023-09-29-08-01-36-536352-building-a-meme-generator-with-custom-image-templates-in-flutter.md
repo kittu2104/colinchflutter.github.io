@@ -3,7 +3,7 @@ layout: post
 title: "Building a meme generator with custom image templates in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, meme]
+tags: [meme]
 comments: true
 share: true
 ---

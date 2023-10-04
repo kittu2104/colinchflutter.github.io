@@ -3,7 +3,7 @@ layout: post
 title: "Adding image classification and object recognition for wildlife in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, MLKit]
+tags: [MLKit]
 comments: true
 share: true
 ---

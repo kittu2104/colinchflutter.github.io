@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recognition and transcription with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audioRecognition, transcription]
+tags: [audioRecognition, transcription]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating web-based music and sound composition tools with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, musiccomposition, sounddesign]
+tags: [webgl, musiccomposition, sounddesign]
 comments: true
 share: true
 ---

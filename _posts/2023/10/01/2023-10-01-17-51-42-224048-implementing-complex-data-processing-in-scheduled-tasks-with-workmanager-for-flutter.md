@@ -3,7 +3,7 @@ layout: post
 title: "Implementing complex data processing in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager]
+tags: [workmanager]
 comments: true
 share: true
 ---

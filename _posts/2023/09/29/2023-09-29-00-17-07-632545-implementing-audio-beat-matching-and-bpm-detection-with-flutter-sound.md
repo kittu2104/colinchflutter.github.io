@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio beat matching and BPM detection with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, beatmatching]
+tags: [audio, beatmatching]
 comments: true
 share: true
 ---

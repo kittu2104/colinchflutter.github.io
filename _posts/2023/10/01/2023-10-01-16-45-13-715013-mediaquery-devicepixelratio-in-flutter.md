@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery devicePixelRatio in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, ResponsiveDesign]
+tags: [ResponsiveDesign]
 comments: true
 share: true
 ---

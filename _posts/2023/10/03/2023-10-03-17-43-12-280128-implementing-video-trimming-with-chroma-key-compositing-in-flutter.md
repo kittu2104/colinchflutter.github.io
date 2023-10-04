@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with chroma key compositing in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, chromakey]
+tags: [chromakey]
 comments: true
 share: true
 ---

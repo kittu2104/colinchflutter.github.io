@@ -3,7 +3,7 @@ layout: post
 title: "JSON serialization in Flutter using built_value library"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSONSerialization]
+tags: [JSONSerialization]
 comments: true
 share: true
 ---

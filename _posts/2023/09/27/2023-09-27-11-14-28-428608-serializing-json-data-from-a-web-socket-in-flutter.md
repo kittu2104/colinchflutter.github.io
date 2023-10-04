@@ -3,7 +3,7 @@ layout: post
 title: "Serializing JSON data from a web socket in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, WebSocket]
+tags: [WebSocket]
 comments: true
 share: true
 ---

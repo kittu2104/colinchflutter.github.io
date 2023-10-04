@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image recognition for landmarks and famous places in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageRecognition]
+tags: [imageRecognition]
 comments: true
 share: true
 ---

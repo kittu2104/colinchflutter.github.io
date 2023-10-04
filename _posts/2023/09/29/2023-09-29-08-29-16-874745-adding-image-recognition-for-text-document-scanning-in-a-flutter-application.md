@@ -3,7 +3,7 @@ layout: post
 title: "Adding image recognition for text document scanning in a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageRecognition, textScanning]
+tags: [imageRecognition, textScanning]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JSON serialization with dio in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

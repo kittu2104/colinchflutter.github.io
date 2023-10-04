@@ -3,7 +3,7 @@ layout: post
 title: "Implementing user authentication with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL, Authentication, Firebase]
+tags: [WebGL, Authentication, Firebase]
 comments: true
 share: true
 ---

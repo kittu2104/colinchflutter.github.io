@@ -3,7 +3,7 @@ layout: post
 title: "Installation process of GetX package in a Flutter project"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

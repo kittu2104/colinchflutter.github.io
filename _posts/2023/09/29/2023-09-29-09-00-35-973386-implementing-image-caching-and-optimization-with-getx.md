@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image caching and optimization with GetX"
 description: " "
 date: 2023-09-29
-tags: [GetX, Flutter]
+tags: [GetX]
 comments: true
 share: true
 ---

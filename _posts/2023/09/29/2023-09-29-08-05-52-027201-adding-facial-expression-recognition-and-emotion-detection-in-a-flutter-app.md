@@ -3,7 +3,7 @@ layout: post
 title: "Adding facial expression recognition and emotion detection in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, facialexpressionrecognition]
+tags: [facialexpressionrecognition]
 comments: true
 share: true
 ---

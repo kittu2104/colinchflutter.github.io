@@ -3,7 +3,7 @@ layout: post
 title: "Implementing crossfade transition between audio tracks with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, crossfade]
+tags: [crossfade]
 comments: true
 share: true
 ---

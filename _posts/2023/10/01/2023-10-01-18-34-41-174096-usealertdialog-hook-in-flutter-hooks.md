@@ -3,7 +3,7 @@ layout: post
 title: "useAlertDialog hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, hooks, flutterhooks, alertdialog, flutterapp]
+tags: [hooks, flutterhooks, alertdialog, flutterapp]
 comments: true
 share: true
 ---

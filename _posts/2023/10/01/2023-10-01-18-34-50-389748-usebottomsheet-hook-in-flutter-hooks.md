@@ -3,7 +3,7 @@ layout: post
 title: "useBottomSheet hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Hooks]
+tags: [Hooks]
 comments: true
 share: true
 ---

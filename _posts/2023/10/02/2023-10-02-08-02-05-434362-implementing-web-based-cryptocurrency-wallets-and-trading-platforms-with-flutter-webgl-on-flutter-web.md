@@ -3,7 +3,7 @@ layout: post
 title: "Implementing web-based cryptocurrency wallets and trading platforms with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, cryptocurrency, wallets, trading]
+tags: [webgl, cryptocurrency, wallets, trading]
 comments: true
 share: true
 ---

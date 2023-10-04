@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio waveform display with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

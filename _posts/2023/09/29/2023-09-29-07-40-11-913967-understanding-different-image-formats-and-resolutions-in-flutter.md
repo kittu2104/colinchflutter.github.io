@@ -3,7 +3,7 @@ layout: post
 title: "Understanding different image formats and resolutions in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, MobileDevelopment]
+tags: [MobileDevelopment]
 comments: true
 share: true
 ---

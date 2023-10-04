@@ -3,7 +3,7 @@ layout: post
 title: "Adding audio filters and equalizers with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, filters, equalizers]
+tags: [audio, filters, equalizers]
 comments: true
 share: true
 ---

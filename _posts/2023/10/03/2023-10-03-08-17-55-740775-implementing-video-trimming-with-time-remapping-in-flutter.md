@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with time remapping in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

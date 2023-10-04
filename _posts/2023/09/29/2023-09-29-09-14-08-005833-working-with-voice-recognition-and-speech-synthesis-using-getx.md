@@ -3,7 +3,7 @@ layout: post
 title: "Working with voice recognition and speech synthesis using GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

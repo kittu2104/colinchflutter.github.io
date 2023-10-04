@@ -3,7 +3,7 @@ layout: post
 title: "useSliderState hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Hooks, Flutter, Hooks]
+tags: [Hooks, Flutter, Hooks]
 comments: true
 share: true
 ---

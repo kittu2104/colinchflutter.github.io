@@ -3,7 +3,7 @@ layout: post
 title: "Adding image recognition for animal species identification in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageRecognition]
+tags: [imageRecognition]
 comments: true
 share: true
 ---

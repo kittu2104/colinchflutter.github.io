@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio reverb and echo effects with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audioeffects]
+tags: [audioeffects]
 comments: true
 share: true
 ---

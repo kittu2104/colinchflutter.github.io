@@ -3,7 +3,7 @@ layout: post
 title: "Adding image recognition for plants and flowers in a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageRecognition, TensorFlowLite]
+tags: [ImageRecognition, TensorFlowLite]
 comments: true
 share: true
 ---

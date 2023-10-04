@@ -3,7 +3,7 @@ layout: post
 title: "Working with NFC functionality using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter]
+tags: []
 comments: true
 share: true
 ---

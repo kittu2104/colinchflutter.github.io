@@ -3,7 +3,7 @@ layout: post
 title: "Handling battery optimization and power management with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, powermanagement, batterysaving]
+tags: [workmanager, powermanagement, batterysaving]
 comments: true
 share: true
 ---

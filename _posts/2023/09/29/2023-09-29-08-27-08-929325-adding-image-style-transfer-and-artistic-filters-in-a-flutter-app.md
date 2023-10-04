@@ -3,7 +3,7 @@ layout: post
 title: "Adding image style transfer and artistic filters in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageProcessing]
+tags: [imageProcessing]
 comments: true
 share: true
 ---

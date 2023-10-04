@@ -3,7 +3,7 @@ layout: post
 title: "useRefreshIndicator hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Hooks, RefreshIndicator]
+tags: [Hooks, RefreshIndicator]
 comments: true
 share: true
 ---

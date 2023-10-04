@@ -3,7 +3,7 @@ layout: post
 title: "Canceling scheduled tasks with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, flutter, workmanager]
+tags: [workmanager, flutter, workmanager]
 comments: true
 share: true
 ---

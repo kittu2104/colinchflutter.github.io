@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for AR remote assistance and support"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, RemoteSupport]
+tags: [GetX, RemoteSupport]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for PDF generation and rendering in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, CodeGen]
+tags: [GetX, CodeGen]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Previewing and displaying the captured images in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imagepreview]
+tags: [imagepreview]
 comments: true
 share: true
 ---

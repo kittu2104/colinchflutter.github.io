@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery systemGestureInsets in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, systemGestureInsets]
+tags: [MediaQuery, systemGestureInsets]
 comments: true
 share: true
 ---

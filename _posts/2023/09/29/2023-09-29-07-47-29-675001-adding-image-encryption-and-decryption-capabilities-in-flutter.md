@@ -3,7 +3,7 @@ layout: post
 title: "Adding image encryption and decryption capabilities in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageEncryption]
+tags: [ImageEncryption]
 comments: true
 share: true
 ---

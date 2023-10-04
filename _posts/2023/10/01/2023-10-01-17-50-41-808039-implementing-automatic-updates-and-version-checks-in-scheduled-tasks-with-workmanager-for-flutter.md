@@ -3,7 +3,7 @@ layout: post
 title: "Implementing automatic updates and version checks in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, WorkManager]
+tags: [WorkManager]
 comments: true
 share: true
 ---

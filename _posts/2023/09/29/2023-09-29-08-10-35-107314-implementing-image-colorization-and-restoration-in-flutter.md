@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image colorization and restoration in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageColorization, ImageRestoration]
+tags: [ImageColorization, ImageRestoration]
 comments: true
 share: true
 ---

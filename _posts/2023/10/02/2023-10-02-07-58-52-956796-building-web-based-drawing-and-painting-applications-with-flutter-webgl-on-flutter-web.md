@@ -3,7 +3,7 @@ layout: post
 title: "Building web-based drawing and painting applications with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, drawingapp, flutterweb]
+tags: [webgl, drawingapp, flutterweb]
 comments: true
 share: true
 ---

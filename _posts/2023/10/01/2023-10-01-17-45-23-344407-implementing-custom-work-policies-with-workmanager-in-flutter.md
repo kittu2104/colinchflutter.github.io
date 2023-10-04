@@ -3,7 +3,7 @@ layout: post
 title: "Implementing custom work policies with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, backgroundprocessing, workmanager]
+tags: [backgroundprocessing, workmanager]
 comments: true
 share: true
 ---

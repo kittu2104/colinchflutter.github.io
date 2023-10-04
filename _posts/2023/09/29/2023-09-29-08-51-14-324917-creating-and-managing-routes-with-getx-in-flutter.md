@@ -3,7 +3,7 @@ layout: post
 title: "Creating and managing routes with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, routes, navigation]
+tags: [GetX, routes, navigation]
 comments: true
 share: true
 ---

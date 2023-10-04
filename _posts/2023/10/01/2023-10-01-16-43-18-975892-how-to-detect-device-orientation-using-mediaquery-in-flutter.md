@@ -3,7 +3,7 @@ layout: post
 title: "How to detect device orientation using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, devicelayout]
+tags: [devicelayout]
 comments: true
 share: true
 ---

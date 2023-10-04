@@ -3,7 +3,7 @@ layout: post
 title: "Working with AR meditation and relaxation apps using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, meditation, relaxation]
+tags: [GetX, meditation, relaxation]
 comments: true
 share: true
 ---

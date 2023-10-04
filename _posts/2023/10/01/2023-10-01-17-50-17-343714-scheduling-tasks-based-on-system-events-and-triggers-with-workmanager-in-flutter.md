@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks based on system events and triggers with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, backgroundtasks]
+tags: [backgroundtasks]
 comments: true
 share: true
 ---

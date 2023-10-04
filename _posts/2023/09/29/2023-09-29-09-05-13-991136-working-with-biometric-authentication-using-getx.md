@@ -3,7 +3,7 @@ layout: post
 title: "Working with biometric authentication using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, biometrics]
+tags: [biometrics]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Using real-time databases with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, Firebase]
+tags: [Firebase]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks on specific days of the week with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager]
+tags: [workmanager]
 comments: true
 share: true
 ---

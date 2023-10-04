@@ -3,7 +3,7 @@ layout: post
 title: "Implementing localization in Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL, Localization]
+tags: [WebGL, Localization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Trimming the video start point in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimming]
+tags: [VideoTrimming]
 comments: true
 share: true
 ---

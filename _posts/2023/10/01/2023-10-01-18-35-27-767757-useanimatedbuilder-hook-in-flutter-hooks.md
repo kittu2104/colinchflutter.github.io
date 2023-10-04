@@ -3,7 +3,7 @@ layout: post
 title: "useAnimatedBuilder hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [Flutter, FlutterHooks, AnimatedBuilder]
+tags: [FlutterHooks, AnimatedBuilder]
 comments: true
 share: true
 ---

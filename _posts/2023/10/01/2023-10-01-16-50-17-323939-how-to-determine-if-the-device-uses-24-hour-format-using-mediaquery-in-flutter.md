@@ -3,7 +3,7 @@ layout: post
 title: "How to determine if the device uses 24-hour format using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, TimeFormat]
+tags: [MediaQuery, TimeFormat]
 comments: true
 share: true
 ---

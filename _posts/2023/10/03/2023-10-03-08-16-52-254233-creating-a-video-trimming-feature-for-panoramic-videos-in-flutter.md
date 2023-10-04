@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming feature for panoramic videos in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimmer]
+tags: [VideoTrimmer]
 comments: true
 share: true
 ---

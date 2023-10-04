@@ -3,7 +3,7 @@ layout: post
 title: "useDrawer hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, flutterhooks, useDrawer]
+tags: [flutterhooks, useDrawer]
 comments: true
 share: true
 ---

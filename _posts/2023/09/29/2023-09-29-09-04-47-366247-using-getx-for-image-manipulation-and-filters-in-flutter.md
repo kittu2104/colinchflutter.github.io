@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for image manipulation and filters in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, imageManipulation, imageFilters]
+tags: [GetX, imageManipulation, imageFilters]
 comments: true
 share: true
 ---

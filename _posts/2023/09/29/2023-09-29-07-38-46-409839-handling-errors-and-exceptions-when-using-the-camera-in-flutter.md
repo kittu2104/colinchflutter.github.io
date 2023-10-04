@@ -3,7 +3,7 @@ layout: post
 title: "Handling errors and exceptions when using the camera in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, camera]
+tags: [camera]
 comments: true
 share: true
 ---

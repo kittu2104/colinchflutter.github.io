@@ -3,7 +3,7 @@ layout: post
 title: "How to make DELETE requests using the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, HTTPrequests]
+tags: [HTTPrequests]
 comments: true
 share: true
 ---

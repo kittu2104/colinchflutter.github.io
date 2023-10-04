@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming feature for time-lapse videos in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, TimeLapseVideo, VideoTrimming, FlutterDevelopment]
+tags: [TimeLapseVideo, VideoTrimming, FlutterDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image compression and quality settings for file size optimization in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageoptimization, filecompression]
+tags: [imageoptimization, filecompression]
 comments: true
 share: true
 ---

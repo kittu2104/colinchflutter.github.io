@@ -3,7 +3,7 @@ layout: post
 title: "Serializing and deserializing JSON with shared_preferences in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

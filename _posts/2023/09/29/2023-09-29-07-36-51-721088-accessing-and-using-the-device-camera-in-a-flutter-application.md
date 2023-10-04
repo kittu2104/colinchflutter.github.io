@@ -3,7 +3,7 @@ layout: post
 title: "Accessing and using the device camera in a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [Flutter, Camera]
+tags: [Camera]
 comments: true
 share: true
 ---

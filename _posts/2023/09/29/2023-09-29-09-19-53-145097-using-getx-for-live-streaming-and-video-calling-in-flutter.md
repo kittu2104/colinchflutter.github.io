@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for live streaming and video calling in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, LiveStreaming, VideoCalling]
+tags: [GetX, LiveStreaming, VideoCalling]
 comments: true
 share: true
 ---

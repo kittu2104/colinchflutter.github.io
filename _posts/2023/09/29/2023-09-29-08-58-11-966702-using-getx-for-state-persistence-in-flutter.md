@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for state persistence in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, statepersistence]
+tags: [statepersistence]
 comments: true
 share: true
 ---

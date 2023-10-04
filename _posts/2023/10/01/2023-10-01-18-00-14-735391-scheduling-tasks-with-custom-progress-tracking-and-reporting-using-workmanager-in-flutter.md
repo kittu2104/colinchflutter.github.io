@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks with custom progress tracking and reporting using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager]
+tags: [WorkManager]
 comments: true
 share: true
 ---

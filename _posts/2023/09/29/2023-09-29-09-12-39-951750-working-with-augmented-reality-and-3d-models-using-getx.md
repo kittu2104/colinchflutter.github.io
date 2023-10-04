@@ -3,7 +3,7 @@ layout: post
 title: "Working with augmented reality and 3D models using GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter]
+tags: []
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing face filters and AR effects with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, ARKit, FaceFilters, AREffects]
+tags: [GetX, ARKit, FaceFilters, AREffects]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with emotion recognition and sentiment analysis using GetX"
 description: " "
 date: 2023-09-29
-tags: [MachineLearning, Flutter]
+tags: [MachineLearning]
 comments: true
 share: true
 ---

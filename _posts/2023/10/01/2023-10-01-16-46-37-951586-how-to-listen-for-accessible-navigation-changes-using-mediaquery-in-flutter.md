@@ -3,7 +3,7 @@ layout: post
 title: "How to listen for accessible navigation changes using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Accessibility]
+tags: [Accessibility]
 comments: true
 share: true
 ---

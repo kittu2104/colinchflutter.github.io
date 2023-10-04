@@ -3,7 +3,7 @@ layout: post
 title: "Adding image comparison and similarity analysis in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, imagecomparison]
+tags: [imagecomparison]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image stitching and panorama creation in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageStitching]
+tags: [ImageStitching]
 comments: true
 share: true
 ---

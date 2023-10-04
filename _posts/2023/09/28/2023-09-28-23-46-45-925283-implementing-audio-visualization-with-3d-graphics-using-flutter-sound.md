@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio visualization with 3D graphics using Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audiosoundvisualization]
+tags: [audiosoundvisualization]
 comments: true
 share: true
 ---

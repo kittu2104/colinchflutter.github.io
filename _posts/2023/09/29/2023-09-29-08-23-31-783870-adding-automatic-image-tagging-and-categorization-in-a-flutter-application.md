@@ -3,7 +3,7 @@ layout: post
 title: "Adding automatic image tagging and categorization in a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

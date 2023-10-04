@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery insets in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MobileDevelopment]
+tags: [MobileDevelopment]
 comments: true
 share: true
 ---

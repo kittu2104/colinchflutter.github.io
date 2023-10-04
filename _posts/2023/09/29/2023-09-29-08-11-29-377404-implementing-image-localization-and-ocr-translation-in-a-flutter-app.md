@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image localization and OCR translation in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, Localization, Translation]
+tags: [Localization, Translation]
 comments: true
 share: true
 ---

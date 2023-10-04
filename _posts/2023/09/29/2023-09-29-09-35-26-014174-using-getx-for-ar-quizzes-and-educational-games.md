@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for AR quizzes and educational games"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, EducationalGames, AugmentedReality]
+tags: [GetX, EducationalGames, AugmentedReality]
 comments: true
 share: true
 ---

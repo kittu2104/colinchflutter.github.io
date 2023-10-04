@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to Flutter Camera & Image Picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, camera, imagepicker]
+tags: [camera, imagepicker]
 comments: true
 share: true
 ---

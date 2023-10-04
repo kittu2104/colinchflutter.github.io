@@ -3,7 +3,7 @@ layout: post
 title: "Working with AR objects and animations using GetX"
 description: " "
 date: 2023-09-29
-tags: [GetX, AugmentedReality, Flutter]
+tags: [GetX, AugmentedReality]
 comments: true
 share: true
 ---

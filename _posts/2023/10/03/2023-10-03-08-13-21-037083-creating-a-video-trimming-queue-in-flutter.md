@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming queue in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoTrimming, appDevelopment]
+tags: [videoTrimming, appDevelopment]
 comments: true
 share: true
 ---

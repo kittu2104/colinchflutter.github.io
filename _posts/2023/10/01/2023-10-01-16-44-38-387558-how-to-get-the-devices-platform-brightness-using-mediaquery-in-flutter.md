@@ -3,7 +3,7 @@ layout: post
 title: "How to get the device's platform brightness using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, brightness]
+tags: [brightness]
 comments: true
 share: true
 ---

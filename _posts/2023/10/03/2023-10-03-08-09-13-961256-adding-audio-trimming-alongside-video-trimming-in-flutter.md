@@ -3,7 +3,7 @@ layout: post
 title: "Adding audio trimming alongside video trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, audio, video, trimming, FlutterDevelopment]
+tags: [audio, video, trimming, FlutterDevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Compatibility of Flutter WebGL with different web browsers"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL_]
+tags: [WebGL_]
 comments: true
 share: true
 ---

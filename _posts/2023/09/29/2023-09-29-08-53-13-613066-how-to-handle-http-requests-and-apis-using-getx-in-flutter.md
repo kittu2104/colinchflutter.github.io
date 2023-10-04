@@ -3,7 +3,7 @@ layout: post
 title: "How to handle HTTP requests and APIs using GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, FlutterDevelopment, APIIntegration, HTTPRequests]
+tags: [GetX, FlutterDevelopment, APIIntegration, HTTPRequests]
 comments: true
 share: true
 ---

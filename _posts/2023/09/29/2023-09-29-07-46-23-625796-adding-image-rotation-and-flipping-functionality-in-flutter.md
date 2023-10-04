@@ -3,7 +3,7 @@ layout: post
 title: "Adding image rotation and flipping functionality in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, image, image]
+tags: [image, image]
 comments: true
 share: true
 ---

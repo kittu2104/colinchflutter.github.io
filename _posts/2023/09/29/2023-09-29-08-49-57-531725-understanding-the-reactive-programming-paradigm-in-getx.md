@@ -3,7 +3,7 @@ layout: post
 title: "Understanding the reactive programming paradigm in GetX"
 description: " "
 date: 2023-09-29
-tags: [reactiveprogramming, GetX, Flutter]
+tags: [reactiveprogramming, GetX]
 comments: true
 share: true
 ---

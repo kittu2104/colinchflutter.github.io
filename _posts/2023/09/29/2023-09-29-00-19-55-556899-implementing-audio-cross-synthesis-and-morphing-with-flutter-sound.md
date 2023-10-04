@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio cross-synthesis and morphing with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, sounddesign, musicproduction]
+tags: [audio, sounddesign, musicproduction]
 comments: true
 share: true
 ---

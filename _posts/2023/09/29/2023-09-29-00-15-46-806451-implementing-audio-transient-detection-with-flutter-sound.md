@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio transient detection with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, transient, detection]
+tags: [audio, transient, detection]
 comments: true
 share: true
 ---

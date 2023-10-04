@@ -3,7 +3,7 @@ layout: post
 title: "How to handle WebSockets with http requests using the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, WebSockets]
+tags: [WebSockets]
 comments: true
 share: true
 ---

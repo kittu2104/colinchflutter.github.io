@@ -3,7 +3,7 @@ layout: post
 title: "Using the Android AlarmManager with WorkManager for scheduled tasks in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Android]
+tags: [Android]
 comments: true
 share: true
 ---

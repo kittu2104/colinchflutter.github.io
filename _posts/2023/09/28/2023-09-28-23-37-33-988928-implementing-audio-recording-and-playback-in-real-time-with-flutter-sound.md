@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recording and playback in real-time with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, flutterdev]
+tags: [flutterdev]
 comments: true
 share: true
 ---

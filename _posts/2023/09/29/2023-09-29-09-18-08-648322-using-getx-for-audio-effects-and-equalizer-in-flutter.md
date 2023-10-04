@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for audio effects and equalizer in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, audioProcessing, equalizer]
+tags: [GetX, audioProcessing, equalizer]
 comments: true
 share: true
 ---

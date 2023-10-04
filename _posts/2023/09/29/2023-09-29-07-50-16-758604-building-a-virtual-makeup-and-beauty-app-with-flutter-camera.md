@@ -3,7 +3,7 @@ layout: post
 title: "Building a virtual makeup and beauty app with Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, makeupapp]
+tags: [makeupapp]
 comments: true
 share: true
 ---

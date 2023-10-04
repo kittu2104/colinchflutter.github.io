@@ -3,7 +3,7 @@ layout: post
 title: "How to handle errors and exceptions in the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, ErrorHandling]
+tags: [ErrorHandling]
 comments: true
 share: true
 ---

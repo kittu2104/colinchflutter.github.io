@@ -3,7 +3,7 @@ layout: post
 title: "Building real-time chat applications with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

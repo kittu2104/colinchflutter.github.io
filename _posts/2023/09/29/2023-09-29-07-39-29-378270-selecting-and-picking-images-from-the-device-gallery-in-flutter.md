@@ -3,7 +3,7 @@ layout: post
 title: "Selecting and picking images from the device gallery in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImagePicker]
+tags: [ImagePicker]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with real-time updates and websockets in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager, Websockets, RealTimeUpdates]
+tags: [WorkManager, Websockets, RealTimeUpdates]
 comments: true
 share: true
 ---

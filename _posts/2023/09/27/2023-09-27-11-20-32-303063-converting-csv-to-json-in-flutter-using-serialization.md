@@ -3,7 +3,7 @@ layout: post
 title: "Converting CSV to JSON in Flutter using serialization"
 description: " "
 date: 2023-09-27
-tags: [Flutter, CSVtoJSON]
+tags: [CSVtoJSON]
 comments: true
 share: true
 ---

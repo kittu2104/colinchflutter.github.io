@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks based on user interactions with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, WorkManager, backgroundtasks, FlutterDevelopment]
+tags: [WorkManager, backgroundtasks, FlutterDevelopment]
 comments: true
 share: true
 ---

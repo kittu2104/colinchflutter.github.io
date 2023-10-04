@@ -3,7 +3,7 @@ layout: post
 title: "Working with location updates in scheduled tasks using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager, LocationUpdates]
+tags: [WorkManager, LocationUpdates]
 comments: true
 share: true
 ---

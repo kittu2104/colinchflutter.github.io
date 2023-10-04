@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with simultaneous preview in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting, flutterdevelopment]
+tags: [videoediting, flutterdevelopment]
 comments: true
 share: true
 ---

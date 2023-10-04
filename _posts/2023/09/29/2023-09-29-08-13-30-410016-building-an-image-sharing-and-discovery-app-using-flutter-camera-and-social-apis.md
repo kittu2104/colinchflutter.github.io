@@ -3,7 +3,7 @@ layout: post
 title: "Building an image sharing and discovery app using Flutter camera and social APIs"
 description: " "
 date: 2023-09-29
-tags: [flutter, appdevelopment]
+tags: [appdevelopment]
 comments: true
 share: true
 ---

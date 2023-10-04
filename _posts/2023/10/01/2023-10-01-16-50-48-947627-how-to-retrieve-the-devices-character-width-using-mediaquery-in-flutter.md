@@ -3,7 +3,7 @@ layout: post
 title: "How to retrieve the device's character width using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, mediquery]
+tags: [mediquery]
 comments: true
 share: true
 ---

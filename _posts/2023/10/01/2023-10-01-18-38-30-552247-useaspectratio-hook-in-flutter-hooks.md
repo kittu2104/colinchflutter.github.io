@@ -3,7 +3,7 @@ layout: post
 title: "useAspectRatio hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, flutterhooks, aspectratio, widget]
+tags: [flutterhooks, aspectratio, widget]
 comments: true
 share: true
 ---

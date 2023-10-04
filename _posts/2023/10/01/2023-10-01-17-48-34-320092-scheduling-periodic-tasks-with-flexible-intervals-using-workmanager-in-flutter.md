@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling periodic tasks with flexible intervals using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager]
+tags: [WorkManager]
 comments: true
 share: true
 ---

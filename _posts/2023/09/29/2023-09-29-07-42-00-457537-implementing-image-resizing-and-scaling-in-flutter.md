@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image resizing and scaling in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageScaling]
+tags: [ImageScaling]
 comments: true
 share: true
 ---

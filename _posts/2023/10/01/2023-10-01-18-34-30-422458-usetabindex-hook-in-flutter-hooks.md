@@ -3,7 +3,7 @@ layout: post
 title: "useTabIndex hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, flutterhooks, useTabIndex]
+tags: [flutterhooks, useTabIndex]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with databases and local storage in Flutter using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, database, localstorage]
+tags: [GetX, database, localstorage]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to listen for system UI mode changes using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, SystemUIModeChanges]
+tags: [SystemUIModeChanges]
 comments: true
 share: true
 ---

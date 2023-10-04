@@ -3,7 +3,7 @@ layout: post
 title: "Adding keyboard shortcuts for video trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, keyboardshortcuts]
+tags: [keyboardshortcuts]
 comments: true
 share: true
 ---

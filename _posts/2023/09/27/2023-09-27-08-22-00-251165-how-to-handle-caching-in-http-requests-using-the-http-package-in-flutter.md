@@ -3,7 +3,7 @@ layout: post
 title: "How to handle caching in http requests using the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, Caching]
+tags: [Caching]
 comments: true
 share: true
 ---

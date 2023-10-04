@@ -3,7 +3,7 @@ layout: post
 title: "Implementing in-app purchases and subscriptions with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, inAppPurchases, subscriptions]
+tags: [GetX, inAppPurchases, subscriptions]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Advantages of using Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL]
+tags: [WebGL]
 comments: true
 share: true
 ---

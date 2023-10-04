@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with adjustable aspect ratio in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming, aspectratio]
+tags: [videotrimming, aspectratio]
 comments: true
 share: true
 ---

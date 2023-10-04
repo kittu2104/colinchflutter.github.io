@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery textScaleFactor in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, textScaleFactor]
+tags: [textScaleFactor]
 comments: true
 share: true
 ---

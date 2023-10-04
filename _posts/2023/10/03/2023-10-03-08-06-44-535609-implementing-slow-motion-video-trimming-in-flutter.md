@@ -3,7 +3,7 @@ layout: post
 title: "Implementing slow-motion video trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, slowmotion]
+tags: [slowmotion]
 comments: true
 share: true
 ---

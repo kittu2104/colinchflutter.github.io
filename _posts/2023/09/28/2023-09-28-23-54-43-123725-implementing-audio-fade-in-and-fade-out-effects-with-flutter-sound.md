@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio fade-in and fade-out effects with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audioeffects]
+tags: [audioeffects]
 comments: true
 share: true
 ---

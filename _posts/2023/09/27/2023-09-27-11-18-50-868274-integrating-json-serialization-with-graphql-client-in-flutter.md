@@ -3,7 +3,7 @@ layout: post
 title: "Integrating JSON serialization with GraphQL client in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, GraphQL]
+tags: [GraphQL]
 comments: true
 share: true
 ---

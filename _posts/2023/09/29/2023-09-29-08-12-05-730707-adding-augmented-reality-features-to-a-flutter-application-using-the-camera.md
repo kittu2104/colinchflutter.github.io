@@ -3,7 +3,7 @@ layout: post
 title: "Adding augmented reality features to a Flutter application using the camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, augmentedreality]
+tags: [augmentedreality]
 comments: true
 share: true
 ---

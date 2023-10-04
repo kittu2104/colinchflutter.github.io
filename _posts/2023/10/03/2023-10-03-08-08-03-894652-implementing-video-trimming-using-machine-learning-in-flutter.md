@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming using machine learning in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, machinelearning]
+tags: [machinelearning]
 comments: true
 share: true
 ---

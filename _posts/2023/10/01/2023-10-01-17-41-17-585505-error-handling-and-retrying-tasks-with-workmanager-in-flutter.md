@@ -3,7 +3,7 @@ layout: post
 title: "Error handling and retrying tasks with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, errorhandling, retry]
+tags: [workmanager, errorhandling, retry]
 comments: true
 share: true
 ---

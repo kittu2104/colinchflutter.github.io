@@ -3,7 +3,7 @@ layout: post
 title: "Adding metadata extraction during video trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming, metadataextraction]
+tags: [videotrimming, metadataextraction]
 comments: true
 share: true
 ---

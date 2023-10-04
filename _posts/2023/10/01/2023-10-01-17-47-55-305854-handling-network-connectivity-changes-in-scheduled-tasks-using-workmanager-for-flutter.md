@@ -3,7 +3,7 @@ layout: post
 title: "Handling network connectivity changes in scheduled tasks using WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager]
+tags: [WorkManager]
 comments: true
 share: true
 ---

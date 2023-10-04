@@ -3,7 +3,7 @@ layout: post
 title: "Adding custom video thumbnail selection during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming, customthumbnail, FlutterDevelopment]
+tags: [videotrimming, customthumbnail, FlutterDevelopment]
 comments: true
 share: true
 ---

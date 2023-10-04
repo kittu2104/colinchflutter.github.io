@@ -3,7 +3,7 @@ layout: post
 title: "Building a photo slideshow app with automatic image transition in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, photoslideshow, appdevelopment]
+tags: [photoslideshow, appdevelopment]
 comments: true
 share: true
 ---

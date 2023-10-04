@@ -3,7 +3,7 @@ layout: post
 title: "Setting up the Flutter environment for camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, camera]
+tags: [camera]
 comments: true
 share: true
 ---

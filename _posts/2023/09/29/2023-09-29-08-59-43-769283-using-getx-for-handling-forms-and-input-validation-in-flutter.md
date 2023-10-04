@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for handling forms and input validation in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, formhandling, inputvalidation, flutterdevelopment]
+tags: [GetX, formhandling, inputvalidation, flutterdevelopment]
 comments: true
 share: true
 ---

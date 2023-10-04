@@ -3,7 +3,7 @@ layout: post
 title: "Creating a face swap app using the device camera in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, faceswap]
+tags: [faceswap]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to add headers to http requests in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, HTTPRequests]
+tags: [HTTPRequests]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio vocal removal with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, flutterSound]
+tags: [flutterSound]
 comments: true
 share: true
 ---

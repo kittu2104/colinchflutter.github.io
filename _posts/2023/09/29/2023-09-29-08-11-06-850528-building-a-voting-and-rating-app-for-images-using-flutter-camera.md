@@ -3,7 +3,7 @@ layout: post
 title: "Building a voting and rating app for images using Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, fluttercamera]
+tags: [fluttercamera]
 comments: true
 share: true
 ---

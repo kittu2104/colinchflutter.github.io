@@ -3,7 +3,7 @@ layout: post
 title: "How to handle state management while making http requests in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, StateManagement]
+tags: [StateManagement]
 comments: true
 share: true
 ---

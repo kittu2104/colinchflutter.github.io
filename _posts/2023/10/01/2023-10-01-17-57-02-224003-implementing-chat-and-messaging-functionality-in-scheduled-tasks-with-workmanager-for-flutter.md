@@ -3,7 +3,7 @@ layout: post
 title: "Implementing chat and messaging functionality in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager]
+tags: [WorkManager]
 comments: true
 share: true
 ---

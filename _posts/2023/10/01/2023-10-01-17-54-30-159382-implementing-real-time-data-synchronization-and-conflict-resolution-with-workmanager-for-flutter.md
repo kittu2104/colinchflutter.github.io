@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time data synchronization and conflict resolution with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, RealTimeSync]
+tags: [RealTimeSync]
 comments: true
 share: true
 ---

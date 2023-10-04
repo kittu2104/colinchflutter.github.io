@@ -3,7 +3,7 @@ layout: post
 title: "Handling error responses in JSON serialization with Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSONSerialization]
+tags: [JSONSerialization]
 comments: true
 share: true
 ---

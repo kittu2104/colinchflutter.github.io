@@ -3,7 +3,7 @@ layout: post
 title: "Implementing offline speech recognition and voice commands in WorkManager tasks for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, speechrecognition, voicerecognition, workmanager]
+tags: [speechrecognition, voicerecognition, workmanager]
 comments: true
 share: true
 ---

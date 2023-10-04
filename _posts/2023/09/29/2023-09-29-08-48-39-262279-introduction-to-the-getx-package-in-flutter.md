@@ -3,7 +3,7 @@ layout: post
 title: "Introduction to the GetX package in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, stateManagement, FlutterPackage]
+tags: [GetX, stateManagement, FlutterPackage]
 comments: true
 share: true
 ---

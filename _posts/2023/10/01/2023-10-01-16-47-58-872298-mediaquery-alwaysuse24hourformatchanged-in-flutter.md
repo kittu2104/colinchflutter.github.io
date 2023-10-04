@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery alwaysUse24HourFormatChanged in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, MediaQuery]
+tags: [MediaQuery]
 comments: true
 share: true
 ---

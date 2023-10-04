@@ -3,7 +3,7 @@ layout: post
 title: "Adding video denoising during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videodenoising]
+tags: [videodenoising]
 comments: true
 share: true
 ---

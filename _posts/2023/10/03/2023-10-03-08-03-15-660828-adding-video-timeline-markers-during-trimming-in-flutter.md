@@ -3,7 +3,7 @@ layout: post
 title: "Adding video timeline markers during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoEditing]
+tags: [VideoEditing]
 comments: true
 share: true
 ---

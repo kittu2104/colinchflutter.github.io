@@ -3,7 +3,7 @@ layout: post
 title: "Adding a video trimming control panel in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, video, trimming, controlpanel]
+tags: [video, trimming, controlpanel]
 comments: true
 share: true
 ---

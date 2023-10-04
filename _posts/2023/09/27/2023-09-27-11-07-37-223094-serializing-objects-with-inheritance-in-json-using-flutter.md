@@ -3,7 +3,7 @@ layout: post
 title: "Serializing objects with inheritance in JSON using Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSON]
+tags: [JSON]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing OCR and text recognition in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, textrecognition]
+tags: [workmanager, textrecognition]
 comments: true
 share: true
 ---

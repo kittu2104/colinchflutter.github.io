@@ -3,7 +3,7 @@ layout: post
 title: "Customizing camera settings and options in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, CameraPlugin]
+tags: [CameraPlugin]
 comments: true
 share: true
 ---

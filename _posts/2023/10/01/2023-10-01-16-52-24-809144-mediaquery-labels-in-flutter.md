@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery labels in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, responsiveUI]
+tags: [responsiveUI]
 comments: true
 share: true
 ---

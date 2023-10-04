@@ -3,7 +3,7 @@ layout: post
 title: "Working with Bluetooth and IoT connectivity using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, Bluetooth, GetX]
+tags: [Bluetooth, GetX]
 comments: true
 share: true
 ---

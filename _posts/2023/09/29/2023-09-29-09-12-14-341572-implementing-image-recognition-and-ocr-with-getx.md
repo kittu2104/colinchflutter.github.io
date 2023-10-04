@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image recognition and OCR with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, imageRecognition]
+tags: [GetX, imageRecognition]
 comments: true
 share: true
 ---

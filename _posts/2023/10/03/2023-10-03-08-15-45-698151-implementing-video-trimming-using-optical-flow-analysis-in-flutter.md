@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming using optical flow analysis in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting, opticalflow, flutter_opencv]
+tags: [videoediting, opticalflow, flutter_opencv]
 comments: true
 share: true
 ---

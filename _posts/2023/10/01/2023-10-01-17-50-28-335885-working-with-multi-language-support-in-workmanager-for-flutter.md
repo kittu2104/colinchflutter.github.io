@@ -3,7 +3,7 @@ layout: post
 title: "Working with multi-language support in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, localization]
+tags: [localization]
 comments: true
 share: true
 ---

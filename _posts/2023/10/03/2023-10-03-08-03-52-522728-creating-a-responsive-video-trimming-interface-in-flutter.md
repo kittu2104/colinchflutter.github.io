@@ -3,7 +3,7 @@ layout: post
 title: "Creating a responsive video trimming interface in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoplayer, videoediting]
+tags: [videoplayer, videoediting]
 comments: true
 share: true
 ---

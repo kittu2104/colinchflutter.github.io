@@ -3,7 +3,7 @@ layout: post
 title: "Using the image_picker package for image selection in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImagePicker, FlutterPackages]
+tags: [ImagePicker, FlutterPackages]
 comments: true
 share: true
 ---

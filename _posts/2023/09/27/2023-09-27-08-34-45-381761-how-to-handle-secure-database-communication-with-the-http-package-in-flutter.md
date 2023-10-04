@@ -3,7 +3,7 @@ layout: post
 title: "How to handle secure database communication with the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, DatabaseSecurity]
+tags: [DatabaseSecurity]
 comments: true
 share: true
 ---

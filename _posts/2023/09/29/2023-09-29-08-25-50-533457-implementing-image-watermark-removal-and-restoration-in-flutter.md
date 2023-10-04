@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image watermark removal and restoration in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, image]
+tags: [image]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to handle secure data backups with the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, DataBackups]
+tags: [DataBackups]
 comments: true
 share: true
 ---

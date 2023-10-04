@@ -3,7 +3,7 @@ layout: post
 title: "Implementing barcode scanning using the device camera in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, BarcodeScanning]
+tags: [BarcodeScanning]
 comments: true
 share: true
 ---

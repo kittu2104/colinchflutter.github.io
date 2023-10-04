@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio gapless playback with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audioengineering]
+tags: [audioengineering]
 comments: true
 share: true
 ---

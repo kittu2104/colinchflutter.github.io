@@ -3,7 +3,7 @@ layout: post
 title: "How to handle two-factor authentication using the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, TwoFactorAuthentication]
+tags: [TwoFactorAuthentication]
 comments: true
 share: true
 ---

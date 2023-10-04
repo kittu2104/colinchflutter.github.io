@@ -3,7 +3,7 @@ layout: post
 title: "Adding filter and effects presets for image editing in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageediting, filters, effects]
+tags: [imageediting, filters, effects]
 comments: true
 share: true
 ---

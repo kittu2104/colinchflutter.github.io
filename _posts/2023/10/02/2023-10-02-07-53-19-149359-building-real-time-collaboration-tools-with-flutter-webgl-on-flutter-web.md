@@ -3,7 +3,7 @@ layout: post
 title: "Building real-time collaboration tools with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, flutterweb, collaboration]
+tags: [webgl, flutterweb, collaboration]
 comments: true
 share: true
 ---

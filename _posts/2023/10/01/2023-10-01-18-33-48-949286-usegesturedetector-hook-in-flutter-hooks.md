@@ -3,7 +3,7 @@ layout: post
 title: "useGestureDetector hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, hooks]
+tags: [hooks]
 comments: true
 share: true
 ---

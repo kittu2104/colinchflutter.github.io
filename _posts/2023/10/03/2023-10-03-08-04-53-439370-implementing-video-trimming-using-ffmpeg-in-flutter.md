@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming using FFmpeg in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, ffmpeg]
+tags: [ffmpeg]
 comments: true
 share: true
 ---

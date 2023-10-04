@@ -3,7 +3,7 @@ layout: post
 title: "Building responsive image galleries with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, imagegallery, responsive]
+tags: [imagegallery, responsive]
 comments: true
 share: true
 ---

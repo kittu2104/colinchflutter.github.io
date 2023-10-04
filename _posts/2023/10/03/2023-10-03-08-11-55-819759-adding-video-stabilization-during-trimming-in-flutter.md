@@ -3,7 +3,7 @@ layout: post
 title: "Adding video stabilization during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting, stabilization]
+tags: [videoediting, stabilization]
 comments: true
 share: true
 ---

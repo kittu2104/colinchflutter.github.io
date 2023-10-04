@@ -3,7 +3,7 @@ layout: post
 title: "Integrating video trimming with other video editing features in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming, videoediting]
+tags: [videotrimming, videoediting]
 comments: true
 share: true
 ---

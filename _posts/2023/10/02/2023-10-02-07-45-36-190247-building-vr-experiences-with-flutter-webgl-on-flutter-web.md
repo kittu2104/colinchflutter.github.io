@@ -3,7 +3,7 @@ layout: post
 title: "Building VR experiences with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL, VirtualReality, WebDevelopment]
+tags: [WebGL, VirtualReality, WebDevelopment]
 comments: true
 share: true
 ---

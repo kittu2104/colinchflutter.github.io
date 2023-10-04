@@ -3,7 +3,7 @@ layout: post
 title: "Adding video rotation and flipping during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

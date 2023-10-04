@@ -3,7 +3,7 @@ layout: post
 title: "Building real-time collaborative experiences with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl]
+tags: [webgl]
 comments: true
 share: true
 ---

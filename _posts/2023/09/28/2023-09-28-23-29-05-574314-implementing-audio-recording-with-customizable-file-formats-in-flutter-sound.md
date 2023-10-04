@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recording with customizable file formats in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audiostreaming]
+tags: [audiostreaming]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks in the background at low priority using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, backgroundtasks, workmanager]
+tags: [backgroundtasks, workmanager]
 comments: true
 share: true
 ---

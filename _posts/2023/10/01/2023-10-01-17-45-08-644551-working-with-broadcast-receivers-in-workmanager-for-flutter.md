@@ -3,7 +3,7 @@ layout: post
 title: "Working with broadcast receivers in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, broadcastreceivers, workmanager, flutterdevelopment]
+tags: [broadcastreceivers, workmanager, flutterdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to use MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, ResponsiveUI]
+tags: [ResponsiveUI]
 comments: true
 share: true
 ---

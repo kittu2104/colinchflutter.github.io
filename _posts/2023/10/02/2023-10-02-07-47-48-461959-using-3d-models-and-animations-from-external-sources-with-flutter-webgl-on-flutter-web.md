@@ -3,7 +3,7 @@ layout: post
 title: "Using 3D models and animations from external sources with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl]
+tags: [webgl]
 comments: true
 share: true
 ---

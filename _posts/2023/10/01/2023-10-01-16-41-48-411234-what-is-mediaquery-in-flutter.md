@@ -3,7 +3,7 @@ layout: post
 title: "What is MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery]
+tags: [MediaQuery]
 comments: true
 share: true
 ---

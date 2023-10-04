@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recording with audio visualization using Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, visualization, flutter]
+tags: [audio, visualization]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery platformBrightness in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, platformBrightness]
+tags: [MediaQuery, platformBrightness]
 comments: true
 share: true
 ---

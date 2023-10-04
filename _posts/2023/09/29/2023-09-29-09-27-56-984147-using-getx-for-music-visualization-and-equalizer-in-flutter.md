@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for music visualization and equalizer in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, MusicVisualization, Equalizer]
+tags: [GetX, MusicVisualization, Equalizer]
 comments: true
 share: true
 ---

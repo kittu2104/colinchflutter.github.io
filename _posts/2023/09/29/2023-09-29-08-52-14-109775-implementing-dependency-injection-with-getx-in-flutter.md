@@ -3,7 +3,7 @@ layout: post
 title: "Implementing dependency injection with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, DependencyInjection]
+tags: [GetX, DependencyInjection]
 comments: true
 share: true
 ---

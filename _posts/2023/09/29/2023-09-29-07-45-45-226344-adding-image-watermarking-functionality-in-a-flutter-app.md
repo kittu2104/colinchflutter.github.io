@@ -3,7 +3,7 @@ layout: post
 title: "Adding image watermarking functionality in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, watermarking]
+tags: [watermarking]
 comments: true
 share: true
 ---

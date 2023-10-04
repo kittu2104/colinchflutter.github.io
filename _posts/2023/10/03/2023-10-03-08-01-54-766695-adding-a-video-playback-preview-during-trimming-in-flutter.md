@@ -3,7 +3,7 @@ layout: post
 title: "Adding a video playback preview during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoplayback, trimming, flutterdevelopment]
+tags: [videoplayback, trimming, flutterdevelopment]
 comments: true
 share: true
 ---

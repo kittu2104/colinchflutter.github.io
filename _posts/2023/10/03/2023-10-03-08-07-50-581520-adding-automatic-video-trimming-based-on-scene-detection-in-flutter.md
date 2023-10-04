@@ -3,7 +3,7 @@ layout: post
 title: "Adding automatic video trimming based on scene detection in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming, fluttertutorial]
+tags: [videotrimming, fluttertutorial]
 comments: true
 share: true
 ---

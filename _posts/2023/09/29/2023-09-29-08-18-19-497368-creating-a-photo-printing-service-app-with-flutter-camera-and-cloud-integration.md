@@ -3,7 +3,7 @@ layout: post
 title: "Creating a photo printing service app with Flutter camera and cloud integration"
 description: " "
 date: 2023-09-29
-tags: [flutter, photoPrinting, appDevelopment]
+tags: [photoPrinting, appDevelopment]
 comments: true
 share: true
 ---

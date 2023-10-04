@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spatialization with HRTF (Head-Related Transfer Function) in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, HRTF]
+tags: [HRTF]
 comments: true
 share: true
 ---

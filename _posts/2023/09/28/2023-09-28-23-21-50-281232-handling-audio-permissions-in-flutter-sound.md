@@ -3,7 +3,7 @@ layout: post
 title: "Handling audio permissions in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, permissions]
+tags: [audio, permissions]
 comments: true
 share: true
 ---

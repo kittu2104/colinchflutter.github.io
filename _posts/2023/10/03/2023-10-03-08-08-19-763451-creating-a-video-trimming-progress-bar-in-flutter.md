@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming progress bar in Flutter"
 description: " "
 date: 2023-10-03
-tags: [Flutter, VideoTrimming, ProgressBar]
+tags: [VideoTrimming, ProgressBar]
 comments: true
 share: true
 ---

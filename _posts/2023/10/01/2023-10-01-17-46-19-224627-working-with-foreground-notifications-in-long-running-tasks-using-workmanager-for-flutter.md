@@ -3,7 +3,7 @@ layout: post
 title: "Working with foreground notifications in long-running tasks using WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, backgroundtasks]
+tags: [backgroundtasks]
 comments: true
 share: true
 ---

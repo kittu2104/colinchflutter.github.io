@@ -3,7 +3,7 @@ layout: post
 title: "How to get device width using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, mediadevice]
+tags: [mediadevice]
 comments: true
 share: true
 ---

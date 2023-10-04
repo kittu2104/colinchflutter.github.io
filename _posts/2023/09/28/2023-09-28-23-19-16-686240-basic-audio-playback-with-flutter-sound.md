@@ -3,7 +3,7 @@ layout: post
 title: "Basic audio playback with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, flutterdevelopment]
+tags: [audio, flutterdevelopment]
 comments: true
 share: true
 ---

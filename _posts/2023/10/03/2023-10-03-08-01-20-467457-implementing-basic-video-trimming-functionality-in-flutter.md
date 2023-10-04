@@ -3,7 +3,7 @@ layout: post
 title: "Implementing basic video trimming functionality in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoTrimming]
+tags: [videoTrimming]
 comments: true
 share: true
 ---

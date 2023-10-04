@@ -3,7 +3,7 @@ layout: post
 title: "Implementing 360-degree video and image viewing with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, 360degree, flutterweb]
+tags: [webgl, 360degree, flutterweb]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data deduplication and duplicate removal in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, deduplication, duplicate]
+tags: [workmanager, deduplication, duplicate]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time functionality with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

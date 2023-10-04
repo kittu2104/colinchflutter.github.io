@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming feature for burst photos in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, video]
+tags: [video]
 comments: true
 share: true
 ---

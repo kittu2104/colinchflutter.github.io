@@ -3,7 +3,7 @@ layout: post
 title: "Handling background processing with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, backgroundprocessing]
+tags: [backgroundprocessing]
 comments: true
 share: true
 ---

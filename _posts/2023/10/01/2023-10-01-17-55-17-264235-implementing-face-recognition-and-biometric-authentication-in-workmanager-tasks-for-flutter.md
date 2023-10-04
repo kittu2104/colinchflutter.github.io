@@ -3,7 +3,7 @@ layout: post
 title: "Implementing face recognition and biometric authentication in WorkManager tasks for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, biometricauthentication]
+tags: [biometricauthentication]
 comments: true
 share: true
 ---

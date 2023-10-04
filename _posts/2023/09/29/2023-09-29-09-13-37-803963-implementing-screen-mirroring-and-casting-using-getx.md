@@ -3,7 +3,7 @@ layout: post
 title: "Implementing screen mirroring and casting using GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, ScreenMirroring, Casting]
+tags: [GetX, ScreenMirroring, Casting]
 comments: true
 share: true
 ---

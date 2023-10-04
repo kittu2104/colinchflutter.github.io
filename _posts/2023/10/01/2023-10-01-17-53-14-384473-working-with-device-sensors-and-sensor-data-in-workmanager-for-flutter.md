@@ -3,7 +3,7 @@ layout: post
 title: "Working with device sensors and sensor data in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, device, sensor]
+tags: [workmanager, device, sensor]
 comments: true
 share: true
 ---

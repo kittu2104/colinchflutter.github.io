@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image blurring and pixelation in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, flutterdev, imageblurring, pixelation, imagemanipulation]
+tags: [flutterdev, imageblurring, pixelation, imagemanipulation]
 comments: true
 share: true
 ---

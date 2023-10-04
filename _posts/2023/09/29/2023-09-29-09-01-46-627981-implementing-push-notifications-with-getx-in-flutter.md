@@ -3,7 +3,7 @@ layout: post
 title: "Implementing push notifications with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, PushNotifications]
+tags: [GetX, PushNotifications]
 comments: true
 share: true
 ---

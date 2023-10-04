@@ -3,7 +3,7 @@ layout: post
 title: "Working with content providers and data sharing in WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, contentproviders]
+tags: [contentproviders]
 comments: true
 share: true
 ---

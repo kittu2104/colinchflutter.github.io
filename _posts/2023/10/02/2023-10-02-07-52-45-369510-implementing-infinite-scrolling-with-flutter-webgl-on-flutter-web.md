@@ -3,7 +3,7 @@ layout: post
 title: "Implementing infinite scrolling with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, infinite, flutter]
+tags: [infinite]
 comments: true
 share: true
 ---

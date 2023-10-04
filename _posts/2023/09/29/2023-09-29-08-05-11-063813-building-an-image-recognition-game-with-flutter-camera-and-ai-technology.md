@@ -3,7 +3,7 @@ layout: post
 title: "Building an image recognition game with Flutter camera and AI technology"
 description: " "
 date: 2023-09-29
-tags: [flutter, camera]
+tags: [camera]
 comments: true
 share: true
 ---

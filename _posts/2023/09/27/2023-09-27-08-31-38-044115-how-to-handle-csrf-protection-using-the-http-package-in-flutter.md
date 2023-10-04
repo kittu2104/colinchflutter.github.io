@@ -3,7 +3,7 @@ layout: post
 title: "How to handle CSRF protection using the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, CSRFProtection]
+tags: [CSRFProtection]
 comments: true
 share: true
 ---

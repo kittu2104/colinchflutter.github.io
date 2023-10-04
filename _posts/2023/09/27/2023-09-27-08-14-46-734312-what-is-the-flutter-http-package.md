@@ -3,7 +3,7 @@ layout: post
 title: "What is the Flutter http package?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, HTTP]
+tags: [HTTP]
 comments: true
 share: true
 ---

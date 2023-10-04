@@ -3,7 +3,7 @@ layout: post
 title: "How to use GetX for state management in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, StateManagement]
+tags: [GetX, StateManagement]
 comments: true
 share: true
 ---

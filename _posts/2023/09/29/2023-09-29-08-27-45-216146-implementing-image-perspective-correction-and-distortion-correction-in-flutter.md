@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image perspective correction and distortion correction in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageCorrection]
+tags: [ImageCorrection]
 comments: true
 share: true
 ---

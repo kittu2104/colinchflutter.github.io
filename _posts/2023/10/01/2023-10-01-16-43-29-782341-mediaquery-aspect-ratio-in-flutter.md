@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery aspect ratio in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, AspectRatio]
+tags: [MediaQuery, AspectRatio]
 comments: true
 share: true
 ---

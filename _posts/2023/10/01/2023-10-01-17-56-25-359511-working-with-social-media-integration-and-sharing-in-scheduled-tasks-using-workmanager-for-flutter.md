@@ -3,7 +3,7 @@ layout: post
 title: "Working with social media integration and sharing in scheduled tasks using WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, SocialMediaIntegration]
+tags: [SocialMediaIntegration]
 comments: true
 share: true
 ---

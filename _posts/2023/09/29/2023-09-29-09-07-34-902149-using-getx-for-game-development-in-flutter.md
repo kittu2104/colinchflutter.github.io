@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for game development in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GameDevelopment]
+tags: [GameDevelopment]
 comments: true
 share: true
 ---

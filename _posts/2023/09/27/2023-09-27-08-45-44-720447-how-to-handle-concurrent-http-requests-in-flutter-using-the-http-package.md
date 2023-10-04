@@ -3,7 +3,7 @@ layout: post
 title: "How to handle concurrent http requests in Flutter using the http package."
 description: " "
 date: 2023-09-27
-tags: [Flutter, HTTPRequests]
+tags: [HTTPRequests]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery data in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, AppDevelopment]
+tags: [MediaQuery, AppDevelopment]
 comments: true
 share: true
 ---

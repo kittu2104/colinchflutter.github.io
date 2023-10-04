@@ -3,7 +3,7 @@ layout: post
 title: "How to get the device's pixel ratio using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, mediaquery]
+tags: [mediaquery]
 comments: true
 share: true
 ---

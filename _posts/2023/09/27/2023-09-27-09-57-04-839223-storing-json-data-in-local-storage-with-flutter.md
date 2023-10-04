@@ -3,7 +3,7 @@ layout: post
 title: "Storing JSON data in local storage with Flutter"
 description: " "
 date: 2023-09-27
-tags: [json, Flutter]
+tags: [json]
 comments: true
 share: true
 ---

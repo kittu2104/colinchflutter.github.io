@@ -3,7 +3,7 @@ layout: post
 title: "Implementing document scanning and OCR with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, document_scanning]
+tags: [document_scanning]
 comments: true
 share: true
 ---

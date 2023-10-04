@@ -3,7 +3,7 @@ layout: post
 title: "Implementing JSON serialization with the provider package in Flutter"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSONSerialization]
+tags: [JSONSerialization]
 comments: true
 share: true
 ---

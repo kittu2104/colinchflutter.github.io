@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery accessibleNavigation in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Accessibility, Flutter]
+tags: [Accessibility]
 comments: true
 share: true
 ---

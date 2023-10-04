@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio splitting with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, fluttersound]
+tags: [audio, fluttersound]
 comments: true
 share: true
 ---

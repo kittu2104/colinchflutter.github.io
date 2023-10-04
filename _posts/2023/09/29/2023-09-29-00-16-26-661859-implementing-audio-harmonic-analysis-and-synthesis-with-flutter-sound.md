@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio harmonic analysis and synthesis with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, synthesis, analysis]
+tags: [audio, synthesis, analysis]
 comments: true
 share: true
 ---

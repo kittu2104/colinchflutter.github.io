@@ -3,7 +3,7 @@ layout: post
 title: "Creating a GIF maker app with Flutter camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, camera, imagepicker, appdevelopment]
+tags: [camera, imagepicker, appdevelopment]
 comments: true
 share: true
 ---

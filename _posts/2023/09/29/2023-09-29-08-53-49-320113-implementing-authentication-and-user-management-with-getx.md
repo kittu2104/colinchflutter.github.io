@@ -3,7 +3,7 @@ layout: post
 title: "Implementing authentication and user management with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, authentication, usermanagement]
+tags: [GetX, authentication, usermanagement]
 comments: true
 share: true
 ---

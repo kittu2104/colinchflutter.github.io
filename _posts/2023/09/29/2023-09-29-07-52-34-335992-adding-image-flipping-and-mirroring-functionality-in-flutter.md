@@ -3,7 +3,7 @@ layout: post
 title: "Adding image flipping and mirroring functionality in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageManipulation]
+tags: [imageManipulation]
 comments: true
 share: true
 ---

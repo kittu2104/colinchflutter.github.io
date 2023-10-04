@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image recognition for famous artwork and paintings in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imagerecognition, mlkit]
+tags: [imagerecognition, mlkit]
 comments: true
 share: true
 ---

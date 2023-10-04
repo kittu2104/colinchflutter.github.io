@@ -3,7 +3,7 @@ layout: post
 title: "Implementing keyboard shortcuts with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [Flutter, WebGL, KeyboardShortcuts]
+tags: [WebGL, KeyboardShortcuts]
 comments: true
 share: true
 ---

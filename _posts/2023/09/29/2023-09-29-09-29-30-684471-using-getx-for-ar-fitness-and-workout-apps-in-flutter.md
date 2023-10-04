@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for AR fitness and workout apps in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, ARfitness, workoutapp]
+tags: [GetX, ARfitness, workoutapp]
 comments: true
 share: true
 ---

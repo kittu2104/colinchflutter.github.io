@@ -3,7 +3,7 @@ layout: post
 title: "Adding text recognition capabilities to a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [flutter, textrecognition]
+tags: [textrecognition]
 comments: true
 share: true
 ---

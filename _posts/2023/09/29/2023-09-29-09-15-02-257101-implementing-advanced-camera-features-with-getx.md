@@ -3,7 +3,7 @@ layout: post
 title: "Implementing advanced camera features with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, camera]
+tags: [GetX, camera]
 comments: true
 share: true
 ---

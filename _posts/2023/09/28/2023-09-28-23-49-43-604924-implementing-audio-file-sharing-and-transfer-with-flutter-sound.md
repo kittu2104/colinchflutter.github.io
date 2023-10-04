@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio file sharing and transfer with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, flutter_sound, filesharing, filetransfer]
+tags: [audio, flutter_sound, filesharing, filetransfer]
 comments: true
 share: true
 ---

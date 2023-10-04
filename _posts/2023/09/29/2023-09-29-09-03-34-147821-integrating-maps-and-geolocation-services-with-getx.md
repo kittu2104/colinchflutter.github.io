@@ -3,7 +3,7 @@ layout: post
 title: "Integrating maps and geolocation services with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, maps, geolocation, getx]
+tags: [maps, geolocation, getx]
 comments: true
 share: true
 ---

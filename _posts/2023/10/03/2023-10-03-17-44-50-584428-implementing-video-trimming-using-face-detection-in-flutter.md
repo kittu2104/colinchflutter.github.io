@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming using face detection in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, face_detection]
+tags: [face_detection]
 comments: true
 share: true
 ---

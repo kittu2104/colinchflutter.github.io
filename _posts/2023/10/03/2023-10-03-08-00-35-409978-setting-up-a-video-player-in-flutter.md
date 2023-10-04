@@ -3,7 +3,7 @@ layout: post
 title: "Setting up a video player in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoplayer]
+tags: [videoplayer]
 comments: true
 share: true
 ---

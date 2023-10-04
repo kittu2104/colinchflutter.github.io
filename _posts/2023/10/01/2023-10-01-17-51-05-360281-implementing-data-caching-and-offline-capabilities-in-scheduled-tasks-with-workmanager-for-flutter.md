@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data caching and offline capabilities in scheduled tasks with WorkManager for Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager, DataCaching, OfflineCapabilities]
+tags: [WorkManager, DataCaching, OfflineCapabilities]
 comments: true
 share: true
 ---

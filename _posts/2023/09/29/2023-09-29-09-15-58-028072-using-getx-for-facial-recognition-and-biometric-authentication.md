@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for facial recognition and biometric authentication"
 description: " "
 date: 2023-09-29
-tags: [flutter, facialrecognition, biometricauthentication, GetX, Firebase]
+tags: [facialrecognition, biometricauthentication, GetX, Firebase]
 comments: true
 share: true
 ---

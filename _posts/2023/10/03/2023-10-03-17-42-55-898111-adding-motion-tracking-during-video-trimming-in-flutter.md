@@ -3,7 +3,7 @@ layout: post
 title: "Adding motion tracking during video trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, motiontracking]
+tags: [motiontracking]
 comments: true
 share: true
 ---

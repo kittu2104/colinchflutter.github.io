@@ -3,7 +3,7 @@ layout: post
 title: "Adding image metadata extraction and manipulation in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageMetadata, Exif]
+tags: [ImageMetadata, Exif]
 comments: true
 share: true
 ---

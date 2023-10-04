@@ -3,7 +3,7 @@ layout: post
 title: "Implementing web-based medical imaging and diagnostics tools with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, medtech]
+tags: [medtech]
 comments: true
 share: true
 ---

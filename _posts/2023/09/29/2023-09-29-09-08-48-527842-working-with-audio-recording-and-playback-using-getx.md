@@ -3,7 +3,7 @@ layout: post
 title: "Working with audio recording and playback using GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX]
+tags: [GetX]
 comments: true
 share: true
 ---

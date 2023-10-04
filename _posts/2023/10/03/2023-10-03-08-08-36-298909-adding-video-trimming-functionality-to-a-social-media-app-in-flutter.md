@@ -3,7 +3,7 @@ layout: post
 title: "Adding video trimming functionality to a social media app in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting, flutterffmpeg]
+tags: [videoediting, flutterffmpeg]
 comments: true
 share: true
 ---

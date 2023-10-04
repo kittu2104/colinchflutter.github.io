@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio ducking in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, ducking]
+tags: [audio, ducking]
 comments: true
 share: true
 ---

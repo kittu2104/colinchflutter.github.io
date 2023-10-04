@@ -3,7 +3,7 @@ layout: post
 title: "Implementing data synchronization and offline mode with GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, state_management, offline_mode, data_synchronization]
+tags: [GetX, state_management, offline_mode, data_synchronization]
 comments: true
 share: true
 ---

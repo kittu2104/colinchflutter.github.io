@@ -3,7 +3,7 @@ layout: post
 title: "How to retrieve the device's text style using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, flutterdevelopment]
+tags: [flutterdevelopment]
 comments: true
 share: true
 ---

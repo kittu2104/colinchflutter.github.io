@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with background music in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videomanipulation]
+tags: [videomanipulation]
 comments: true
 share: true
 ---

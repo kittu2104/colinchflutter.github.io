@@ -3,7 +3,7 @@ layout: post
 title: "How to access the window padding using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, mediquery]
+tags: [mediquery]
 comments: true
 share: true
 ---

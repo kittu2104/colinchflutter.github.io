@@ -3,7 +3,7 @@ layout: post
 title: "Creating interactive architectural visualizations with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, architecturalvisualizations]
+tags: [webgl, architecturalvisualizations]
 comments: true
 share: true
 ---

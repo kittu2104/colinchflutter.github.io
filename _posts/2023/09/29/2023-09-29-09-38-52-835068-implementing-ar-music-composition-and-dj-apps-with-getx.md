@@ -3,7 +3,7 @@ layout: post
 title: "Implementing AR music composition and DJ apps with GetX"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, MusicComposition]
+tags: [GetX, MusicComposition]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Working with AR navigation and wayfinding using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, navigation, wayfinding, GetX]
+tags: [navigation, wayfinding, GetX]
 comments: true
 share: true
 ---

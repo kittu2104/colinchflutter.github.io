@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio metadata extraction with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, metadata, FlutterSound]
+tags: [audio, metadata, FlutterSound]
 comments: true
 share: true
 ---

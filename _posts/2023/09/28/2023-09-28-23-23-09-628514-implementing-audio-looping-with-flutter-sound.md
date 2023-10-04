@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio looping with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [FlutterSound, AudioLooping, Flutter]
+tags: [FlutterSound, AudioLooping]
 comments: true
 share: true
 ---

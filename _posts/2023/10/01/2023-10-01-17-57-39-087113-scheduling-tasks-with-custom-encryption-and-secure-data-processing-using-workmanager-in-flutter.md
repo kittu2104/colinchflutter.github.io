@@ -3,7 +3,7 @@ layout: post
 title: "Scheduling tasks with custom encryption and secure data processing using WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, workmanager, encryption, datasecurity]
+tags: [workmanager, encryption, datasecurity]
 comments: true
 share: true
 ---

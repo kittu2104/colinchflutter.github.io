@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recognition and translation with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [Flutter, FlutterSound, AudioRecognition, AudioTranslation]
+tags: [FlutterSound, AudioRecognition, AudioTranslation]
 comments: true
 share: true
 ---

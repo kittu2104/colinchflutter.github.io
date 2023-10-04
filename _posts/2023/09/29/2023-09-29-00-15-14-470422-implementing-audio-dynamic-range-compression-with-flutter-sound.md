@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio dynamic range compression with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, compression, flutterSound]
+tags: [audio, compression, flutterSound]
 comments: true
 share: true
 ---

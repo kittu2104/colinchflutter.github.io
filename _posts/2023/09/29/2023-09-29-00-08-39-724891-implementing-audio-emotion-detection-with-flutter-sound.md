@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio emotion detection with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audiodetection, emotionalgorithms]
+tags: [audiodetection, emotionalgorithms]
 comments: true
 share: true
 ---

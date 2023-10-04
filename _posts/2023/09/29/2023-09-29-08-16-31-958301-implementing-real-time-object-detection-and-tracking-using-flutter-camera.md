@@ -3,7 +3,7 @@ layout: post
 title: "Implementing real-time object detection and tracking using Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ObjectDetection, RealTimeTracking]
+tags: [ObjectDetection, RealTimeTracking]
 comments: true
 share: true
 ---

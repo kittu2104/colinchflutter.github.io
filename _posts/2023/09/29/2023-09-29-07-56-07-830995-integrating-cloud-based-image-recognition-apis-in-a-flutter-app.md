@@ -3,7 +3,7 @@ layout: post
 title: "Integrating cloud-based image recognition APIs in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageRecognition]
+tags: [ImageRecognition]
 comments: true
 share: true
 ---

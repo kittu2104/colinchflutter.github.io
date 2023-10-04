@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio pitch correction with Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, pitch]
+tags: [audio, pitch]
 comments: true
 share: true
 ---

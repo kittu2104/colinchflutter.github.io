@@ -3,7 +3,7 @@ layout: post
 title: "MediaQuery disableAnimations in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, Animations]
+tags: [Animations]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "How to handle secure file uploads with the http package in Flutter?"
 description: " "
 date: 2023-09-27
-tags: [Flutter, FileUpload]
+tags: [FileUpload]
 comments: true
 share: true
 ---

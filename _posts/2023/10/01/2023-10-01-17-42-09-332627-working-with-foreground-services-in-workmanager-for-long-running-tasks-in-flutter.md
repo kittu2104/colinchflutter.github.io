@@ -3,7 +3,7 @@ layout: post
 title: "Working with foreground services in WorkManager for long-running tasks in Flutter"
 description: " "
 date: 2023-10-01
-tags: [Flutter, WorkManager, ForegroundServices]
+tags: [WorkManager, ForegroundServices]
 comments: true
 share: true
 ---

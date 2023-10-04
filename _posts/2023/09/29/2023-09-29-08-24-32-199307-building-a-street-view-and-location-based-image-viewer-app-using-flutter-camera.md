@@ -3,7 +3,7 @@ layout: post
 title: "Building a street view and location-based image viewer app using Flutter camera"
 description: " "
 date: 2023-09-29
-tags: [flutter, camera]
+tags: [camera]
 comments: true
 share: true
 ---

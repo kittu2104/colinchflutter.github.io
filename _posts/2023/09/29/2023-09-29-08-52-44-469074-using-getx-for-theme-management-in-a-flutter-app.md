@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for theme management in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, theme]
+tags: [GetX, theme]
 comments: true
 share: true
 ---

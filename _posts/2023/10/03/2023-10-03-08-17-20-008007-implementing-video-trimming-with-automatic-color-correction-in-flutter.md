@@ -3,7 +3,7 @@ layout: post
 title: "Implementing video trimming with automatic color correction in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, video, trimming, colorcorrection]
+tags: [video, trimming, colorcorrection]
 comments: true
 share: true
 ---

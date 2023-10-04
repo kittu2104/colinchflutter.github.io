@@ -3,7 +3,7 @@ layout: post
 title: "Creating responsive navigation menus with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webdevelopment]
+tags: [webdevelopment]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Converting JSON to YAML in Flutter using serialization"
 description: " "
 date: 2023-09-27
-tags: [Flutter, JSONtoYAML]
+tags: [JSONtoYAML]
 comments: true
 share: true
 ---

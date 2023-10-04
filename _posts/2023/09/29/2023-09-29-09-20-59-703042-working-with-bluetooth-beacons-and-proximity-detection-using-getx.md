@@ -3,7 +3,7 @@ layout: post
 title: "Working with Bluetooth beacons and proximity detection using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, BluetoothBeacons, ProximityDetection]
+tags: [GetX, BluetoothBeacons, ProximityDetection]
 comments: true
 share: true
 ---

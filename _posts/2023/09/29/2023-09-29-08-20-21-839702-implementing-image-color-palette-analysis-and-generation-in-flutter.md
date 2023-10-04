@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image color palette analysis and generation in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ColorPalette, ImageAnalysis, UIUX]
+tags: [ColorPalette, ImageAnalysis, UIUX]
 comments: true
 share: true
 ---

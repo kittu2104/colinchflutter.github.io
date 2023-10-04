@@ -3,7 +3,7 @@ layout: post
 title: "Converting JSON to protocol buffers in Flutter using serialization"
 description: " "
 date: 2023-09-27
-tags: [Flutter, ProtocolBuffers]
+tags: [ProtocolBuffers]
 comments: true
 share: true
 ---

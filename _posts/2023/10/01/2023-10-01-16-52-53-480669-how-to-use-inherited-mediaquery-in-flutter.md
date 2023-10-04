@@ -3,7 +3,7 @@ layout: post
 title: "How to use inherited MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [flutter, inheritedwidget]
+tags: [inheritedwidget]
 comments: true
 share: true
 ---

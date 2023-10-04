@@ -3,7 +3,7 @@ layout: post
 title: "Working with AR storytelling and virtual tours using GetX"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, ARStorytelling, VirtualTours]
+tags: [GetX, ARStorytelling, VirtualTours]
 comments: true
 share: true
 ---

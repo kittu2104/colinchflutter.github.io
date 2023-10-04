@@ -3,7 +3,7 @@ layout: post
 title: "useFormState hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, flutterhooks]
+tags: [flutterhooks]
 comments: true
 share: true
 ---

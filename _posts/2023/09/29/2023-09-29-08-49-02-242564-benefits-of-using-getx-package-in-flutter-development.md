@@ -3,7 +3,7 @@ layout: post
 title: "Benefits of using GetX package in Flutter development"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, FlutterDevelopment]
+tags: [GetX, FlutterDevelopment]
 comments: true
 share: true
 ---

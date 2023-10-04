@@ -3,7 +3,7 @@ layout: post
 title: "Adding image editing functionality in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageEditing, mobileDevelopment]
+tags: [imageEditing, mobileDevelopment]
 comments: true
 share: true
 ---

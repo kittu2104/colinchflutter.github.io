@@ -3,7 +3,7 @@ layout: post
 title: "Applying image filters and effects in Flutter"
 description: " "
 date: 2023-09-29
-tags: [Flutter, ImageFilters, FlutterDevelopment]
+tags: [ImageFilters, FlutterDevelopment]
 comments: true
 share: true
 ---

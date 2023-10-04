@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spatialization with sound field synthesis in Flutter Sound"
 description: " "
 date: 2023-09-29
-tags: [flutter, audio, spatialization, soundfieldsynthesis]
+tags: [audio, spatialization, soundfieldsynthesis]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming feature for live photos in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, livephoto, videotrimming, flutterdevelopment]
+tags: [livephoto, videotrimming, flutterdevelopment]
 comments: true
 share: true
 ---

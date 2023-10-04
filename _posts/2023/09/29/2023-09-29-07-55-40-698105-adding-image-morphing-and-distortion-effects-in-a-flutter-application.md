@@ -3,7 +3,7 @@ layout: post
 title: "Adding image morphing and distortion effects in a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageeffects]
+tags: [imageeffects]
 comments: true
 share: true
 ---

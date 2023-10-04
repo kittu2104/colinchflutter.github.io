@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a video preview popup during trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoTrimming, popup]
+tags: [videoTrimming, popup]
 comments: true
 share: true
 ---

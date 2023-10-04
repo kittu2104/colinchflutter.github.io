@@ -3,7 +3,7 @@ layout: post
 title: "Implementing frame-by-frame video trimming in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videoediting]
+tags: [videoediting]
 comments: true
 share: true
 ---

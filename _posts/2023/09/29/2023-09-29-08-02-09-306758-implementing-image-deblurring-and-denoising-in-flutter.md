@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image deblurring and denoising in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageprocessing]
+tags: [imageprocessing]
 comments: true
 share: true
 ---

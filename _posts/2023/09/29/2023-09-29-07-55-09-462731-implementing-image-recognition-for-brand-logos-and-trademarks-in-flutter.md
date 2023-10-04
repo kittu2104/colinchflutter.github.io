@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image recognition for brand logos and trademarks in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, image]
+tags: [image]
 comments: true
 share: true
 ---

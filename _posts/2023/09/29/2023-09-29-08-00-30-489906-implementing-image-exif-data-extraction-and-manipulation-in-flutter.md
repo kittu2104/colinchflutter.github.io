@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image EXIF data extraction and manipulation in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, EXIFdata, imageProcessing]
+tags: [EXIFdata, imageProcessing]
 comments: true
 share: true
 ---

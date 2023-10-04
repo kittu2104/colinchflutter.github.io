@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX for gesture recognition and touch events in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, GetX, gesture, touch]
+tags: [GetX, gesture, touch]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Creating a collage maker app with Flutter camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, collagemaker, camera, imagepicking]
+tags: [collagemaker, camera, imagepicking]
 comments: true
 share: true
 ---

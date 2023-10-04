@@ -3,7 +3,7 @@ layout: post
 title: "Implementing charts and graphs with GetX in Flutter"
 description: " "
 date: 2023-09-29
-tags: [flutter, charts]
+tags: [charts]
 comments: true
 share: true
 ---

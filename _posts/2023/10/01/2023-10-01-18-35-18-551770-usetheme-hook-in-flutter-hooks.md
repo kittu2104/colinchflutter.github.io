@@ -3,7 +3,7 @@ layout: post
 title: "useTheme hook in Flutter Hooks"
 description: " "
 date: 2023-10-01
-tags: [flutter, flutterhooks_]
+tags: [flutterhooks_]
 comments: true
 share: true
 ---

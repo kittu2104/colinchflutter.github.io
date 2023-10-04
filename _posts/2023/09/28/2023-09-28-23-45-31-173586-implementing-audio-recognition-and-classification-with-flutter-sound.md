@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio recognition and classification with Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, classification]
+tags: [audio, classification]
 comments: true
 share: true
 ---

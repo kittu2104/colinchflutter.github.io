@@ -3,7 +3,7 @@ layout: post
 title: "Creating a video trimming tutorial in Flutter"
 description: " "
 date: 2023-10-03
-tags: [flutter, videotrimming]
+tags: [videotrimming]
 comments: true
 share: true
 ---

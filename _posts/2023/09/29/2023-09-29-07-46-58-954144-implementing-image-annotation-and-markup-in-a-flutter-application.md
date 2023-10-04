@@ -3,7 +3,7 @@ layout: post
 title: "Implementing image annotation and markup in a Flutter application"
 description: " "
 date: 2023-09-29
-tags: [flutter, imageannotation, markup]
+tags: [imageannotation, markup]
 comments: true
 share: true
 ---

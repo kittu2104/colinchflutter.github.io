@@ -3,7 +3,7 @@ layout: post
 title: "How to retrieve padding set behavior using MediaQuery in Flutter?"
 description: " "
 date: 2023-10-01
-tags: [Flutter, MediaQuery, ResponsiveUI]
+tags: [MediaQuery, ResponsiveUI]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing lazy loading with Flutter WebGL on Flutter Web"
 description: " "
 date: 2023-10-02
-tags: [flutter, webgl, lazyloading]
+tags: [webgl, lazyloading]
 comments: true
 share: true
 ---

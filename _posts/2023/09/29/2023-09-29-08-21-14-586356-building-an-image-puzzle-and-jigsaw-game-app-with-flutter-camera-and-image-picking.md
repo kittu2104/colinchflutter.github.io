@@ -3,7 +3,7 @@ layout: post
 title: "Building an image puzzle and jigsaw game app with Flutter camera and image picking"
 description: " "
 date: 2023-09-29
-tags: [flutter, FlutterDev]
+tags: [FlutterDev]
 comments: true
 share: true
 ---

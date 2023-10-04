@@ -3,7 +3,7 @@ layout: post
 title: "Implementing timeouts and cancellation policies for scheduled tasks with WorkManager in Flutter"
 description: " "
 date: 2023-10-01
-tags: [flutter, WorkManager, backgroundprocessing]
+tags: [WorkManager, backgroundprocessing]
 comments: true
 share: true
 ---

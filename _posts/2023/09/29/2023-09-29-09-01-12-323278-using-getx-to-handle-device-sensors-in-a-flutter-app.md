@@ -3,7 +3,7 @@ layout: post
 title: "Using GetX to handle device sensors in a Flutter app"
 description: " "
 date: 2023-09-29
-tags: [Flutter, GetX, DeviceSensors, FlutterDevelopment]
+tags: [GetX, DeviceSensors, FlutterDevelopment]
 comments: true
 share: true
 ---

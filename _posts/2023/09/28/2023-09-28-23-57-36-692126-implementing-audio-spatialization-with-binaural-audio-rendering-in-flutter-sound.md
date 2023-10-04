@@ -3,7 +3,7 @@ layout: post
 title: "Implementing audio spatialization with binaural audio rendering in Flutter Sound"
 description: " "
 date: 2023-09-28
-tags: [flutter, audio, spatialization, binauralaudio]
+tags: [audio, spatialization, binauralaudio]
 comments: true
 share: true
 ---
