@@ -3,7 +3,7 @@ layout: post
 title: "Creating a kaleidoscope drawing app in Flutter"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setting]
+tags: [setting]
 comments: true
 share: true
 ---

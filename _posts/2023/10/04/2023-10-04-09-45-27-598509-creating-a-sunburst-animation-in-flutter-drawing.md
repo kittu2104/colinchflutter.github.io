@@ -3,7 +3,7 @@ layout: post
 title: "Creating a sunburst animation in Flutter drawing"
 description: " "
 date: 2023-10-04
-tags: [introduction), setting]
+tags: [setting]
 comments: true
 share: true
 ---

@@ -3,7 +3,7 @@ layout: post
 title: "Implementing freehand drawing in Flutter"
 description: " "
 date: 2023-10-04
-tags: [introduction), prerequisites)]
+tags: [prerequisites)]
 comments: true
 share: true
 ---

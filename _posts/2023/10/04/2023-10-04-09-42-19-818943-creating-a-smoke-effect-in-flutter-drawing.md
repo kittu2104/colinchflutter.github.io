@@ -3,7 +3,7 @@ layout: post
 title: "Creating a smoke effect in Flutter drawing"
 description: " "
 date: 2023-10-04
-tags: [introduction), drawing]
+tags: [drawing]
 comments: true
 share: true
 ---

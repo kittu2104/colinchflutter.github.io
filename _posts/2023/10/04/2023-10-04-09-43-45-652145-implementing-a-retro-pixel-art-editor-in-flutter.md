@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a retro pixel art editor in Flutter"
 description: " "
 date: 2023-10-04
-tags: [introduction), setting]
+tags: [setting]
 comments: true
 share: true
 ---

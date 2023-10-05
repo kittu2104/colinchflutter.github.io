@@ -3,7 +3,7 @@ layout: post
 title: "Animating drawings in Flutter"
 description: " "
 date: 2023-10-04
-tags: [introduction), drawing]
+tags: [drawing]
 comments: true
 share: true
 ---

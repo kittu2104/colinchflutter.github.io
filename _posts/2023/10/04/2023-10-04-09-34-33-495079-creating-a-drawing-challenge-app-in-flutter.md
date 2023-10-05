@@ -3,7 +3,7 @@ layout: post
 title: "Creating a drawing challenge app in Flutter"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), setup)]
+tags: [setup)]
 comments: true
 share: true
 ---

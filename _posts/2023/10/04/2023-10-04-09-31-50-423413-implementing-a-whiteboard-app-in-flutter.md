@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a whiteboard app in Flutter"
 description: " "
 date: 2023-10-04
-tags: [introduction), setting]
+tags: [setting]
 comments: true
 share: true
 ---

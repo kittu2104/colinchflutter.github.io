@@ -3,7 +3,7 @@ layout: post
 title: "Implementing a drawing editor with layers in Flutter"
 description: " "
 date: 2023-10-04
-tags: [introduction), adding]
+tags: [adding]
 comments: true
 share: true
 ---

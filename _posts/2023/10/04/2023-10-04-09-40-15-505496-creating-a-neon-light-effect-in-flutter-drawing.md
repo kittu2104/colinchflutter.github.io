@@ -3,7 +3,7 @@ layout: post
 title: "Creating a neon light effect in Flutter drawing"
 description: " "
 date: 2023-10-04
-tags: [setup), custom]
+tags: [ custom]
 comments: true
 share: true
 ---

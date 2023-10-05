@@ -3,7 +3,7 @@ layout: post
 title: "Drawing a portrait in Flutter Canvas"
 description: " "
 date: 2023-10-04
-tags: [prerequisites), getting]
+tags: [getting]
 comments: true
 share: true
 ---

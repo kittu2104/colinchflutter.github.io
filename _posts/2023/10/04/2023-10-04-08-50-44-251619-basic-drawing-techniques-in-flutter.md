@@ -3,7 +3,7 @@ layout: post
 title: "Basic drawing techniques in Flutter"
 description: " "
 date: 2023-10-04
-tags: [introduction), drawing]
+tags: [drawing]
 comments: true
 share: true
 ---
